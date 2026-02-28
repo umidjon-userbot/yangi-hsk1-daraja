@@ -1,0 +1,1716 @@
+{
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "lesson_title": "AI小语，你好！",
+      "new_words": [
+        {
+          "word": "你好",
+          "pinyin": "nǐ hǎo",
+          "meaning": "salom"
+        },
+        {
+          "word": "您",
+          "pinyin": "nín",
+          "meaning": "siz (hurmat formasi)"
+        },
+        {
+          "word": "谢谢",
+          "pinyin": "xièxie",
+          "meaning": "rahmat"
+        },
+        {
+          "word": "不客气",
+          "pinyin": "bú kèqi",
+          "meaning": "arzimaydi"
+        },
+        {
+          "word": "再见",
+          "pinyin": "zàijiàn",
+          "meaning": "xayr"
+        },
+        {
+          "word": "老师",
+          "pinyin": "lǎoshī",
+          "meaning": "o'qituvchi"
+        },
+        {
+          "word": "同学",
+          "pinyin": "tóngxué",
+          "meaning": "sinfdosh"
+        },
+        {
+          "word": "学生",
+          "pinyin": "xuésheng",
+          "meaning": "talaba"
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "王老师",
+          "pinyin": "Wáng lǎoshī",
+          "meaning": "Vang o'qituvchi"
+        }
+      ]
+    },
+    {
+      "lesson_number": 2,
+      "lesson_title": "我叫李文",
+      "new_words": [
+        {
+          "word": "请问",
+          "pinyin": "qǐngwèn",
+          "meaning": "kechirasiz, so'ramoqchiman"
+        },
+        {
+          "word": "你",
+          "pinyin": "nǐ",
+          "meaning": "sen"
+        },
+        {
+          "word": "叫",
+          "pinyin": "jiào",
+          "meaning": "ism, nomlanmoq"
+        },
+        {
+          "word": "什么",
+          "pinyin": "shénme",
+          "meaning": "nima"
+        },
+        {
+          "word": "名字",
+          "pinyin": "míngzi",
+          "meaning": "ism"
+        },
+        {
+          "word": "我",
+          "pinyin": "wǒ",
+          "meaning": "men"
+        },
+        {
+          "word": "对不起",
+          "pinyin": "duìbuqǐ",
+          "meaning": "kechirasiz"
+        },
+        {
+          "word": "没关系",
+          "pinyin": "méi guānxi",
+          "meaning": "hechqisi yo'q"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "meaning": "juda"
+        },
+        {
+          "word": "高兴",
+          "pinyin": "gāoxìng",
+          "meaning": "xursand"
+        },
+        {
+          "word": "认识",
+          "pinyin": "rènshi",
+          "meaning": "tanimoq, tanishmoq"
+        },
+        {
+          "word": "也",
+          "pinyin": "yě",
+          "meaning": "ham"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 3,
+      "lesson_title": "我是中国人",
+      "new_words": [
+        {
+          "word": "人",
+          "pinyin": "rén",
+          "meaning": "odam, inson"
+        },
+        {
+          "word": "的",
+          "pinyin": "de",
+          "meaning": "ega, aniqlovchi"
+        },
+        {
+          "word": "这",
+          "pinyin": "zhè",
+          "meaning": "bu"
+        },
+        {
+          "word": "谁",
+          "pinyin": "shéi/shuí",
+          "meaning": "kim"
+        },
+        {
+          "word": "女朋友",
+          "pinyin": "nǚpéngyou",
+          "meaning": "qiz do'st"
+        },
+        {
+          "word": "哪",
+          "pinyin": "nǎ",
+          "meaning": "qaysi"
+        },
+        {
+          "word": "国",
+          "pinyin": "guó",
+          "meaning": "davlat"
+        },
+        {
+          "word": "她",
+          "pinyin": "tā",
+          "meaning": "u (ayol)"
+        },
+        {
+          "word": "很",
+          "pinyin": "hěn",
+          "meaning": "juda"
+        },
+        {
+          "word": "忙",
+          "pinyin": "máng",
+          "meaning": "band"
+        },
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "meaning": "o'ylamoq, xohlamoq"
+        },
+        {
+          "word": "太",
+          "pinyin": "tài",
+          "meaning": "juda, haddan tashqari"
+        },
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "meaning": "to'g'ri, ha"
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "Xitoy"
+        },
+        {
+          "word": "法国",
+          "pinyin": "Fǎguó",
+          "meaning": "Fransiya"
+        },
+        {
+          "word": "中文",
+          "pinyin": "Zhōngwén",
+          "meaning": "Xitoy tili"
+        },
+        {
+          "word": "泰国",
+          "pinyin": "Tàiguó",
+          "meaning": "Tailand"
+        }
+      ]
+    },
+    {
+      "lesson_number": 4,
+      "lesson_title": "我有两个孩子",
+      "new_words": [
+        {
+          "word": "爸爸",
+          "pinyin": "bàba",
+          "meaning": "ota"
+        },
+        {
+          "word": "妈妈",
+          "pinyin": "māma",
+          "meaning": "ona"
+        },
+        {
+          "word": "哥哥",
+          "pinyin": "gēge",
+          "meaning": "aka"
+        },
+        {
+          "word": "姐姐",
+          "pinyin": "jiějie",
+          "meaning": "opa"
+        },
+        {
+          "word": "弟弟",
+          "pinyin": "dìdi",
+          "meaning": "uka"
+        },
+        {
+          "word": "妹妹",
+          "pinyin": "mèimei",
+          "meaning": "singil"
+        },
+        {
+          "word": "孩子",
+          "pinyin": "háizi",
+          "meaning": "bola"
+        },
+        {
+          "word": "儿子",
+          "pinyin": "érzi",
+          "meaning": "o'g'il"
+        },
+        {
+          "word": "女儿",
+          "pinyin": "nǚ'ér",
+          "meaning": "qiz"
+        },
+        {
+          "word": "有",
+          "pinyin": "yǒu",
+          "meaning": "bor, ega bo'lmoq"
+        },
+        {
+          "word": "没",
+          "pinyin": "méi",
+          "meaning": "yo'q"
+        },
+        {
+          "word": "没有",
+          "pinyin": "méiyǒu",
+          "meaning": "yo'q"
+        },
+        {
+          "word": "两",
+          "pinyin": "liǎng",
+          "meaning": "ikki"
+        },
+        {
+          "word": "口",
+          "pinyin": "kǒu",
+          "meaning": "hisob so'z (oiladagi odamlar uchun)"
+        },
+        {
+          "word": "个",
+          "pinyin": "gè",
+          "meaning": "hisob so'z (umumiy)"
+        },
+        {
+          "word": "今年",
+          "pinyin": "jīnnián",
+          "meaning": "bu yil"
+        },
+        {
+          "word": "岁",
+          "pinyin": "suì",
+          "meaning": "yosh"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "meaning": "qancha, necha"
+        },
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "meaning": "katta, yosh (kattalar uchun)"
+        },
+        {
+          "word": "几",
+          "pinyin": "jǐ",
+          "meaning": "necha (savol)"
+        },
+        {
+          "word": "二",
+          "pinyin": "èr",
+          "meaning": "ikki (raqam)"
+        },
+        {
+          "word": "三",
+          "pinyin": "sān",
+          "meaning": "uch"
+        },
+        {
+          "word": "四",
+          "pinyin": "sì",
+          "meaning": "to'rt"
+        },
+        {
+          "word": "五",
+          "pinyin": "wǔ",
+          "meaning": "besh"
+        },
+        {
+          "word": "六",
+          "pinyin": "liù",
+          "meaning": "olti"
+        },
+        {
+          "word": "七",
+          "pinyin": "qī",
+          "meaning": "yetti"
+        },
+        {
+          "word": "八",
+          "pinyin": "bā",
+          "meaning": "sakkiz"
+        },
+        {
+          "word": "九",
+          "pinyin": "jiǔ",
+          "meaning": "to'qqiz"
+        },
+        {
+          "word": "十",
+          "pinyin": "shí",
+          "meaning": "o'n"
+        },
+        {
+          "word": "零",
+          "pinyin": "líng",
+          "meaning": "nol"
+        },
+        {
+          "word": "百",
+          "pinyin": "bǎi",
+          "meaning": "yuz"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 5,
+      "lesson_title": "今天我休息",
+      "new_words": [
+        {
+          "word": "今天",
+          "pinyin": "jīntiān",
+          "meaning": "bugun"
+        },
+        {
+          "word": "号",
+          "pinyin": "hào",
+          "meaning": "sana, kun"
+        },
+        {
+          "word": "月",
+          "pinyin": "yuè",
+          "meaning": "oy"
+        },
+        {
+          "word": "日",
+          "pinyin": "rì",
+          "meaning": "kun (sana)"
+        },
+        {
+          "word": "星期",
+          "pinyin": "xīngqī",
+          "meaning": "hafta"
+        },
+        {
+          "word": "星期日",
+          "pinyin": "Xīngqírì",
+          "meaning": "yakshanba"
+        },
+        {
+          "word": "星期天",
+          "pinyin": "Xīngqítiān",
+          "meaning": "yakshanba"
+        },
+        {
+          "word": "休息",
+          "pinyin": "xiūxi",
+          "meaning": "dam olmoq"
+        },
+        {
+          "word": "会",
+          "pinyin": "huì",
+          "meaning": "bilmoq, qila olmoq"
+        },
+        {
+          "word": "做饭",
+          "pinyin": "zuòfàn",
+          "meaning": "ovqat pishirmoq"
+        },
+        {
+          "word": "做",
+          "pinyin": "zuò",
+          "meaning": "qilmoq, yasamoq"
+        },
+        {
+          "word": "面条儿",
+          "pinyin": "miàntiáor",
+          "meaning": "lag'mon"
+        },
+        {
+          "word": "饺子",
+          "pinyin": "jiǎozi",
+          "meaning": "manti"
+        },
+        {
+          "word": "一些",
+          "pinyin": "yīxiē",
+          "meaning": "bir qancha"
+        },
+        {
+          "word": "菜",
+          "pinyin": "cài",
+          "meaning": "ovqat, taom"
+        },
+        {
+          "word": "下班",
+          "pinyin": "xiàbān",
+          "meaning": "ishdan chiqmoq"
+        },
+        {
+          "word": "新",
+          "pinyin": "xīn",
+          "meaning": "yangi"
+        },
+        {
+          "word": "电脑",
+          "pinyin": "diànnǎo",
+          "meaning": "kompyuter"
+        },
+        {
+          "word": "真",
+          "pinyin": "zhēn",
+          "meaning": "haqiqatan, juda"
+        },
+        {
+          "word": "好看",
+          "pinyin": "hǎokàn",
+          "meaning": "chiroyli, yoqimli"
+        },
+        {
+          "word": "喜欢",
+          "pinyin": "xǐhuān",
+          "meaning": "yoqtirmoq"
+        },
+        {
+          "word": "它",
+          "pinyin": "tā",
+          "meaning": "u (narsa)"
+        },
+        {
+          "word": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "ish"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 6,
+      "lesson_title": "你的手机号是多少？",
+      "new_words": [
+        {
+          "word": "手机",
+          "pinyin": "shǒujī",
+          "meaning": "mobil telefon"
+        },
+        {
+          "word": "多少",
+          "pinyin": "duōshǎo",
+          "meaning": "qancha, necha"
+        },
+        {
+          "word": "明天",
+          "pinyin": "míngtiān",
+          "meaning": "ertaga"
+        },
+        {
+          "word": "去",
+          "pinyin": "qù",
+          "meaning": "bormoq"
+        },
+        {
+          "word": "哪儿",
+          "pinyin": "nǎr",
+          "meaning": "qayer"
+        },
+        {
+          "word": "想",
+          "pinyin": "xiǎng",
+          "meaning": "xohlamoq"
+        },
+        {
+          "word": "超市",
+          "pinyin": "chāoshì",
+          "meaning": "supermarket"
+        },
+        {
+          "word": "买",
+          "pinyin": "mǎi",
+          "meaning": "sotib olmoq"
+        },
+        {
+          "word": "东西",
+          "pinyin": "dōngxi",
+          "meaning": "narsa"
+        },
+        {
+          "word": "些",
+          "pinyin": "xiē",
+          "meaning": "bir qancha"
+        },
+        {
+          "word": "牛奶",
+          "pinyin": "niúnǎi",
+          "meaning": "sut"
+        },
+        {
+          "word": "吃",
+          "pinyin": "chī",
+          "meaning": "yemoq"
+        },
+        {
+          "word": "晚饭",
+          "pinyin": "wǎnfàn",
+          "meaning": "kechki ovqat"
+        },
+        {
+          "word": "那边",
+          "pinyin": "nàbiān",
+          "meaning": "u yoq"
+        },
+        {
+          "word": "包子",
+          "pinyin": "bāozi",
+          "meaning": "manti, qo'va"
+        },
+        {
+          "word": "非常",
+          "pinyin": "fēicháng",
+          "meaning": "juda, nihoyatda"
+        },
+        {
+          "word": "好吃",
+          "pinyin": "hǎochī",
+          "meaning": "mazali"
+        },
+        {
+          "word": "米饭",
+          "pinyin": "mǐfàn",
+          "meaning": "guruch"
+        },
+        {
+          "word": "怎么",
+          "pinyin": "zěnme",
+          "meaning": "qanday, qanaqa"
+        },
+        {
+          "word": "坐",
+          "pinyin": "zuò",
+          "meaning": "o'tirmoq, minmoq"
+        },
+        {
+          "word": "出租车",
+          "pinyin": "chūzūchē",
+          "meaning": "taksi"
+        },
+        {
+          "word": "喂",
+          "pinyin": "wèi",
+          "meaning": "allo"
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "西安饭店",
+          "pinyin": "Xī'ān Fàndiàn",
+          "meaning": "Sian restorani"
+        }
+      ]
+    },
+    {
+      "lesson_number": 7,
+      "lesson_title": "我晚上六点半下班",
+      "new_words": [
+        {
+          "word": "现在",
+          "pinyin": "xiànzài",
+          "meaning": "hozir"
+        },
+        {
+          "word": "点",
+          "pinyin": "diǎn",
+          "meaning": "soat"
+        },
+        {
+          "word": "早上",
+          "pinyin": "zǎoshang",
+          "meaning": "erta tong"
+        },
+        {
+          "word": "上午",
+          "pinyin": "shàngwǔ",
+          "meaning": "tushgacha"
+        },
+        {
+          "word": "分",
+          "pinyin": "fēn",
+          "meaning": "minut"
+        },
+        {
+          "word": "课",
+          "pinyin": "kè",
+          "meaning": "dars"
+        },
+        {
+          "word": "下午",
+          "pinyin": "xiàwǔ",
+          "meaning": "tushdan keyin"
+        },
+        {
+          "word": "见",
+          "pinyin": "jiàn",
+          "meaning": "ko'rmoq, uchrashmoq"
+        },
+        {
+          "word": "吧",
+          "pinyin": "ba",
+          "meaning": "-chi (taklif)"
+        },
+        {
+          "word": "电影院",
+          "pinyin": "diànyǐngyuàn",
+          "meaning": "kino teatr"
+        },
+        {
+          "word": "看",
+          "pinyin": "kàn",
+          "meaning": "ko'rmoq"
+        },
+        {
+          "word": "电影",
+          "pinyin": "diànyǐng",
+          "meaning": "kino, film"
+        },
+        {
+          "word": "事",
+          "pinyin": "shì",
+          "meaning": "ish, narsa"
+        },
+        {
+          "word": "上课",
+          "pinyin": "shàngkè",
+          "meaning": "darsga bormoq"
+        },
+        {
+          "word": "呢",
+          "pinyin": "ne",
+          "meaning": "-chi (so'roq)"
+        },
+        {
+          "word": "半",
+          "pinyin": "bàn",
+          "meaning": "yarim"
+        },
+        {
+          "word": "下课",
+          "pinyin": "xiàkè",
+          "meaning": "darsdan chiqmoq"
+        },
+        {
+          "word": "在",
+          "pinyin": "zài",
+          "meaning": "...da bo'lmoq"
+        },
+        {
+          "word": "家",
+          "pinyin": "jiā",
+          "meaning": "uy"
+        },
+        {
+          "word": "里",
+          "pinyin": "lǐ/lǐ",
+          "meaning": "ichida"
+        },
+        {
+          "word": "晚上",
+          "pinyin": "wǎnshang",
+          "meaning": "kechqurun"
+        },
+        {
+          "word": "医院",
+          "pinyin": "yīyuàn",
+          "meaning": "kasalxona"
+        },
+        {
+          "word": "上班",
+          "pinyin": "shàngbān",
+          "meaning": "ishga bormoq"
+        },
+        {
+          "word": "店",
+          "pinyin": "diàn",
+          "meaning": "do'kon"
+        },
+        {
+          "word": "菜",
+          "pinyin": "cài",
+          "meaning": "sabzavot, ko'kat"
+        },
+        {
+          "word": "分钟",
+          "pinyin": "fēnzhōng",
+          "meaning": "minut"
+        },
+        {
+          "word": "后",
+          "pinyin": "hòu",
+          "meaning": "keyin"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 8,
+      "lesson_title": "我爸爸也在医院工作",
+      "new_words": [
+        {
+          "word": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "ishlamoq"
+        },
+        {
+          "word": "猫",
+          "pinyin": "māo",
+          "meaning": "mushuk"
+        },
+        {
+          "word": "只",
+          "pinyin": "zhī",
+          "meaning": "hisob so'z (hayvonlar uchun)"
+        },
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "meaning": "ustida"
+        },
+        {
+          "word": "桌子",
+          "pinyin": "zhuōzi",
+          "meaning": "stol"
+        },
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "meaning": "ostida"
+        },
+        {
+          "word": "房间",
+          "pinyin": "fángjiān",
+          "meaning": "xona"
+        },
+        {
+          "word": "外",
+          "pinyin": "wài",
+          "meaning": "tashqari"
+        },
+        {
+          "word": "前",
+          "pinyin": "qián",
+          "meaning": "oldida"
+        },
+        {
+          "word": "后",
+          "pinyin": "hòu",
+          "meaning": "orqasida"
+        },
+        {
+          "word": "里边",
+          "pinyin": "lǐbiān",
+          "meaning": "ichida"
+        },
+        {
+          "word": "外边",
+          "pinyin": "wàibiān",
+          "meaning": "tashqarida"
+        },
+        {
+          "word": "书店",
+          "pinyin": "shūdiàn",
+          "meaning": "kitob do'koni"
+        },
+        {
+          "word": "到",
+          "pinyin": "dào",
+          "meaning": "yetib kelmoq"
+        },
+        {
+          "word": "能",
+          "pinyin": "néng",
+          "meaning": "qila olmoq"
+        },
+        {
+          "word": "医生",
+          "pinyin": "yīshēng",
+          "meaning": "shifokor"
+        },
+        {
+          "word": "大",
+          "pinyin": "dà",
+          "meaning": "katta"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "meaning": "ko'p"
+        },
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "meaning": "oz"
+        },
+        {
+          "word": "病人",
+          "pinyin": "bìngrén",
+          "meaning": "bemor"
+        },
+        {
+          "word": "看",
+          "pinyin": "kàn",
+          "meaning": "qaramoq"
+        },
+        {
+          "word": "看见",
+          "pinyin": "kànjiàn",
+          "meaning": "ko'rmoq"
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "胡医生",
+          "pinyin": "Hú yīshēng",
+          "meaning": "Xu shifokor"
+        }
+      ]
+    },
+    {
+      "lesson_number": 9,
+      "lesson_title": "我明天上午在学校学习",
+      "new_words": [
+        {
+          "word": "前边",
+          "pinyin": "qiánbian",
+          "meaning": "oldida"
+        },
+        {
+          "word": "本",
+          "pinyin": "běn",
+          "meaning": "hisob so'z (kitoblar uchun)"
+        },
+        {
+          "word": "书",
+          "pinyin": "shū",
+          "meaning": "kitob"
+        },
+        {
+          "word": "第一",
+          "pinyin": "dì-yī",
+          "meaning": "birinchi"
+        },
+        {
+          "word": "第二",
+          "pinyin": "dì-èr",
+          "meaning": "ikkinchi"
+        },
+        {
+          "word": "第三",
+          "pinyin": "dì-sān",
+          "meaning": "uchinchi"
+        },
+        {
+          "word": "学习",
+          "pinyin": "xuéxí",
+          "meaning": "o'qimoq, o'rganmoq"
+        },
+        {
+          "word": "白天",
+          "pinyin": "báitiān",
+          "meaning": "kunduzi"
+        },
+        {
+          "word": "电视",
+          "pinyin": "diànshì",
+          "meaning": "televizor"
+        },
+        {
+          "word": "唱",
+          "pinyin": "chàng",
+          "meaning": "kuylamoq"
+        },
+        {
+          "word": "歌",
+          "pinyin": "gē",
+          "meaning": "qo'shiq"
+        },
+        {
+          "word": "好听",
+          "pinyin": "hǎotīng",
+          "meaning": "yoqimli (eshitishga)"
+        },
+        {
+          "word": "玩儿",
+          "pinyin": "wánr",
+          "meaning": "o'ynamoq"
+        },
+        {
+          "word": "狗",
+          "pinyin": "gǒu",
+          "meaning": "it"
+        },
+        {
+          "word": "朋友",
+          "pinyin": "péngyou",
+          "meaning": "do'st"
+        },
+        {
+          "word": "读",
+          "pinyin": "dú",
+          "meaning": "o'qimoq"
+        },
+        {
+          "word": "读书",
+          "pinyin": "dúshū",
+          "meaning": "kitob o'qimoq"
+        },
+        {
+          "word": "边",
+          "pinyin": "biān/biān",
+          "meaning": "tomon"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 10,
+      "lesson_title": "这儿的苹果真便宜！",
+      "new_words": [
+        {
+          "word": "杯子",
+          "pinyin": "bēizi",
+          "meaning": "stakan, krujka"
+        },
+        {
+          "word": "售货员",
+          "pinyin": "shòuhuòyuán",
+          "meaning": "sotuvchi"
+        },
+        {
+          "word": "这边",
+          "pinyin": "zhèbiān",
+          "meaning": "bu yoq"
+        },
+        {
+          "word": "钱",
+          "pinyin": "qián",
+          "meaning": "pul"
+        },
+        {
+          "word": "这些",
+          "pinyin": "zhèxiē",
+          "meaning": "bular"
+        },
+        {
+          "word": "块",
+          "pinyin": "kuài",
+          "meaning": "so'm, yuan"
+        },
+        {
+          "word": "那些",
+          "pinyin": "nàxiē",
+          "meaning": "ular"
+        },
+        {
+          "word": "这儿",
+          "pinyin": "zhèr",
+          "meaning": "bu yer"
+        },
+        {
+          "word": "水果",
+          "pinyin": "shuǐguǒ",
+          "meaning": "meva"
+        },
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "meaning": "oz, kam"
+        },
+        {
+          "word": "斤",
+          "pinyin": "jīn",
+          "meaning": "jin (yarim kg)"
+        },
+        {
+          "word": "苹果",
+          "pinyin": "píngguǒ",
+          "meaning": "olma"
+        },
+        {
+          "word": "便宜",
+          "pinyin": "piányi",
+          "meaning": "arzon"
+        },
+        {
+          "word": "商店",
+          "pinyin": "shāngdiàn",
+          "meaning": "do'kon"
+        },
+        {
+          "word": "衣服",
+          "pinyin": "yīfu",
+          "meaning": "kiyim"
+        },
+        {
+          "word": "件",
+          "pinyin": "jiàn",
+          "meaning": "hisob so'z (kiyimlar uchun)"
+        },
+        {
+          "word": "元",
+          "pinyin": "yuán",
+          "meaning": "yuan"
+        },
+        {
+          "word": "怎么样",
+          "pinyin": "zěnmeyàng",
+          "meaning": "qanday, qanaqa"
+        },
+        {
+          "word": "贵",
+          "pinyin": "guì",
+          "meaning": "qimmat"
+        },
+        {
+          "word": "穿",
+          "pinyin": "chuān",
+          "meaning": "kiymoq"
+        },
+        {
+          "word": "女",
+          "pinyin": "nǚ",
+          "meaning": "ayol, qiz"
+        },
+        {
+          "word": "男",
+          "pinyin": "nán",
+          "meaning": "erkak, o'g'il"
+        },
+        {
+          "word": "那儿",
+          "pinyin": "nàr",
+          "meaning": "u yer"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 11,
+      "lesson_title": "我读大学呢",
+      "new_words": [
+        {
+          "word": "时候",
+          "pinyin": "shíhou",
+          "meaning": "vaqt, payt"
+        },
+        {
+          "word": "饭店",
+          "pinyin": "fàndiàn",
+          "meaning": "restoran"
+        },
+        {
+          "word": "知道",
+          "pinyin": "zhīdào",
+          "meaning": "bilmoq"
+        },
+        {
+          "word": "正在",
+          "pinyin": "zhèngzài",
+          "meaning": "hozir, aynan (davomli fe'l)"
+        },
+        {
+          "word": "找",
+          "pinyin": "zhǎo",
+          "meaning": "qidirmoq"
+        },
+        {
+          "word": "开车",
+          "pinyin": "kāichē",
+          "meaning": "mashina haydamoq"
+        },
+        {
+          "word": "车",
+          "pinyin": "chē",
+          "meaning": "mashina"
+        },
+        {
+          "word": "大学",
+          "pinyin": "dàxué",
+          "meaning": "universitet"
+        },
+        {
+          "word": "大学生",
+          "pinyin": "dàxuéshēng",
+          "meaning": "universitet talabasi"
+        },
+        {
+          "word": "读",
+          "pinyin": "dú",
+          "meaning": "o'qimoq (ta'lim olmoq)"
+        },
+        {
+          "word": "床",
+          "pinyin": "chuáng",
+          "meaning": "karavot"
+        },
+        {
+          "word": "起床",
+          "pinyin": "qǐchuáng",
+          "meaning": "uyg'onmoq"
+        },
+        {
+          "word": "睡觉",
+          "pinyin": "shuìjiào",
+          "meaning": "uxlamoq"
+        },
+        {
+          "word": "睡",
+          "pinyin": "shuì",
+          "meaning": "uxlamoq"
+        },
+        {
+          "word": "那里",
+          "pinyin": "nàlǐ",
+          "meaning": "u yer"
+        },
+        {
+          "word": "哪里",
+          "pinyin": "nǎlǐ",
+          "meaning": "qayer"
+        },
+        {
+          "word": "昨天",
+          "pinyin": "zuótiān",
+          "meaning": "kecha"
+        },
+        {
+          "word": "问",
+          "pinyin": "wèn",
+          "meaning": "so'ramoq"
+        },
+        {
+          "word": "对",
+          "pinyin": "duì",
+          "meaning": "...ga (qaratma)"
+        },
+        {
+          "word": "说",
+          "pinyin": "shuō",
+          "meaning": "gapirmoq, demoq"
+        },
+        {
+          "word": "要",
+          "pinyin": "yào",
+          "meaning": "xohlamoq, istamoq"
+        },
+        {
+          "word": "小朋友",
+          "pinyin": "xiǎopéngyǒu",
+          "meaning": "bola, kichik do'st"
+        },
+        {
+          "word": "弟弟",
+          "pinyin": "dìdi",
+          "meaning": "uka"
+        },
+        {
+          "word": "学",
+          "pinyin": "xué",
+          "meaning": "o'rganmoq"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+  "lessons": [
+    {
+      "lesson_number": 12,
+      "lesson_title": "昨天下雪了",
+      "new_words": [
+        {
+          "word": "天气",
+          "pinyin": "tiānqì",
+          "meaning": "ob-havo"
+        },
+        {
+          "word": "这里",
+          "pinyin": "zhèlǐ",
+          "meaning": "bu yer"
+        },
+        {
+          "word": "天",
+          "pinyin": "tiān",
+          "meaning": "kun, osmon"
+        },
+        {
+          "word": "下雨",
+          "pinyin": "xiàyǔ",
+          "meaning": "yomg'ir yog'moq"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "meaning": "...di (o'tgan zamon)"
+        },
+        {
+          "word": "雨",
+          "pinyin": "yǔ",
+          "meaning": "yomg'ir"
+        },
+        {
+          "word": "有点儿",
+          "pinyin": "yǒudiǎnr",
+          "meaning": "bir oz"
+        },
+        {
+          "word": "觉得",
+          "pinyin": "juéde",
+          "meaning": "his qilmoq"
+        },
+        {
+          "word": "冷",
+          "pinyin": "lěng",
+          "meaning": "sovuq"
+        },
+        {
+          "word": "下",
+          "pinyin": "xià",
+          "meaning": "tushmoq, yog'moq"
+        },
+        {
+          "word": "雪",
+          "pinyin": "xuě",
+          "meaning": "qor"
+        },
+        {
+          "word": "来",
+          "pinyin": "lái",
+          "meaning": "kelmoq"
+        },
+        {
+          "word": "公司",
+          "pinyin": "gōngsī",
+          "meaning": "kompaniya"
+        },
+        {
+          "word": "生病",
+          "pinyin": "shēngbìng",
+          "meaning": "kasal bo'lmoq"
+        },
+        {
+          "word": "看病",
+          "pinyin": "kànbìng",
+          "meaning": "shifokorga bormoq"
+        },
+        {
+          "word": "病",
+          "pinyin": "bìng",
+          "meaning": "kasal"
+        },
+        {
+          "word": "药",
+          "pinyin": "yào",
+          "meaning": "dori"
+        },
+        {
+          "word": "水",
+          "pinyin": "shuǐ",
+          "meaning": "suv"
+        },
+        {
+          "word": "回",
+          "pinyin": "huí",
+          "meaning": "qaytmoq"
+        },
+        {
+          "word": "喝",
+          "pinyin": "hē",
+          "meaning": "ichmoq"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 13,
+      "lesson_title": "请给我一杯茶",
+      "new_words": [
+        {
+          "word": "可以",
+          "pinyin": "kěyǐ",
+          "meaning": "mumkin, qila olmoq"
+        },
+        {
+          "word": "再",
+          "pinyin": "zài",
+          "meaning": "yana, qayta"
+        },
+        {
+          "word": "问题",
+          "pinyin": "wèntí",
+          "meaning": "savol, muammo"
+        },
+        {
+          "word": "卖",
+          "pinyin": "mài",
+          "meaning": "sotmoq"
+        },
+        {
+          "word": "打电话",
+          "pinyin": "dǎ diànhuà",
+          "meaning": "telefon qilmoq"
+        },
+        {
+          "word": "一下",
+          "pinyin": "yīxià",
+          "meaning": "bir oz, bir marta"
+        },
+        {
+          "word": "服务员",
+          "pinyin": "fúwùyuán",
+          "meaning": "ofitsiant, xizmatchi"
+        },
+        {
+          "word": "女士",
+          "pinyin": "nǚshì",
+          "meaning": "xonim"
+        },
+        {
+          "word": "请",
+          "pinyin": "qǐng",
+          "meaning": "iltimos, taklif qilmoq"
+        },
+        {
+          "word": "坐",
+          "pinyin": "zuò",
+          "meaning": "o'tirmoq"
+        },
+        {
+          "word": "给",
+          "pinyin": "gěi",
+          "meaning": "bermoq"
+        },
+        {
+          "word": "杯",
+          "pinyin": "bēi",
+          "meaning": "stakan (hisob so'z)"
+        },
+        {
+          "word": "要",
+          "pinyin": "yào",
+          "meaning": "istamoq, buyurtma qilmoq"
+        },
+        {
+          "word": "早饭",
+          "pinyin": "zǎofàn",
+          "meaning": "nonushta"
+        },
+        {
+          "word": "这个",
+          "pinyin": "zhège",
+          "meaning": "bu (narsa)"
+        },
+        {
+          "word": "面包",
+          "pinyin": "miànbāo",
+          "meaning": "non"
+        },
+        {
+          "word": "鸡蛋",
+          "pinyin": "jīdàn",
+          "meaning": "tuxum"
+        },
+        {
+          "word": "茶",
+          "pinyin": "chá",
+          "meaning": "choy"
+        },
+        {
+          "word": "先生",
+          "pinyin": "xiānsheng",
+          "meaning": "janob"
+        },
+        {
+          "word": "一点儿",
+          "pinyin": "yīdiǎnr",
+          "meaning": "bir oz"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 14,
+      "lesson_title": "我看了一个电影",
+      "new_words": [
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "meaning": "chiqmoq, minmoq"
+        },
+        {
+          "word": "火车",
+          "pinyin": "huǒchē",
+          "meaning": "poyezd"
+        },
+        {
+          "word": "中午",
+          "pinyin": "zhōngwǔ",
+          "meaning": "tush payti"
+        },
+        {
+          "word": "开",
+          "pinyin": "kāi",
+          "meaning": "jo'namoq, boshlamoq"
+        },
+        {
+          "word": "有些",
+          "pinyin": "yǒuxiē",
+          "meaning": "ba'zi, bir qancha"
+        },
+        {
+          "word": "有的",
+          "pinyin": "yǒude",
+          "meaning": "ba'zi, ayrim"
+        },
+        {
+          "word": "了",
+          "pinyin": "le",
+          "meaning": "...di (fe'l zamoni)"
+        },
+        {
+          "word": "听",
+          "pinyin": "tīng",
+          "meaning": "eshitmoq, tinglamoq"
+        },
+        {
+          "word": "听见",
+          "pinyin": "tīngjiàn",
+          "meaning": "eshitmoq"
+        },
+        {
+          "word": "说话",
+          "pinyin": "shuōhuà",
+          "meaning": "gapirmoq"
+        },
+        {
+          "word": "不要",
+          "pinyin": "búyào",
+          "meaning": "...ma, istamaslik"
+        },
+        {
+          "word": "大家",
+          "pinyin": "dàjiā",
+          "meaning": "hamma"
+        },
+        {
+          "word": "写",
+          "pinyin": "xiě",
+          "meaning": "yozmoq"
+        },
+        {
+          "word": "字",
+          "pinyin": "zì",
+          "meaning": "harf, yozuv"
+        },
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "meaning": "hamma, barcha"
+        },
+        {
+          "word": "明年",
+          "pinyin": "míngnián",
+          "meaning": "kelasi yil"
+        },
+        {
+          "word": "中学",
+          "pinyin": "zhōngxué",
+          "meaning": "o'rta maktab"
+        },
+        {
+          "word": "中学生",
+          "pinyin": "zhōngxuéshēng",
+          "meaning": "o'rta maktab o'quvchisi"
+        },
+        {
+          "word": "小学",
+          "pinyin": "xiǎoxué",
+          "meaning": "boshlang'ich maktab"
+        },
+        {
+          "word": "小学生",
+          "pinyin": "xiǎoxuéshēng",
+          "meaning": "boshlang'ich maktab o'quvchisi"
+        },
+        {
+          "word": "上",
+          "pinyin": "shàng",
+          "meaning": "bormoq (maktabga)"
+        },
+        {
+          "word": "前",
+          "pinyin": "qián",
+          "meaning": "oldin"
+        },
+        {
+          "word": "后",
+          "pinyin": "hòu",
+          "meaning": "keyin"
+        },
+        {
+          "word": "他们",
+          "pinyin": "tāmen",
+          "meaning": "ular (erkak)"
+        },
+        {
+          "word": "她们",
+          "pinyin": "tāmen",
+          "meaning": "ular (ayol)"
+        },
+        {
+          "word": "它们",
+          "pinyin": "tāmen",
+          "meaning": "ular (narsa)"
+        }
+      ],
+      "proper_nouns": []
+    },
+    {
+      "lesson_number": 15,
+      "lesson_title": "大兴机场见！",
+      "new_words": [
+        {
+          "word": "爱",
+          "pinyin": "ài",
+          "meaning": "sevmoq, yoqtirmoq"
+        },
+        {
+          "word": "好吃",
+          "pinyin": "hǎochī",
+          "meaning": "mazali"
+        },
+        {
+          "word": "好看",
+          "pinyin": "hǎokàn",
+          "meaning": "chiroyli"
+        },
+        {
+          "word": "好玩儿",
+          "pinyin": "hǎowánr",
+          "meaning": "qiziqarli"
+        },
+        {
+          "word": "大家",
+          "pinyin": "dàjiā",
+          "meaning": "hamma"
+        },
+        {
+          "word": "吃点儿",
+          "pinyin": "chīdiǎnr",
+          "meaning": "ozgina yemoq"
+        },
+        {
+          "word": "多",
+          "pinyin": "duō",
+          "meaning": "ko'p"
+        },
+        {
+          "word": "少",
+          "pinyin": "shǎo",
+          "meaning": "oz"
+        },
+        {
+          "word": "男朋友",
+          "pinyin": "nánpéngyou",
+          "meaning": "yigit do'st"
+        },
+        {
+          "word": "去年",
+          "pinyin": "qùnián",
+          "meaning": "o'tgan yil"
+        },
+        {
+          "word": "今年",
+          "pinyin": "jīnnián",
+          "meaning": "bu yil"
+        },
+        {
+          "word": "也",
+          "pinyin": "yě",
+          "meaning": "ham"
+        },
+        {
+          "word": "飞机",
+          "pinyin": "fēijī",
+          "meaning": "samolyot"
+        },
+        {
+          "word": "小时",
+          "pinyin": "xiǎoshí",
+          "meaning": "soat"
+        },
+        {
+          "word": "家人",
+          "pinyin": "jiārén",
+          "meaning": "oila a'zolari"
+        },
+        {
+          "word": "时间",
+          "pinyin": "shíjiān",
+          "meaning": "vaqt"
+        },
+        {
+          "word": "接",
+          "pinyin": "jiē",
+          "meaning": "kutib olmoq"
+        },
+        {
+          "word": "住",
+          "pinyin": "zhù",
+          "meaning": "turmoq, yashamoq"
+        },
+        {
+          "word": "早",
+          "pinyin": "zǎo",
+          "meaning": "erta"
+        },
+        {
+          "word": "几",
+          "pinyin": "jǐ",
+          "meaning": "necha (soat)"
+        },
+        {
+          "word": "都",
+          "pinyin": "dōu",
+          "meaning": "hamma"
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "西安",
+          "pinyin": "Xī'ān",
+          "meaning": "Sian shahri"
+        },
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "meaning": "Pekin shahri"
+        },
+        {
+          "word": "大兴机场",
+          "pinyin": "Dàxīng Jīchǎng",
+          "meaning": "Daxing aeroporti"
+        }
+      ]
+    }
+  ]
+}
