@@ -1,0 +1,625 @@
+{
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "lesson_title": "AI小语，你好！",
+      "grammar_points": [
+        {
+          "title": "礼貌用语",
+          "explanation": "Xitoy tilida salomlashish, rahmat aytish va xayrlashish uchun ishlatiladigan asosiy iboralar",
+          "examples": [
+            {"original": "你好", "pinyin": "nǐ hǎo", "translation": "salom"},
+            {"original": "您好", "pinyin": "nín hǎo", "translation": "sizga salom (hurmat formasi)"},
+            {"original": "谢谢", "pinyin": "xièxie", "translation": "rahmat"},
+            {"original": "不客气", "pinyin": "bú kèqi", "translation": "arzimaydi"},
+            {"original": "再见", "pinyin": "zàijiàn", "translation": "xayr"}
+          ]
+        },
+        {
+          "title": "敬称 '您'",
+          "explanation": "'您' - ikkinchi shaxs olmoshi hurmat shakli. Kattalar yoki hurmatli kishilarga murojaat qilishda ishlatiladi.",
+          "examples": [
+            {"original": "王老师，您好！", "pinyin": "Wáng lǎoshī, nín hǎo!", "translation": "Van o'qituvchi, sizga salom!"}
+          ]
+        },
+        {
+          "title": "人称 olmoshlari",
+          "explanation": "Asosiy shaxs olmoshlari",
+          "examples": [
+            {"original": "我", "pinyin": "wǒ", "translation": "men"},
+            {"original": "你", "pinyin": "nǐ", "translation": "sen"},
+            {"original": "您", "pinyin": "nín", "translation": "siz (hurmat)"},
+            {"original": "你们", "pinyin": "nǐmen", "translation": "sizlar"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "So'z tartibi",
+          "content": "Xitoy tilida so'z tartibi odatda: Ega + Kesim + To'ldiruvchi"
+        },
+        {
+          "title": "Hurmat formasi",
+          "content": "Xitoy tilida hurmatni ifodalash muhim. Kattalar yoki o'qituvchilarga murojaat qilganda '您' ishlatiladi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 2,
+      "lesson_title": "我叫李文",
+      "grammar_points": [
+        {
+          "title": "基本 so'z tartibi",
+          "explanation": "Xitoy tilida asosiy so'z tartibi: Ega - Kesim - To'ldiruvchi",
+          "examples": [
+            {"original": "我叫陈天中", "pinyin": "Wǒ jiào Chén Tiānzhōng", "translation": "Mening ismim Chen Tyanjun", "structure": "Ega (我) + Kesim (叫) + To'ldiruvchi (陈天中)"}
+          ]
+        },
+        {
+          "title": "'是' gap",
+          "explanation": "'是' fe'li tenglik yoki mansublikni ifodalaydi. Inkori '不是'.",
+          "examples": [
+            {"original": "我是白家月", "pinyin": "Wǒ shì Bái Jiāyuè", "translation": "Men Bay Jiayue"},
+            {"original": "我不是安妮", "pinyin": "Wǒ bú shì Ānní", "translation": "Men Anni emasman"}
+          ]
+        },
+        {
+          "title": "So'roq gapi",
+          "explanation": "'什么' so'roq olmoshi 'nima' ma'nosida",
+          "examples": [
+            {"original": "你叫什么名字？", "pinyin": "Nǐ jiào shénme míngzi?", "translation": "Ismingiz nima?"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Xitoy ismlari",
+          "content": "Xitoy ismlari familiya + ism tartibida keladi. Masalan: 陈天中 (Chen - familiya, Tianzhong - ism)"
+        },
+        {
+          "title": "Uzr so'rash",
+          "content": "对不起 - uzr so'rash, 没关系 - javob berish (hechqisi yo'q)"
+        }
+      ]
+    },
+    {
+      "lesson_number": 3,
+      "lesson_title": "我是中国人",
+      "grammar_points": [
+        {
+          "title": "结构助词 '的'",
+          "explanation": "'的' egalik yoki aniqlovchini ifodalaydi. Ot oldidan keladi.",
+          "examples": [
+            {"original": "我的中文", "pinyin": "wǒ de Zhōngwén", "translation": "mening xitoy tilim"},
+            {"original": "你的名字", "pinyin": "nǐ de míngzi", "translation": "sening isming"},
+            {"original": "王老师的学生", "pinyin": "Wáng lǎoshī de xuéshēng", "translation": "Van o'qituvchining talabasi"}
+          ]
+        },
+        {
+          "title": "'吗' so'roq yuklamasi",
+          "explanation": "'吗' gap oxirida qo'shib, so'roq gap yasaydi. Ha/yo'q javobini talab qiladi.",
+          "examples": [
+            {"original": "你是中国人吗？", "pinyin": "Nǐ shì Zhōngguó rén ma?", "translation": "Siz xitoylikmisiz?"},
+            {"original": "你忙吗？", "pinyin": "Nǐ máng ma?", "translation": "Bandmisiz?"}
+          ]
+        },
+        {
+          "title": "Millat ifodasi",
+          "explanation": "Millatni aytish uchun: 是 + Davlat + 人",
+          "examples": [
+            {"original": "我是法国人", "pinyin": "Wǒ shì Fǎguó rén", "translation": "Men fransiyalikman"},
+            {"original": "她是泰国人", "pinyin": "Tā shì Tàiguó rén", "translation": "U tailandlik"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Xitoy tili nomlari",
+          "content": "中文 - xitoy tili (asosan yozma), 汉语 - xitoy tili (asosan og'zaki)"
+        },
+        {
+          "title": "Agar egalik munosabatida shaxs olmoshidan keyin qarindoshlik kelganda '的' tushib qolishi mumkin",
+          "content": "我姐姐 (mening opam), 我老师 (mening o'qituvchim)"
+        }
+      ]
+    },
+    {
+      "lesson_number": 4,
+      "lesson_title": "我有两个孩子",
+      "grammar_points": [
+        {
+          "title": "'有' gapi (1)",
+          "explanation": "'有' fe'li ega bo'lish, borlikni ifodalaydi. Inkori '没有'.",
+          "examples": [
+            {"original": "她有二十个学生", "pinyin": "Tā yǒu èrshí gè xuéshēng", "translation": "Uning yigirmata talabasi bor"},
+            {"original": "我没有姐姐", "pinyin": "Wǒ méiyǒu jiějie", "translation": "Mening opam yo'q"}
+          ]
+        },
+        {
+          "title": "Sonlar",
+          "explanation": "0-99 gacha sonlar",
+          "examples": [
+            {"original": "一 二 三 四 五", "pinyin": "yī èr sān sì wǔ", "translation": "1 2 3 4 5"},
+            {"original": "六 七 八 九 十", "pinyin": "liù qī bā jiǔ shí", "translation": "6 7 8 9 10"},
+            {"original": "十一 二十 三十 九十九", "pinyin": "shíyī èrshí sānshí jiǔshíjiǔ", "translation": "11 20 30 99"}
+          ]
+        },
+        {
+          "title": "'2' ning ikki xil shakli",
+          "explanation": "二 - tartib sonlarda, 两 - hisob so'z oldida",
+          "examples": [
+            {"original": "第二", "pinyin": "dì-èr", "translation": "ikkinchi"},
+            {"original": "两个人", "pinyin": "liǎng gè rén", "translation": "ikki kishi"},
+            {"original": "两本书", "pinyin": "liǎng běn shū", "translation": "ikki kitob"}
+          ]
+        },
+        {
+          "title": "Hisob so'zlar",
+          "explanation": "Xitoy tilida sonlardan keyin hisob so'z kelishi shart",
+          "examples": [
+            {"original": "一个人", "pinyin": "yī gè rén", "translation": "bir kishi"},
+            {"original": "四口人", "pinyin": "sì kǒu rén", "translation": "to'rt kishi (oilada)"},
+            {"original": "两个学生", "pinyin": "liǎng gè xuéshēng", "translation": "ikki talaba"}
+          ]
+        },
+        {
+          "title": "Yosh so'rash",
+          "explanation": "Kichik yoshdagilar uchun '几岁', kattalar uchun '多大' ishlatiladi",
+          "examples": [
+            {"original": "你儿子今年几岁？", "pinyin": "Nǐ érzi jīnnián jǐ suì?", "translation": "O'g'lingiz necha yoshda?"},
+            {"original": "你女儿今年多大？", "pinyin": "Nǐ nǚ'ér jīnnián duō dà?", "translation": "Qizingiz necha yoshda?"}
+          ]
+        },
+        {
+          "title": "语气助词 '呢' (1)",
+          "explanation": "'呢' gap oxirida qo'shib, yuqoridagi holat haqida so'roq qilish",
+          "examples": [
+            {"original": "我有两个孩子，你呢？", "pinyin": "Wǒ yǒu liǎng gè háizi, nǐ ne?", "translation": "Mening ikki farzandim bor, sizchi?"},
+            {"original": "我是中国人，你呢？", "pinyin": "Wǒ shì Zhōngguó rén, nǐ ne?", "translation": "Men xitoylikman, sizchi?"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Oila a'zolari",
+          "content": "爸爸 (ota), 妈妈 (ona), 哥哥 (aka), 姐姐 (opa), 弟弟 (uka), 妹妹 (singil), 儿子 (o'g'il), 女儿 (qiz)"
+        },
+        {
+          "title": "口 - oiladagi odamlar soni uchun hisob so'z",
+          "content": "四口人 - to'rt kishilik oila"
+        }
+      ]
+    },
+    {
+      "lesson_number": 5,
+      "lesson_title": "今天我休息",
+      "grammar_points": [
+        {
+          "title": "Vaqt ifodasi (1)",
+          "explanation": "Sana va hafta kunlarini ifodalash tartibi: Yil -> Oy -> Kun -> Hafta kuni",
+          "examples": [
+            {"original": "2025年5月22号", "pinyin": "èr líng èr wǔ nián wǔ yuè èrshí'èr hào", "translation": "2025-yil 22-may"},
+            {"original": "今天9月8号", "pinyin": "Jīntiān jiǔ yuè bā hào", "translation": "Bugun 8-sentyabr"},
+            {"original": "今天星期日", "pinyin": "Jīntiān Xīngqírì", "translation": "Bugun yakshanba"}
+          ]
+        },
+        {
+          "title": "Oy nomlari",
+          "explanation": "1-12 oylar: 一月 (yanvar) - 十二月 (dekabr)",
+          "examples": [
+            {"original": "一月 二月 三月 四月", "pinyin": "Yīyuè Èryuè Sānyuè Sìyuè", "translation": "Yanvar Fevral Mart Aprel"},
+            {"original": "五月 六月 七月 八月", "pinyin": "Wǔyuè Liùyuè Qīyuè Bāyuè", "translation": "May Iyun Iyul Avgust"},
+            {"original": "九月 十月 十一月 十二月", "pinyin": "Jiǔyuè Shíyuè Shíyīyuè Shí'èryuè", "translation": "Sentyabr Oktyabr Noyabr Dekabr"}
+          ]
+        },
+        {
+          "title": "Hafta kunlari",
+          "explanation": "星期一 (dushanba) - 星期日/星期天 (yakshanba)",
+          "examples": [
+            {"original": "星期一 星期二 星期三 星期四", "pinyin": "Xīngqīyī Xīngqī'èr Xīngqīsān Xīngqīsì", "translation": "Dushanba Seshanba Chorshanba Payshanba"},
+            {"original": "星期五 星期六 星期日/星期天", "pinyin": "Xīngqīwǔ Xīngqīliù Xīngqírì/Xīngqítiān", "translation": "Juma Shanba Yakshanba"}
+          ]
+        },
+        {
+          "title": "Ot-kesimli gaplar",
+          "explanation": "Ot yoki otli birikma to'g'ridan-to'g'ri kesim vazifasini bajarishi mumkin (asosan vaqt, yosh haqida)",
+          "examples": [
+            {"original": "今天5月1号", "pinyin": "Jīntiān wǔ yuè yī hào", "translation": "Bugun 1-may"},
+            {"original": "我妹妹12岁", "pinyin": "Wǒ mèimei shí'èr suì", "translation": "Mening singlim 12 yoshda"}
+          ]
+        },
+        {
+          "title": "能愿 fe'l '会'",
+          "explanation": "'会' fe'l oldida qo'shib, biror narsani o'rganib, qila olishni ifodalaydi",
+          "examples": [
+            {"original": "你会做饭吗？", "pinyin": "Nǐ huì zuòfàn ma?", "translation": "Ovqat pishirishni bilasizmi?"},
+            {"original": "我会做面条儿", "pinyin": "Wǒ huì zuò miàntiáor", "translation": "Men lag'mon pishirishni bilaman"},
+            {"original": "我不会做菜", "pinyin": "Wǒ bú huì zuò cài", "translation": "Men ovqat pishirishni bilmayman"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "号 va 日",
+          "content": "Kun (sana) uchun 号 (og'zaki) va 日 (rasmiy) ishlatiladi. Ikkalasi ham bir xil ma'noda."
+        }
+      ]
+    },
+    {
+      "lesson_number": 6,
+      "lesson_title": "你的手机号是多少？",
+      "grammar_points": [
+        {
+          "title": "能愿 fe'l '想'",
+          "explanation": "'想' fe'l oldida qo'shib, istak, niyatni ifodalaydi",
+          "examples": [
+            {"original": "我想去超市", "pinyin": "Wǒ xiǎng qù chāoshì", "translation": "Men supermarketga bormoqchiman"},
+            {"original": "我哥哥不想休息", "pinyin": "Wǒ gēge bù xiǎng xiūxi", "translation": "Akam dam olmoqchi emas"}
+          ]
+        },
+        {
+          "title": "Qo'shma fe'lli gaplar (1)",
+          "explanation": "Ikki yoki undan ortiq fe'lli birikma gap kesimi vazifasini bajaradi. Maqsad yoki usulni ifodalaydi.",
+          "examples": [
+            {"original": "我想去超市买东西", "pinyin": "Wǒ xiǎng qù chāoshì mǎi dōngxi", "translation": "Men supermarketga narsa sotib olmoqchiman (maqsad)"},
+            {"original": "我们坐出租车去", "pinyin": "Wǒmen zuò chūzūchē qù", "translation": "Biz taksi bilan boramiz (usul)"}
+          ]
+        },
+        {
+          "title": "So'roq olmoshi '怎么'",
+          "explanation": "'怎么' fe'l oldida qo'shib, usul yoki harakat tarzini so'raydi",
+          "examples": [
+            {"original": "我们怎么去？", "pinyin": "Wǒmen zěnme qù?", "translation": "Biz qanday boramiz?"},
+            {"original": "她怎么去超市？", "pinyin": "Tā zěnme qù chāoshì?", "translation": "U supermarketga qanday boradi?"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Telefon raqam so'rash",
+          "content": "你的手机号是多少？ - Telefon raqamingiz necha?"
+        }
+      ]
+    },
+    {
+      "lesson_number": 7,
+      "lesson_title": "我晚上六点半下班",
+      "grammar_points": [
+        {
+          "title": "Vaqt ifodasi (2)",
+          "explanation": "Aniq vaqtni ifodalash: 点 (soat) + 分 (minut). 半 - yarim",
+          "examples": [
+            {"original": "八点四十", "pinyin": "bā diǎn sìshí", "translation": "8:40"},
+            {"original": "十点十分", "pinyin": "shí diǎn shífēn", "translation": "10:10"},
+            {"original": "四点半", "pinyin": "sì diǎn bàn", "translation": "4:30"}
+          ]
+        },
+        {
+          "title": "Kun vaqti so'zlari",
+          "explanation": "早上 (erta tong), 上午 (tushgacha), 中午 (tush), 下午 (tushdan keyin), 晚上 (kechqurun)",
+          "examples": [
+            {"original": "早上八点", "pinyin": "zǎoshang bā diǎn", "translation": "ertalab soat 8"},
+            {"original": "晚上六点半", "pinyin": "wǎnshang liù diǎn bàn", "translation": "kechqurun soat 6:30"}
+          ]
+        },
+        {
+          "title": "语气助词 '吧' (1)",
+          "explanation": "'吧' gap oxirida qo'shib, taklif, maslahat, iltimosni ifodalaydi",
+          "examples": [
+            {"original": "我们下午两点见吧", "pinyin": "Wǒmen xiàwǔ liǎng diǎn jiàn ba", "translation": "Tushdan keyin soat ikkida uchrashaylik"},
+            {"original": "你去超市买吧", "pinyin": "Nǐ qù chāoshì mǎi ba", "translation": "Sen supermarketdan sotib ol"}
+          ]
+        },
+        {
+          "title": "语气助词 '呢' (2)",
+          "explanation": "'呢' gap oxirida qo'shib, tasdiqlangan faktni ifodalaydi",
+          "examples": [
+            {"original": "我明天下午两点还上课呢", "pinyin": "Wǒ míngtiān xiàwǔ liǎng diǎn hái shàngkè ne", "translation": "Ertaga tushdan keyin soat ikkida hali darsim bor"},
+            {"original": "李文晚上还有事呢", "pinyin": "Lǐ Wén wǎnshang hái yǒu shì ne", "translation": "Li Venning kechqurun hali ishi bor"}
+          ]
+        },
+        {
+          "title": "Ravish va vaqt so'zlarining o'rni",
+          "explanation": "Ravish va vaqt so'zlari fe'l yoki sifatdan oldin keladi",
+          "examples": [
+            {"original": "我不想去", "pinyin": "Wǒ bù xiǎng qù", "translation": "Men bormoqchi emasman"},
+            {"original": "她上午十点半上课", "pinyin": "Tā shàngwǔ shí diǎn bàn shàngkè", "translation": "U tushgacha soat 10:30 da darsga boradi"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "里 so'zi haqida",
+          "content": "里 - ichida ma'nosida. '家' (uy) dan keyin kelganda neytral ohangda (li) o'qiladi. '里边' (ichida) so'zida uchinchi ohangda (lǐ) o'qiladi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 8,
+      "lesson_title": "我爸爸也在医院工作",
+      "grammar_points": [
+        {
+          "title": "O'rin so'zlari",
+          "explanation": "上 (ustida), 下 (ostida), 里 (ichida), 外 (tashqarida), 前 (oldida), 后 (orqasida)",
+          "examples": [
+            {"original": "桌子上", "pinyin": "zhuōzi shàng", "translation": "stol ustida"},
+            {"original": "房间里", "pinyin": "fángjiān lǐ", "translation": "xona ichida"},
+            {"original": "书店前", "pinyin": "shūdiàn qián", "translation": "kitob do'koni oldida"}
+          ]
+        },
+        {
+          "title": "Ko'makchi '在'",
+          "explanation": "'在' o'rin-joy so'zlari bilan birga kelib, qayerda nima qilishni ko'rsatadi",
+          "examples": [
+            {"original": "我在学校吃午饭", "pinyin": "Wǒ zài xuéxiào chī wǔfàn", "translation": "Men maktabda tushlik qilaman"},
+            {"original": "他爸爸在医院工作", "pinyin": "Tā bàba zài yīyuàn gōngzuò", "translation": "Uning otasi kasalxonada ishlaydi"}
+          ]
+        },
+        {
+          "title": "能愿 fe'l '能'",
+          "explanation": "'能' fe'l oldida qo'shib, qobiliyat, imkoniyat yoki shart-sharoitni ifodalaydi",
+          "examples": [
+            {"original": "下午两点你能到吗？", "pinyin": "Xiàwǔ liǎng diǎn nǐ néng dào ma?", "translation": "Tushdan keyin soat ikkida yetib olasizmi?"},
+            {"original": "我不能去学校吃午饭", "pinyin": "Wǒ bù néng qù xuéxiào chī wǔfàn", "translation": "Men maktabda tushlik qila olmayman"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "小 + familiya",
+          "content": "小 + familiya - o'zidan kichiklarga nisbatan mehr bilan murojaat qilish shakli. Masalan: 小胡 (Kichik Xu)"
+        }
+      ]
+    },
+    {
+      "lesson_number": 9,
+      "lesson_title": "我明天上午在学校学习",
+      "grammar_points": [
+        {
+          "title": "Mavjudlik gapi (1)",
+          "explanation": "'有' yoki '是' yordamida biror joyda nima yoki kimning borligini ifodalaydi",
+          "examples": [
+            {"original": "学校前边有一家电影院", "pinyin": "Xuéxiào qiánbian yǒu yī jiā diànyǐngyuàn", "translation": "Maktab oldida bir kinoteatr bor"},
+            {"original": "电影院前边是一家超市", "pinyin": "Diànyǐngyuàn qiánbian shì yī jiā chāoshì", "translation": "Kinoteatr oldida supermarket"},
+            {"original": "桌子上没有小猫", "pinyin": "Zhuōzi shàng méiyǒu xiǎo māo", "translation": "Stol ustida mushukcha yo'q"}
+          ]
+        },
+        {
+          "title": "Vaqt va o'rin so'zlarining tartibi",
+          "explanation": "Vaqt va o'rin birga qo'llanganda, vaqt o'rindan oldin keladi",
+          "examples": [
+            {"original": "我们七点在电影院外边见", "pinyin": "Wǒmen qī diǎn zài diànyǐngyuàn wàibiān jiàn", "translation": "Biz soat 7 da kinoteatr tashqarisida uchrashamiz"},
+            {"original": "我明天上午在学校学习", "pinyin": "Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí", "translation": "Men ertaga tushgacha maktabda o'qiyman"}
+          ]
+        },
+        {
+          "title": "Tartib son '第'",
+          "explanation": "'第' son oldida qo'shib, tartib son yasaydi",
+          "examples": [
+            {"original": "第一 第二 第三", "pinyin": "dì-yī dì-èr dì-sān", "translation": "birinchi ikkinchi uchinchi"},
+            {"original": "第一个学生", "pinyin": "dì-yī gè xuéshēng", "translation": "birinchi talaba"},
+            {"original": "第二本书", "pinyin": "dì-èr běn shū", "translation": "ikkinchi kitob"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "边 so'zi haqida",
+          "content": "边 qo'shimchasi o'rin so'zlariga qo'shiladi: 前边 (oldida), 后边 (orqasida). 边 neytral ohangda o'qiladi, alohida so'z sifatida 'bian' o'qiladi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 10,
+      "lesson_title": "这儿的苹果真便宜！",
+      "grammar_points": [
+        {
+          "title": "Pul miqdori ifodasi",
+          "explanation": "RMB birliklari: 元/块 (yuan), 角/毛 (10 tiyin), 分 (tiyin). Tartib: 元/块 -> 角/毛 -> 分",
+          "examples": [
+            {"original": "三块", "pinyin": "sān kuài", "translation": "3 yuan"},
+            {"original": "三块五", "pinyin": "sān kuài wǔ", "translation": "3.5 yuan"},
+            {"original": "六块零两分", "pinyin": "liù kuài líng liǎng fēn", "translation": "6.02 yuan"}
+          ]
+        },
+        {
+          "title": "Sifat-kesimli gaplar",
+          "explanation": "Sifat to'g'ridan-to'g'ri kesim vazifasini bajarishi mumkin. Oldidan daraja ravishlari kelishi mumkin.",
+          "examples": [
+            {"original": "这儿的苹果真便宜", "pinyin": "Zhèr de píngguǒ zhēn piányi", "translation": "Bu yerdagi olmalar juda arzon"},
+            {"original": "我的房间不大", "pinyin": "Wǒ de fángjiān bú dà", "translation": "Mening xonam katta emas"}
+          ]
+        },
+        {
+          "title": "So'roq olmoshi '怎么样'",
+          "explanation": "'怎么样' fikr so'rash, holat haqida so'rash uchun ishlatiladi",
+          "examples": [
+            {"original": "这件衣服怎么样？", "pinyin": "Zhè jiàn yīfu zěnmeyàng?", "translation": "Bu kiyim qanday?"},
+            {"original": "这个菜怎么样？", "pinyin": "Zhège cài zěnmeyàng?", "translation": "Bu ovqat qanday?"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "RMB pul birliklari",
+          "content": "Rasmiy: 元 - 角 - 分. So'zlashuv tilida: 块 - 毛 - 分."
+        }
+      ]
+    },
+    {
+      "lesson_number": 11,
+      "lesson_title": "我读大学呢",
+      "grammar_points": [
+        {
+          "title": "正反 so'roq",
+          "explanation": "Fe'l yoki sifatning ikki shaklini (iyobiy va inkor) qo'shib so'roq yasash: X + 不/没 + X",
+          "examples": [
+            {"original": "它是不是在超市后边？", "pinyin": "Tā shì bù shì zài chāoshì hòubiān?", "translation": "U supermarket orqasidami?"},
+            {"original": "你开车没开车？", "pinyin": "Nǐ kāichē méi kāichē?", "translation": "Mashina haydayapsizmi?"},
+            {"original": "这件衣服好看不好看？", "pinyin": "Zhè jiàn yīfu hǎokàn bù hǎokàn?", "translation": "Bu kiyim chiroylimi?"}
+          ]
+        },
+        {
+          "title": "Vaqt ravishlari '在/正在'",
+          "explanation": "'在/正在' fe'l oldida qo'shib, harakatning davom etayotganligini bildiradi",
+          "examples": [
+            {"original": "你还在读大学吗？", "pinyin": "Nǐ hái zài dú dàxué ma?", "translation": "Hali ham universitetda o'qiysizmi?"},
+            {"original": "学生们在/正在上课呢", "pinyin": "Xuéshēngmen zài/zhèngzài shàngkè ne", "translation": "Talabalar darsda"},
+            {"original": "我在学习呢", "pinyin": "Wǒ zài xuéxí ne", "translation": "Men o'qiyapman"}
+          ]
+        },
+        {
+          "title": "能愿 fe'l '要'",
+          "explanation": "'要' fe'l oldida qo'shib, istak, niyatni ifodalaydi",
+          "examples": [
+            {"original": "他今天要和小朋友玩", "pinyin": "Tā jīntiān yào hé xiǎopéngyǒu wán", "translation": "U bugun bolalar bilan o'ynaydi"},
+            {"original": "妈妈要去超市", "pinyin": "Māma yào qù chāoshì", "translation": "Oyim supermarketga bormoqchi"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Davomli harakat uchun uch xil shakl",
+          "content": "1) 在/正在 + fe'l, 2) 在/正在 + fe'l + 呢, 3) fe'l + 呢. Inkor uchun 没(有) ishlatiladi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 12,
+      "lesson_title": "昨天下雪了",
+      "grammar_points": [
+        {
+          "title": "Egasiz gaplar",
+          "explanation": "So'z yoki birikmadan tashkil topgan, ega va kesimga ajratilmaydigan gaplar. So'zlashuvda ko'p ishlatiladi.",
+          "examples": [
+            {"original": "下雨了", "pinyin": "Xiàyǔ le", "translation": "Yomg'ir yog'yapti"},
+            {"original": "下雪了", "pinyin": "Xià xuě le", "translation": "Qor yog'yapti"},
+            {"original": "上课了", "pinyin": "Shàngkè le", "translation": "Dars boshlandi"}
+          ]
+        },
+        {
+          "title": "语气 yuklamasi '了' (1)",
+          "explanation": "'了' gap oxirida qo'shib, o'zgarish yoki yangi holat yuz berganini bildiradi",
+          "examples": [
+            {"original": "下雨了", "pinyin": "Xiàyǔ le", "translation": "Yomg'ir yog'yapti (avval yo'q edi)"},
+            {"original": "十二点了，吃午饭吧", "pinyin": "Shí'èr diǎn le, chī wǔfàn ba", "translation": "Soat 12 bo'ldi, tushlik qilaylik"}
+          ]
+        },
+        {
+          "title": "'太……了' formati",
+          "explanation": "Darajaning juda yuqori ekanligini ta'kidlash uchun ishlatiladi",
+          "examples": [
+            {"original": "太冷了", "pinyin": "Tài lěng le", "translation": "Juda sovuq"},
+            {"original": "这个杯子太小了", "pinyin": "Zhège bēizi tài xiǎo le", "translation": "Bu stakan juda kichik"},
+            {"original": "我们今天太高兴了", "pinyin": "Wǒmen jīntiān tài gāoxìng le", "translation": "Biz bugun juda xursandmiz"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Kasal bo'lganda",
+          "content": "生病了 (kasal bo'ldim), 看病 (shifokorga borish), 喝热水 (issiq suv ichish - xitoylar kasal bo'lganda issiq suv ichishni maslahat berishadi)"
+        }
+      ]
+    },
+    {
+      "lesson_number": 13,
+      "lesson_title": "请给我一杯茶",
+      "grammar_points": [
+        {
+          "title": "能愿 fe'l '可以'",
+          "explanation": "'可以' fe'l oldida qo'shib, imkoniyat, qobiliyat yoki ruxsatni ifodalaydi",
+          "examples": [
+            {"original": "我可以再问您一个问题吗？", "pinyin": "Wǒ kěyǐ zài wèn nín yī gè wèntí ma?", "translation": "Sizdan yana bir savol so'rasam maylimi?"},
+            {"original": "你们可以看这本书", "pinyin": "Nǐmen kěyǐ kàn zhè běn shū", "translation": "Sizlar bu kitobni o'qishingiz mumkin"}
+          ]
+        },
+        {
+          "title": "'Fe'l + 一下' strukturasi",
+          "explanation": "Fe'lga 一下 qo'shib, harakatning qisqa muddatli yoki bir marta bajarilganligini bildiradi",
+          "examples": [
+            {"original": "你可以打电话问一下", "pinyin": "Nǐ kěyǐ dǎ diànhuà wèn yīxià", "translation": "Telefon qilib so'rab ko'ring"},
+            {"original": "请休息一下", "pinyin": "Qǐng xiūxi yīxià", "translation": "Bir oz dam oling"}
+          ]
+        },
+        {
+          "title": "Ikki to'ldiruvchili gaplar (1)",
+          "explanation": "Bir fe'l ikki to'ldiruvchi oladi. 给 (bermoq) va 问 (so'ramoq) fe'llari bilan",
+          "examples": [
+            {"original": "请给我一杯牛奶", "pinyin": "Qǐng gěi wǒ yī bēi niúnǎi", "translation": "Menga bir stakan sut bering"},
+            {"original": "我问老师两个问题", "pinyin": "Wǒ wèn lǎoshī liǎng gè wèntí", "translation": "Men o'qituvchidan ikkita savol so'radim"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Ovqat buyurtma qilish",
+          "content": "Restoran va kafelarda ovqat buyurtma qilish uchun: 我要... (men ... olaman), 请给我... (menga ... bering)"
+        }
+      ]
+    },
+    {
+      "lesson_number": 14,
+      "lesson_title": "我看了一个电影",
+      "grammar_points": [
+        {
+          "title": "Aspekt yuklamasi '了' (2)",
+          "explanation": "'了' fe'l dan keyin qo'shib, harakatning sodir bo'lgan yoki tugallanganligini bildiradi",
+          "examples": [
+            {"original": "我看了一个电影", "pinyin": "Wǒ kàn le yī gè diànyǐng", "translation": "Men bir film ko'rdim"},
+            {"original": "我买了一个新电脑", "pinyin": "Wǒ mǎi le yī gè xīn diànnǎo", "translation": "Men yangi kompyuter sotib oldim"},
+            {"original": "我昨天没去商店买东西", "pinyin": "Wǒ zuótiān méi qù shāngdiàn mǎi dōngxi", "translation": "Kecha do'konga bormadim"}
+          ]
+        },
+        {
+          "title": "Ajraluvchi fe'llar (1)",
+          "explanation": "上课, 下课, 上班, 下班, 睡觉 kabi fe'llar ajralishi mumkin: orasiga boshqa so'z qo'shiladi",
+          "examples": [
+            {"original": "睡觉 -> 睡了觉", "pinyin": "shuìjiào -> shuì le jiào", "translation": "uxlamoq -> uxladi"},
+            {"original": "上课 -> 上了课", "pinyin": "shàngkè -> shàng le kè", "translation": "darsga borish -> darsga bordi"},
+            {"original": "生病 -> 生了病", "pinyin": "shēngbìng -> shēng le bìng", "translation": "kasal bo'lmoq -> kasal bo'ldi"}
+          ]
+        },
+        {
+          "title": "Doira ravishi '都'",
+          "explanation": "'都' hamma, barcha ma'nosida. Umumlashtirilgan ob'ekt '都' dan oldin keladi.",
+          "examples": [
+            {"original": "我们都会写了", "pinyin": "Wǒmen dōu huì xiě le", "translation": "Hammamiz yozishni bilamiz"},
+            {"original": "同学们都没听见", "pinyin": "Tóngxuémen dōu méi tīngjiàn", "translation": "Talabalarning hech biri eshitmadi"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "他们, 她们, 它们",
+          "content": "他们 - ular (erkaklar yoki aralash), 她们 - ular (faqat ayollar), 它们 - ular (narsalar). Uchchasi ham talaffuzi bir xil: tāmen"
+        }
+      ]
+    },
+    {
+      "lesson_number": 15,
+      "lesson_title": "大兴机场见！",
+      "grammar_points": [
+        {
+          "title": "Biriktiruvchi qo'shma gap '……，还/也……'",
+          "explanation": "Ikki yoki undan ortiq bog'liq gaplarni birlashtirish uchun ishlatiladi",
+          "examples": [
+            {"original": "我喜欢这个，也喜欢那个", "pinyin": "Wǒ xǐhuān zhège, yě xǐhuān nàge", "translation": "Men buni yoqtiraman, uni ham yoqtiraman"},
+            {"original": "王老师是北京人，李文也是北京人", "pinyin": "Wáng lǎoshī shì Běijīng rén, Lǐ Wén yě shì Běijīng rén", "translation": "Van o'qituvchi pekinlik, Li Ven ham pekinlik"},
+            {"original": "我喜欢喝中国茶，还喜欢吃中国菜", "pinyin": "Wǒ xǐhuān hē Zhōngguó chá, hái xǐhuān chī Zhōngguó cài", "translation": "Men xitoy choyini ichishni yoqtiraman, xitoy taomlarini yeyishni ham yoqtiraman"}
+          ]
+        }
+      ],
+      "important_notes": [
+        {
+          "title": "Xitoy taom madaniyati",
+          "content": "多吃点儿 - ko'proq yeng (mehmondo'stlik ifodasi). Xitoylar mehmonlarga ko'proq ovqat taklif qilishadi."
+        },
+        {
+          "title": "Pekin haqida",
+          "content": "北京 - Xitoy poytaxti. 大兴机场 - Pekinning Daxing aeroporti, dunyodagi eng katta aeroportlardan biri."
+        }
+      ]
+    }
+  ]
+}
