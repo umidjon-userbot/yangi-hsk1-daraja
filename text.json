@@ -1,0 +1,364 @@
+{
+  "lessons": [
+    {
+      "lesson_number": 1,
+      "lesson_title": "AI小语，你好！",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "王一飞：你好！\n小语：王老师，您好！",
+          "pinyin": "Wáng Yīfēi: Nǐ hǎo!\nXiǎoyǔ: Wáng lǎoshī, nín hǎo!",
+          "translation": "Van Yifei: Salom!\nXiaoyu: Van o'qituvchi, sizga salom!"
+        },
+        {
+          "text_number": 2,
+          "original": "王一飞：你们好！\n学生们：老师好！\n小语：大家好！\n学生们：小语好！",
+          "pinyin": "Wáng Yīfēi: Nǐmen hǎo!\nXuéshēngmen: Lǎoshī hǎo!\nXiǎoyǔ: Dàjiā hǎo!\nXuéshēngmen: Xiǎoyǔ hǎo!",
+          "translation": "Van Yifei: Hammangizga salom!\nTalabalar: O'qituvchiga salom!\nXiaoyu: Hammaga salom!\nTalabalar: Xiaoyuga salom!"
+        },
+        {
+          "text_number": 3,
+          "original": "白家月：谢谢！\n李文：不客气！\n陈天中：再见！\n安妮：再见！",
+          "pinyin": "Bái Jiāyuè: Xièxie!\nLǐ Wén: Bú kèqi!\nChén Tiānzhōng: Zàijiàn!\nĀnní: Zàijiàn!",
+          "translation": "Bay Jiayue: Rahmat!\nLi Ven: Arzimaydi!\nChen Tyanjun: Xayr!\nAnni: Xayr!"
+        }
+      ]
+    },
+    {
+      "lesson_number": 2,
+      "lesson_title": "我叫李文",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "王一飞：请问，你叫什么名字？\n陈天中：我叫陈天中。",
+          "pinyin": "Wáng Yīfēi: Qǐngwèn, nǐ jiào shénme míngzi?\nChén Tiānzhōng: Wǒ jiào Chén Tiānzhōng.",
+          "translation": "Van Yifei: Kechirasiz, ismingiz nima?\nChen Tyanjun: Mening ismim Chen Tyanjun."
+        },
+        {
+          "text_number": 2,
+          "original": "陈天中：安妮，你好！\n白家月：陈天中，你好！我不是安妮，我是白家月。\n陈天中：对不起！\n白家月：没关系！",
+          "pinyin": "Chén Tiānzhōng: Ānní, nǐ hǎo!\nBái Jiāyuè: Chén Tiānzhōng, nǐ hǎo! Wǒ bú shì Ānní, wǒ shì Bái Jiāyuè.\nChén Tiānzhōng: Duìbuqǐ!\nBái Jiāyuè: Méi guānxi!",
+          "translation": "Chen Tyanjun: Anni, salom!\nBay Jiayue: Chen Tyanjun, salom! Men Anni emasman, men Bay Jiayue.\nChen Tyanjun: Kechirasiz!\nBay Jiayue: Hechqisi yo'q!"
+        },
+        {
+          "text_number": 3,
+          "original": "李文：你好！我叫李文。\n白家月：你好！我叫白家月。很高兴认识你！\n李文：我也很高兴认识你！",
+          "pinyin": "Lǐ Wén: Nǐ hǎo! Wǒ jiào Lǐ Wén.\nBái Jiāyuè: Nǐ hǎo! Wǒ jiào Bái Jiāyuè. Hěn gāoxìng rènshi nǐ!\nLǐ Wén: Wǒ yě hěn gāoxìng rènshi nǐ!",
+          "translation": "Li Ven: Salom! Mening ismim Li Ven.\nBay Jiayue: Salom! Mening ismim Bay Jiayue. Sizni tanishtirganimdan xursandman!\nLi Ven: Men ham sizni tanishtirganimdan xursandman!"
+        }
+      ]
+    },
+    {
+      "lesson_number": 3,
+      "lesson_title": "我是中国人",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "李文：你是哪国人？\n白家月：我是法国人。你呢？\n李文：我是中国人。\n白家月：你的中文很好！\n李文：谢谢！",
+          "pinyin": "Lǐ Wén: Nǐ shì nǎ guó rén?\nBái Jiāyuè: Wǒ shì Fǎguó rén. Nǐ ne?\nLǐ Wén: Wǒ shì Zhōngguó rén.\nBái Jiāyuè: Nǐ de Zhōngwén hěn hǎo!\nLǐ Wén: Xièxie!",
+          "translation": "Li Ven: Qaysi davlatdan siz?\nBay Jiayue: Men fransiyalikman. Sizchi?\nLi Ven: Men xitoylikman.\nBay Jiayue: Sizning xitoy tilingiz juda yaxshi!\nLi Ven: Rahmat!"
+        },
+        {
+          "text_number": 2,
+          "original": "安妮：这是谁？\n陈天中：这是我女朋友。\n安妮：她是哪国人？\n陈天中：她是泰国人。",
+          "pinyin": "Ānní: Zhè shì shuí?\nChén Tiānzhōng: Zhè shì wǒ nǚpéngyou.\nĀnní: Tā shì nǎ guó rén?\nChén Tiānzhōng: Tā shì Tàiguó rén.",
+          "translation": "Anni: Bu kim?\nChen Tyanjun: Bu mening qiz do'stim.\nAnni: U qaysi davlatdan?\nChen Tyanjun: U tailandlik."
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：喂，一飞！\n王一飞：姐姐！\n王一雪：你还忙吗？\n王一飞：对，我还很忙。你也忙吗？\n王一雪：我不太忙。我们都想你。\n王一飞：我也很想你们。",
+          "pinyin": "Wáng Yīxuě: Wèi, Yīfēi!\nWáng Yīfēi: Jiějie!\nWáng Yīxuě: Nǐ hái máng ma?\nWáng Yīfēi: Duì, wǒ hái hěn máng. Nǐ yě máng ma?\nWáng Yīxuě: Wǒ bú tài máng. Wǒmen dōu xiǎng nǐ.\nWáng Yīfēi: Wǒ yě hěn xiǎng nǐmen.",
+          "translation": "Van Ixyue: Allo, Yifei!\nVan Yifei: Opa!\nVan Ixyue: Hali ham bandsizmi?\nVan Yifei: Ha, men hali juda bandman. Siz ham bandmisiz?\nVan Ixyue: Men unchalik band emasman. Hammamiz sizni sog'indik.\nVan Yifei: Men ham sizlarni juda sog'indim."
+        }
+      ]
+    },
+    {
+      "lesson_number": 4,
+      "lesson_title": "我有两个孩子",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "刘明：一飞忙吗？\n王一雪：她很忙。\n刘明：她有多少学生？\n王一雪：她有二十个学生。",
+          "pinyin": "Liú Míng: Yīfēi máng ma?\nWáng Yīxuě: Tā hěn máng.\nLiú Míng: Tā yǒu duōshǎo xuéshēng?\nWáng Yīxuě: Tā yǒu èrshí gè xuéshēng.",
+          "translation": "Lyu Ming: Yifei bandmi?\nVan Ixyue: U juda band.\nLyu Ming: Uning nechta talabasi bor?\nVan Ixyue: Uning yigirmata talabasi bor."
+        },
+        {
+          "text_number": 2,
+          "original": "杨同乐：我家有四口人，爸爸、妈妈、妹妹和我。\n王一雪：你家有四口人？\n杨同乐：对。你呢？\n王一雪：我家有三口人，我、我先生和我女儿。",
+          "pinyin": "Yáng Tónglè: Wǒ jiā yǒu sì kǒu rén, bàba, māma, mèimei hé wǒ.\nWáng Yīxuě: Nǐ jiā yǒu sì kǒu rén?\nYáng Tónglè: Duì. Nǐ ne?\nWáng Yīxuě: Wǒ jiā yǒu sān kǒu rén, wǒ, wǒ xiānsheng hé wǒ nǚ'ér.",
+          "translation": "Yang Tongle: Mening oilamda to'rt kishi: dadam, onam, singlim va men.\nVan Ixyue: Sizning oilangizda to'rt kishi?\nYang Tongle: Ha. Sizchi?\nVan Ixyue: Mening oilamda uch kishi: men, erim va qizim."
+        },
+        {
+          "text_number": 3,
+          "original": "杨同乐：这是你儿子吗？\n王一雪：对。我有两个孩子，一个儿子，一个女儿。\n杨同乐：你儿子今年几岁？\n王一雪：他五岁。\n杨同乐：你女儿今年多大？\n王一雪：她十二。",
+          "pinyin": "Yáng Tónglè: Zhè shì nǐ érzi ma?\nWáng Yīxuě: Duì. Wǒ yǒu liǎng gè háizi, yī gè érzi, yī gè nǚ'ér.\nYáng Tónglè: Nǐ érzi jīnnián jǐ suì?\nWáng Yīxuě: Tā wǔ suì.\nYáng Tónglè: Nǐ nǚ'ér jīnnián duō dà?\nWáng Yīxuě: Tā shí'èr.",
+          "translation": "Yang Tongle: Bu sizning o'g'lingizmi?\nVan Ixyue: Ha. Mening ikki farzandim bor: bir o'g'il, bir qiz.\nYang Tongle: O'g'lingiz necha yoshda?\nVan Ixyue: U besh yoshda.\nYang Tongle: Qizingiz necha yoshda?\nVan Ixyue: U o'n ikki yoshda."
+        }
+      ]
+    },
+    {
+      "lesson_number": 5,
+      "lesson_title": "今天我休息",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "王一雪：今天几号？\n刘明：今天9月8号。\n王一雪：今天星期几？\n刘明：今天星期日。今天我休息。",
+          "pinyin": "Wáng Yīxuě: Jīntiān jǐ hào?\nLiú Míng: Jīntiān jiǔ yuè bā hào.\nWáng Yīxuě: Jīntiān xīngqī jǐ?\nLiú Míng: Jīntiān Xīngqírì. Jīntiān wǒ xiūxi.",
+          "translation": "Van Ixyue: Bugun nechanchi kun?\nLyu Ming: Bugun 8-sentyabr.\nVan Ixyue: Bugun haftaning qaysi kuni?\nLyu Ming: Bugun yakshanba. Bugun men dam olaman."
+        },
+        {
+          "text_number": 2,
+          "original": "王一雪：你会做饭吗？\n杨同乐：我会。\n王一雪：你会做什么菜？\n杨同乐：我会做面条儿、饺子，还会做一些菜。我星期天也做饭。",
+          "pinyin": "Wáng Yīxuě: Nǐ huì zuòfàn ma?\nYáng Tónglè: Wǒ huì.\nWáng Yīxuě: Nǐ huì zuò shénme cài?\nYáng Tónglè: Wǒ huì zuò miàntiáor, jiǎozi, hái huì zuò yīxiē cài. Wǒ xīngqítiān yě zuòfàn.",
+          "translation": "Van Ixyue: Ovqat pishirishni bilasizmi?\nYang Tongle: Bilaman.\nVan Ixyue: Qanday taomlar pishirishni bilasiz?\nYang Tongle: Men lag'mon, manti va boshqa taomlar pishirishni bilaman. Yakshanba kuni ham ovqat pishiraman."
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：你今天下班吗？\n杨同乐：对，今天下班。\n王一雪：你的新电脑真好看！\n杨同乐：我很喜欢它。",
+          "pinyin": "Wáng Yīxuě: Nǐ jīntiān xiàbān ma?\nYáng Tónglè: Duì, jīntiān xiàbān.\nWáng Yīxuě: Nǐ de xīn diànnǎo zhēn hǎokàn!\nYáng Tónglè: Wǒ hěn xǐhuān tā.",
+          "translation": "Van Ixyue: Bugun ishdan chiqasizmi?\nYang Tongle: Ha, bugun ishdan chiqaman.\nVan Ixyue: Sizning yangi kompyuteringiz juda chiroyli!\nYang Tongle: Men uni juda yoqtiraman."
+        }
+      ]
+    },
+    {
+      "lesson_number": 6,
+      "lesson_title": "你的手机号是多少？",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "李文：家月，你的手机号是多少？\n白家月：我的手机号是+33 601493190。\n李文：我的手机号是+86 13552721160。\n白家月：好的。",
+          "pinyin": "Lǐ Wén: Jiāyuè, nǐ de shǒujī hào shì duōshǎo?\nBái Jiāyuè: Wǒ de shǒujī hào shì +33 601493190.\nLǐ Wén: Wǒ de shǒujī hào shì +86 13552721160.\nBái Jiāyuè: Hǎo de.",
+          "translation": "Li Ven: Jiayue, telefon raqamingiz necha?\nBay Jiayue: Mening telefon raqamim +33 601493190.\nLi Ven: Mening telefon raqamim +86 13552721160.\nBay Jiayue: Yaxshi."
+        },
+        {
+          "text_number": 2,
+          "original": "陈天中：家月，明天你去哪儿？\n白家月：我想去超市买东西。\n陈天中：你去超市买什么？\n白家月：我想买些牛奶。",
+          "pinyin": "Chén Tiānzhōng: Jiāyuè, míngtiān nǐ qù nǎr?\nBái Jiāyuè: Wǒ xiǎng qù chāoshì mǎi dōngxi.\nChén Tiānzhōng: Nǐ qù chāoshì mǎi shénme?\nBái Jiāyuè: Wǒ xiǎng mǎi xiē niúnǎi.",
+          "translation": "Chen Tyanjun: Jiayue, ertaga qayerga borasiz?\nBay Jiayue: Men supermarketga narsa sotib olishga bormoqchiman.\nChen Tyanjun: Supermarketdan nima sotib olasiz?\nBay Jiayue: Bir oz sut sotib olmoqchiman."
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：星期天我们去哪儿吃晚饭？\n刘明：我还想去西安饭店。\n刘小雪：那边的包子非常好吃，我想吃包子。\n刘小明：妈妈，我想吃米饭，不想吃包子。\n王一雪：好的。我们怎么去？\n刘明：坐出租车去。",
+          "pinyin": "Wáng Yīxuě: Xīngqítiān wǒmen qù nǎr chī wǎnfàn?\nLiú Míng: Wǒ hái xiǎng qù Xī'ān Fàndiàn.\nLiú Xiǎoxuě: Nàbiān de bāozi fēicháng hǎochī, wǒ xiǎng chī bāozi.\nLiú Xiǎomíng: Māma, wǒ xiǎng chī mǐfàn, bù xiǎng chī bāozi.\nWáng Yīxuě: Hǎo de. Wǒmen zěnme qù?\nLiú Míng: Zuò chūzūchē qù.",
+          "translation": "Van Ixyue: Yakshanba kuni kechki ovqatni qayerda yeymiz?\nLyu Ming: Men yana Sian restoraniga bormoqchiman.\nLyu Syaosyue: U yerdagi manti juda mazali, men manti yemoqchiman.\nLyu Syaomin: Oyijon, men guruch yemoqchiman, manti yemayman.\nVan Ixyue: Yaxshi. Qanday boramiz?\nLyu Ming: Taksidek boramiz."
+        }
+      ]
+    },
+    {
+      "lesson_number": 7,
+      "lesson_title": "我晚上六点半下班",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "白家月：现在几点？\n安妮：早上八点四十。\n白家月：我上午十点十分有课。\n安妮：好的，我们下午两点见吧。",
+          "pinyin": "Bái Jiāyuè: Xiànzài jǐ diǎn?\nĀnní: Zǎoshang bā diǎn sìshí.\nBái Jiāyuè: Wǒ shàngwǔ shí diǎn shífēn yǒu kè.\nĀnní: Hǎo de, wǒmen xiàwǔ liǎng diǎn jiàn ba.",
+          "translation": "Bay Jiayue: Hozir soat necha?\nAnni: Ertalab soat sakkiz qirq.\nBay Jiayue: Men tushgacha soat o'n o'n daqiqada darsim bor.\nAnni: Yaxshi, tushdan keyin soat ikkida uchrashamiz."
+        },
+        {
+          "text_number": 2,
+          "original": "李文：下午我想去电影院看电影，你去吗？\n白家月：我不想去，下午还有事。\n李文：好的。明天呢？\n白家月：我明天下午两点还上课呢，四点半下课。",
+          "pinyin": "Lǐ Wén: Xiàwǔ wǒ xiǎng qù diànyǐngyuàn kàn diànyǐng, nǐ qù ma?\nBái Jiāyuè: Wǒ bù xiǎng qù, xiàwǔ hái yǒu shì.\nLǐ Wén: Hǎo de. Míngtiān ne?\nBái Jiāyuè: Wǒ míngtiān xiàwǔ liǎng diǎn hái shàngkè ne, sì diǎn bàn xiàkè.",
+          "translation": "Li Ven: Tushdan keyin kinoteatrga film ko'rishga bormoqchiman, borasizmi?\nBay Jiayue: Men bormayman, tushdan keyin ishim bor.\nLi Ven: Yaxshi. Ertagachi?\nBay Jiayue: Ertaga tushdan keyin soat ikkida darsim bor, to'rt yarimda dars tugaydi."
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：喂，你在哪儿呢？\n刘明：我在家里呢。\n王一雪：我晚上六点半下班。\n刘明：我八点去医院上班。\n王一雪：好的，你去店里买些菜吧。\n刘明：好，我十分钟后去。",
+          "pinyin": "Wáng Yīxuě: Wèi, nǐ zài nǎr ne?\nLiú Míng: Wǒ zài jiā lǐ ne.\nWáng Yīxuě: Wǒ wǎnshang liù diǎn bàn xiàbān.\nLiú Míng: Wǒ bā diǎn qù yīyuàn shàngbān.\nWáng Yīxuě: Hǎo de, nǐ qù diàn lǐ mǎi xiē cài ba.\nLiú Míng: Hǎo, wǒ shí fēnzhōng hòu qù.",
+          "translation": "Van Ixyue: Allo, qayerdasiz?\nLyu Ming: Men uydaman.\nVan Ixyue: Men kechqurun soat olti yarimda ishdan chiqaman.\nLyu Ming: Men soat sakkizda kasalxonaga ishga boraman.\nVan Ixyue: Yaxshi, do'kondan sabzavot sotib oling.\nLyu Ming: Yaxshi, o'n daqiqadan keyin boraman."
+        }
+      ]
+    },
+    {
+      "lesson_number": 8,
+      "lesson_title": "我爸爸也在医院工作",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "白家月：王老师家有一只小猫。\n陈天中：小猫在哪儿？\n白家月：在房间里。\n陈天中：房间里？床上吗？\n白家月：不在床上，在椅子下边。",
+          "pinyin": "Bái Jiāyuè: Wáng lǎoshī jiā yǒu yī zhī xiǎo māo.\nChén Tiānzhōng: Xiǎo māo zài nǎr?\nBái Jiāyuè: Zài fángjiān lǐ.\nChén Tiānzhōng: Fángjiān lǐ? Chuáng shàng ma?\nBái Jiāyuè: Bù zài chuáng shàng, zài yǐzi xiàbiān.",
+          "translation": "Bay Jiayue: Van o'qituvchining uyida bir mushukcha bor.\nChen Tyanjun: Mushukcha qayerda?\nBay Jiayue: Xonada.\nChen Tyanjun: Xonada? Karavotdami?\nBay Jiayue: Karavotda emas, stul ostida."
+        },
+        {
+          "text_number": 2,
+          "original": "白家月：我们在书店前见吧。\n李文：好的。我下午两点能到。",
+          "pinyin": "Bái Jiāyuè: Wǒmen zài shūdiàn qián jiàn ba.\nLǐ Wén: Hǎo de. Wǒ xiàwǔ liǎng diǎn néng dào.",
+          "translation": "Bay Jiayue: Kitob do'koni oldida uchrashamiz.\nLi Ven: Yaxshi. Men tushdan keyin soat ikkida yetib olaman."
+        },
+        {
+          "text_number": 3,
+          "original": "刘明：大医院里病人多，医生很忙。\n胡医生：对，我爸爸也在医院工作。",
+          "pinyin": "Liú Míng: Dà yīyuàn lǐ bìngrén duō, yīshēng hěn máng.\nHú yīshēng: Duì, wǒ bàba yě zài yīyuàn gōngzuò.",
+          "translation": "Lyu Ming: Katta kasalxonada bemorlar ko'p, shifokorlar juda band.\nXu shifokor: Ha, mening dadam ham kasalxonada ishlaydi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 9,
+      "lesson_title": "我明天上午在学校学习",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "李文：学校前边有一家电影院。\n白家月：电影院前边是什么？\n李文：是一家超市。",
+          "pinyin": "Lǐ Wén: Xuéxiào qiánbian yǒu yī jiā diànyǐngyuàn.\nBái Jiāyuè: Diànyǐngyuàn qiánbian shì shénme?\nLǐ Wén: Shì yī jiā chāoshì.",
+          "translation": "Li Ven: Maktab oldida bir kinoteatr bor.\nBay Jiayue: Kinoteatr oldida nima bor?\nLi Ven: Bir supermarket."
+        },
+        {
+          "text_number": 2,
+          "original": "白家月：椅子上有一本中文书，那是谁的书？\n陈天中：是我的书，谢谢。这是我的第二本中文书。\n白家月：不客气。你明天上午在哪儿？\n陈天中：我明天上午在学校学习。",
+          "pinyin": "Bái Jiāyuè: Yǐzi shàng yǒu yī běn Zhōngwén shū, nà shì shuí de shū?\nChén Tiānzhōng: Shì wǒ de shū, xièxie. Zhè shì wǒ de dì-èr běn Zhōngwén shū.\nBái Jiāyuè: Bú kèqi. Nǐ míngtiān shàngwǔ zài nǎr?\nChén Tiānzhōng: Wǒ míngtiān shàngwǔ zài xuéxiào xuéxí.",
+          "translation": "Bay Jiayue: Stul ustida bir xitoy tili kitobi bor, bu kimning kitobi?\nChen Tyanjun: Bu mening kitobim, rahmat. Bu mening ikkinchi xitoy tili kitobim.\nBay Jiayue: Arzimaydi. Ertaga tushgacha qayerda bo'lasiz?\nChen Tyanjun: Ertaga tushgacha maktabda o'qiyman."
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：明天星期六，你做什么？\n杨同乐：我白天在家看书，晚上和朋友出去唱歌。\n王一雪：你唱歌很好听。\n杨同乐：谢谢！你星期六做什么？\n王一雪：我在家做饭、看电视，和孩子们还有我的小狗玩儿。\n杨同乐：我也有一只小狗。",
+          "pinyin": "Wáng Yīxuě: Míngtiān xīngqíliù, nǐ zuò shénme?\nYáng Tónglè: Wǒ báitiān zài jiā kàn shū, wǎnshang hé péngyou chūqù chànggē.\nWáng Yīxuě: Nǐ chànggē hěn hǎotīng.\nYáng Tónglè: Xièxie! Nǐ xīngqíliù zuò shénme?\nWáng Yīxuě: Wǒ zài jiā zuòfàn, kàn diànshì, hé háizimen háiyǒu wǒ de xiǎo gǒu wánr.\nYáng Tónglè: Wǒ yě yǒu yī zhī xiǎo gǒu.",
+          "translation": "Van Ixyue: Ertaga shanba, nima qilasiz?\nYang Tongle: Men kunduzi uyda kitob o'qiyman, kechqurun do'stlar bilan chiqib qo'shiq aytaman.\nVan Ixyue: Sizning qo'shig'ingiz juda yoqimli.\nYang Tongle: Rahmat! Shanba kuni nima qilasiz?\nVan Ixyue: Men uyda ovqat pishiraman, televizor ko'raman, bolalar va kuchukcham bilan o'ynayman.\nYang Tongle: Mening ham bir kuchukcham bor."
+        }
+      ]
+    },
+    {
+      "lesson_number": 10,
+      "lesson_title": "这儿的苹果真便宜！",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "售货员：您好！您买什么？\n王一雪：我看看。这个杯子多少钱？\n售货员：这个杯子十五块。\n王一雪：这些呢？\n售货员：那些二十块。",
+          "pinyin": "Shòuhuòyuán: Nín hǎo! Nín mǎi shénme?\nWáng Yīxuě: Wǒ kànkan. Zhège bēizi duōshǎo qián?\nShòuhuòyuán: Zhège bēizi shíwǔ kuài.\nWáng Yīxuě: Zhèxiē ne?\nShòuhuòyuán: Nàxiē èrshí kuài.",
+          "translation": "Sotuvchi: Salom! Nima sotib olasiz?\nVan Ixyue: Men ko'ray. Bu stakan necha pul?\nSotuvchi: Bu stakan o'n besh yuan.\nVan Ixyue: Bularchi?\nSotuvchi: Ular yigirma yuan."
+        },
+        {
+          "text_number": 2,
+          "original": "王一雪：这儿的水果真不少！\n售货员：您想买什么？\n王一雪：我想买两斤苹果。\n售货员：苹果三块五一斤。一共七块二，给七块吧。\n王一雪：好的！这儿的苹果真便宜！",
+          "pinyin": "Wáng Yīxuě: Zhèr de shuǐguǒ zhēn bù shǎo!\nShòuhuòyuán: Nín xiǎng mǎi shénme?\nWáng Yīxuě: Wǒ xiǎng mǎi liǎng jīn píngguǒ.\nShòuhuòyuán: Píngguǒ sān kuài wǔ yī jīn. Yīgòng qī kuài èr, gěi qī kuài ba.\nWáng Yīxuě: Hǎo de! Zhèr de píngguǒ zhēn piányi!",
+          "translation": "Van Ixyue: Bu yerdagi mevalar juda ko'p!\nSotuvchi: Nima sotib olmoqchisiz?\nVan Ixyue: Ikki jin olma sotib olmoqchiman.\nSotuvchi: Olma bir jin uch yarim yuan. Hammasi yetti ikki, yetti yuan bering.\nVan Ixyue: Yaxshi! Bu yerdagi olmalar juda arzon!"
+        },
+        {
+          "text_number": 3,
+          "original": "王一雪：这家商店衣服真多！这件一百元，怎么样？\n刘明：好看，也不贵。\n王一雪：小雪能穿，买一件吧。\n刘明：好的。小明能穿吗？\n王一雪：不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。\n刘明：好的。",
+          "pinyin": "Wáng Yīxuě: Zhè jiā shāngdiàn yīfu zhēn duō! Zhè jiàn yībǎi yuán, zěnmeyàng?\nLiú Míng: Hǎokàn, yě bú guì.\nWáng Yīxuě: Xiǎoxuě néng chuān, mǎi yī jiàn ba.\nLiú Míng: Hǎo de. Xiǎomíng néng chuān ma?\nWáng Yīxuě: Bù néng. Zhèxiē shì nǚ háizi chuān de yīfu, nán háizi de yīfu zài nàr.\nLiú Míng: Hǎo de.",
+          "translation": "Van Ixyue: Bu do'konda kiyimlar juda ko'p! Bu yuz yuan, qanday?\nLyu Ming: Chiroyli, qimmat ham emas.\nVan Ixyue: Syaosyue kiyishi mumkin, bitta sotib olaylik.\nLyu Ming: Yaxshi. Syaomin kiyishi mumkinmi?\nVan Ixyue: Yo'q. Bular qiz bolalar kiyimi, o'g'il bolalar kiyimi u yerda.\nLyu Ming: Yaxshi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 11,
+      "lesson_title": "我读大学呢",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "王一飞：喂，李文，你什么时候能到饭店？\n李文：还不知道，正在找呢。它是不是在超市后边？\n王一飞：是的。你开车没开车？\n李文：我没开车，坐车呢。",
+          "pinyin": "Wáng Yīfēi: Wèi, Lǐ Wén, nǐ shénme shíhou néng dào fàndiàn?\nLǐ Wén: Hái bù zhīdào, zhèngzài zhǎo ne. Tā shì bù shì zài chāoshì hòubiān?\nWáng Yīfēi: Shì de. Nǐ kāichē méi kāichē?\nLǐ Wén: Wǒ méi kāichē, zuò chē ne.",
+          "translation": "Van Yifei: Allo, Li Ven, qachon restoranga yetib olasiz?\nLi Ven: Hali bilmayman, qidiryapman. U supermarket orqasidami?\nVan Yifei: Ha. Mashina haydayapsizmi?\nLi Ven: Men mashina haydamayapman, taksidek ketyapman."
+        },
+        {
+          "text_number": 2,
+          "original": "王一飞：你还在读大学吗？\n李文：对，我还在读大学。我很忙，有很多课。",
+          "pinyin": "Wáng Yīfēi: Nǐ hái zài dú dàxué ma?\nLǐ Wén: Duì, wǒ hái zài dú dàxué. Wǒ hěn máng, yǒu hěn duō kè.",
+          "translation": "Van Yifei: Hali ham universitetda o'qiysizmi?\nLi Ven: Ha, hali universitetda o'qiyman. Men juda bandman, darslarim ko'p."
+        },
+        {
+          "text_number": 3,
+          "original": "刘明：弟弟起床没起床呢？\n刘小雪：没起床呢，还在睡觉。\n刘明：还睡呢？他今天去不去那里？\n刘小雪：去哪里？\n刘明：去超市。\n刘小雪：我昨天问他，他对我说话，他不去，他今天要和小朋友玩。",
+          "pinyin": "Liú Míng: Dìdi qǐchuáng méi qǐchuáng ne?\nLiú Xiǎoxuě: Méi qǐchuáng ne, hái zài shuìjiào.\nLiú Míng: Hái shuì ne? Tā jīntiān qù bù qù nàlǐ?\nLiú Xiǎoxuě: Qù nǎlǐ?\nLiú Míng: Qù chāoshì.\nLiú Xiǎoxuě: Wǒ zuótiān wèn tā, tā duì wǒ shuōhuà, tā bú qù, tā jīntiān yào hé xiǎopéngyǒu wán.",
+          "translation": "Lyu Ming: Uka uyg'ondimi?\nLyu Syaosyue: Uyg'onmadi, hali uxlayapti.\nLyu Ming: Hali uxlayaptimi? U bugun u yerga boradimi?\nLyu Syaosyue: Qayerga?\nLyu Ming: Supermarketga.\nLyu Syaosyue: Men kecha undan so'radim, u menga gapirdi, u bormaydi, bugun bolalar bilan o'ynaydi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 12,
+      "lesson_title": "昨天下雪了",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "王一雪：今天天气怎么样？\n王一飞：这里的天不太好，下雨了。\n王一雪：雨大吗？\n王一飞：有点儿大，我觉得很冷。",
+          "pinyin": "Wáng Yīxuě: Jīntiān tiānqì zěnmeyàng?\nWáng Yīfēi: Zhèlǐ de tiān bú tài hǎo, xiàyǔ le.\nWáng Yīxuě: Yǔ dà ma?\nWáng Yīfēi: Yǒudiǎnr dà, wǒ juéde hěn lěng.",
+          "translation": "Van Ixyue: Bugun ob-havo qanday?\nVan Yifei: Bu yerning ob-havosi unchalik yaxshi emas, yomg'ir yog'yapti.\nVan Ixyue: Yomg'ir kattami?\nVan Yifei: Bir oz katta, men juda sovuq his qilyapman."
+        },
+        {
+          "text_number": 2,
+          "original": "王一雪：昨天下雪了。\n杨同乐：是的，太冷了。\n王一雪：你昨天没来公司，生病了？\n杨同乐：对，我昨天去医院看病了。",
+          "pinyin": "Wáng Yīxuě: Zuótiān xià xuě le.\nYáng Tónglè: Shì de, tài lěng le.\nWáng Yīxuě: Nǐ zuótiān méi lái gōngsī, shēngbìng le?\nYáng Tónglè: Duì, wǒ zuótiān qù yīyuàn kànbìng le.",
+          "translation": "Van Ixyue: Kecha qor yog'di.\nYang Tongle: Ha, juda sovuq edi.\nVan Ixyue: Kecha kompaniyaga kelmadingiz, kasal bo'ldingizmi?\nYang Tongle: Ha, kecha kasalxonaga shifokorga bordim."
+        },
+        {
+          "text_number": 3,
+          "original": "杨同乐：医生，我病了。\n胡医生：我看看。你觉得怎么样？\n杨同乐：我很冷。\n胡医生：好的，吃一点儿药，今天休息半天吧。\n杨同乐：好的。\n胡医生：回家后再喝些热水。",
+          "pinyin": "Yáng Tónglè: Yīshēng, wǒ bìng le.\nHú yīshēng: Wǒ kànkan. Nǐ juéde zěnmeyàng?\nYáng Tónglè: Wǒ hěn lěng.\nHú yīshēng: Hǎo de, chī yīdiǎnr yào, jīntiān xiūxi bàn tiān ba.\nYáng Tónglè: Hǎo de.\nHú yīshēng: Huí jiā hòu zài hē xiē rè shuǐ.",
+          "translation": "Yang Tongle: Shifokor, men kasalman.\nXu shifokor: Men ko'ray. O'zingizni qanday his qilyapsiz?\nYang Tongle: Men juda sovuq.\nXu shifokor: Yaxshi, bir oz dori iching, bugun yarim kun dam oling.\nYang Tongle: Yaxshi.\nXu shifokor: Uyga qaytgach, issiq suv iching."
+        }
+      ]
+    },
+    {
+      "lesson_number": 13,
+      "lesson_title": "请给我一杯茶",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "白家月：王老师，我可以再问您一个问题吗？\n王一飞：当然可以。什么问题？\n白家月：那个小店卖不卖手机？\n王一飞：我不知道，你可以打电话问一下。",
+          "pinyin": "Bái Jiāyuè: Wáng lǎoshī, wǒ kěyǐ zài wèn nín yī gè wèntí ma?\nWáng Yīfēi: Dāngrán kěyǐ. Shénme wèntí?\nBái Jiāyuè: Nà gè xiǎo diàn mài bú mài shǒujī?\nWáng Yīfēi: Wǒ bù zhīdào, nǐ kěyǐ dǎ diànhuà wèn yīxià.",
+          "translation": "Bay Jiayue: Van o'qituvchi, sizdan yana bir savol so'rasam maylimi?\nVan Yifei: Albatta. Qanday savol?\nBay Jiayue: U kichik do'konda telefon sotiladimi?\nVan Yifei: Bilmayman, telefon qilib so'rab ko'ring."
+        },
+        {
+          "text_number": 2,
+          "original": "服务员：女士，请坐！您喝什么？\n王一雪：我看看。请给我一杯牛奶。\n服务员：好的。还要什么？\n王一雪：我还没吃早饭，再要这个面包和鸡蛋吧。",
+          "pinyin": "Fúwùyuán: Nǚshì, qǐng zuò! Nín hē shénme?\nWáng Yīxuě: Wǒ kànkan. Qǐng gěi wǒ yī bēi niúnǎi.\nFúwùyuán: Hǎo de. Hái yào shénme?\nWáng Yīxuě: Wǒ hái méi chī zǎofàn, zài yào zhège miànbāo hé jīdàn ba.",
+          "translation": "Ofitsiant: Xonim, o'tiring! Nima ichasiz?\nVan Ixyue: Men ko'ray. Menga bir stakan sut bering.\nOfitsiant: Yaxshi. Yana nima kerak?\nVan Ixyue: Men hali nonushta qilmadim, yana bu non va tuxum bering."
+        },
+        {
+          "text_number": 3,
+          "original": "服务员：先生，您想吃点儿什么？\n刘明：你们这儿有什么？\n服务员：我们有米饭、饺子、面条儿。\n刘明：我要二十个饺子，一碗米饭。\n服务员：喝什么？\n刘明：请给我一杯茶。",
+          "pinyin": "Fúwùyuán: Xiānsheng, nín xiǎng chī diǎnr shénme?\nLiú Míng: Nǐmen zhèr yǒu shénme?\nFúwùyuán: Wǒmen yǒu mǐfàn, jiǎozi, miàntiáor.\nLiú Míng: Wǒ yào èrshí gè jiǎozi, yī wǎn mǐfàn.\nFúwùyuán: Hē shénme?\nLiú Míng: Qǐng gěi wǒ yī bēi chá.",
+          "translation": "Ofitsiant: Janob, nima yemoqchisiz?\nLyu Ming: Sizlarda nima bor?\nOfitsiant: Bizda guruch, manti, lag'mon bor.\nLyu Ming: Men yigirmata manti va bir piyola guruch olaman.\nOfitsiant: Nima ichasiz?\nLyu Ming: Menga bir stakan choy bering."
+        }
+      ]
+    },
+    {
+      "lesson_number": 14,
+      "lesson_title": "我看了一个电影",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "白家月：你们上火车后看见王老师了吗？\n陈天中：没看见。中午开车后，有些人在看书，有些人睡觉了。\n白家月：你呢？\n陈天中：我看了一个电影。",
+          "pinyin": "Bái Jiāyuè: Nǐmen shàng huǒchē hòu kànjiàn Wáng lǎoshī le ma?\nChén Tiānzhōng: Méi kànjiàn. Zhōngwǔ kāichē hòu, yǒuxiē rén zài kàn shū, yǒuxiē rén shuìjiào le.\nBái Jiāyuè: Nǐ ne?\nChén Tiānzhōng: Wǒ kàn le yī gè diànyǐng.",
+          "translation": "Bay Jiayue: Poyezdga chiqqandan keyin Van o'qituvchini ko'rdingizmi?\nChen Tyanjun: Ko'rmadik. Tushda poyezd jo'nab ketganidan keyin, ba'zilar kitob o'qidi, ba'zilar uxladi.\nBay Jiayue: Sizchi?\nChen Tyanjun: Men bir film ko'rdim."
+        },
+        {
+          "text_number": 2,
+          "original": "王一飞：你们会说汉语了，也会写汉字了吗？\n白家月：我们都会写了。\n陈天中：老师，我听不见。\n王一飞：请大家不要说话！请听老师的问题：你们都会写哪些汉字了？\n陈天中：我会写这些字了，您看！",
+          "pinyin": "Wáng Yīfēi: Nǐmen huì shuō Hànyǔ le, yě huì xiě Hànzì le ma?\nBái Jiāyuè: Wǒmen dōu huì xiě le.\nChén Tiānzhōng: Lǎoshī, wǒ tīng bù jiàn.\nWáng Yīfēi: Qǐng dàjiā búyào shuōhuà! Qǐng tīng lǎoshī de wèntí: Nǐmen dōu huì xiě nǎxiē Hànzì le?\nChén Tiānzhōng: Wǒ huì xiě zhèxiē zì le, nín kàn!",
+          "translation": "Van Yifei: Sizlar xitoycha gapira olasizlar, xitoycha yozishni ham bilasizlarmi?\nBay Jiayue: Hammamiz yozishni bilamiz.\nChen Tyanjun: O'qituvchi, men eshitmayapman.\nVan Yifei: Iltimos, hamma gapirmasin! O'qituvchining savolini tinglang: Hammangiz qaysi xitoycha harflarni yozishni bilasizlar?\nChen Tyanjun: Men bu harflarni yozishni bilaman, qarang!"
+        },
+        {
+          "text_number": 3,
+          "original": "刘明：明年女儿上中学。\n王一雪：儿子也上小学。\n刘明：上学后，他们都忙了。",
+          "pinyin": "Liú Míng: Míngnián nǚ'ér shàng zhōngxué.\nWáng Yīxuě: Érzi yě shàng xiǎoxué.\nLiú Míng: Shàngxué hòu, tāmen dōu máng le.",
+          "translation": "Lyu Ming: Kelasi yil qizim o'rta maktabga boradi.\nVan Ixyue: O'g'lim ham boshlang'ich maktabga boradi.\nLyu Ming: Maktabga borgach, ikkalasi ham band bo'ladi."
+        }
+      ]
+    },
+    {
+      "lesson_number": 15,
+      "lesson_title": "大兴机场见！",
+      "texts": [
+        {
+          "text_number": 1,
+          "original": "李文：你们爱吃什么菜？\n白家月：我爱吃这个，也爱吃那个。\n陈天中：这些菜都好吃，也很好看。\n李文：我爱吃中国菜，也爱做中国菜。大家多吃点儿。",
+          "pinyin": "Lǐ Wén: Nǐmen ài chī shénme cài?\nBái Jiāyuè: Wǒ ài chī zhège, yě ài chī nàge.\nChén Tiānzhōng: Zhèxiē cài dōu hǎochī, yě hěn hǎokàn.\nLǐ Wén: Wǒ ài chī Zhōngguó cài, yě ài zuò Zhōngguó cài. Dàjiā duō chī diǎnr.",
+          "translation": "Li Ven: Sizlar qaysi taomlarni yoqtirasizlar?\nBay Jiayue: Men buni yoqtiraman, uni ham yoqtiraman.\nChen Tyanjun: Bu taomlarning hammasi mazali va chiroyli ham.\nLi Ven: Men xitoy taomlarini yeyishni yaxshi ko'raman, pishirishni ham yaxshi ko'raman. Hammangiz ko'proq yeng."
+        },
+        {
+          "text_number": 2,
+          "original": "李文：你们都想去哪儿？\n安妮：我和我男朋友去年去了西安，今年我想去北京。\n白家月：我前几年去了西安，那儿真好玩儿。今年我也想去北京。\n李文：王老师和我都是北京人。北京很漂亮。",
+          "pinyin": "Lǐ Wén: Nǐmen dōu xiǎng qù nǎr?\nĀnní: Wǒ hé wǒ nánpéngyou qùnián qù le Xī'ān, jīnnián wǒ xiǎng qù Běijīng.\nBái Jiāyuè: Wǒ qián jǐ nián qù le Xī'ān, nàr zhēn hǎowánr. Jīnnián wǒ yě xiǎng qù Běijīng.\nLǐ Wén: Wáng lǎoshī hé wǒ dōu shì Běijīng rén. Běijīng hěn piàoliang.",
+          "translation": "Li Ven: Hammangiz qayerga bormoqchisizlar?\nAnni: Men va yigit do'stim o'tgan yili Sian shahriga bordik, bu yil men Pekinga bormoqchiman.\nBay Jiayue: Men bir necha yil oldin Sian shahriga bordim, u yer juda qiziqarli. Bu yil men ham Pekinga bormoqchiman.\nLi Ven: Van o'qituvchi va men ikkalamiz pekinlikmiz. Pekin juda chiroyli."
+        },
+        {
+          "text_number": 3,
+          "original": "王一飞：你们的飞机到北京要几个小时？\n白家月：九个小时。\n王一飞：我家人都在北京，星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。\n安妮：我们星期日上午八点到大兴机场，早不早？\n王一飞：不早。\n白家月：谢谢老师！那我们和您姐姐在大兴机场见！",
+          "pinyin": "Wáng Yīfēi: Nǐmen de fēijī dào Běijīng yào jǐ gè xiǎoshí?\nBái Jiāyuè: Jiǔ gè xiǎoshí.\nWáng Yīfēi: Wǒ jiārén dōu zài Běijīng, xīngqítiān wǒ jiějie yě yǒu shíjiān, tā kěyǐ qù jīchǎng jiē nǐmen, nǐmen yě kěyǐ zhù wǒ jiā.\nĀnní: Wǒmen xīngqírì shàngwǔ bā diǎn dào Dàxīng Jīchǎng, zǎo bù zǎo?\nWáng Yīfēi: Bù zǎo.\nBái Jiāyuè: Xièxie lǎoshī! Nà wǒmen hé nín jiějie zài Dàxīng Jīchǎng jiàn!",
+          "translation": "Van Yifei: Samolyotingiz Pekinga necha soatda yetib boradi?\nBay Jiayue: To'qqiz soat.\nVan Yifei: Mening oilamning hammasi Pekinda, yakshanba kuni opamning ham vaqti bor, u aeroportda sizlarni kutib olishi mumkin, sizlar mening uyimda ham turishingiz mumkin.\nAnni: Biz yakshanba kuni ertalab soat sakkizda Daxing aeroportiga yetib boramiz, ertami?\nVan Yifei: Erta emas.\nBay Jiayue: Rahmat o'qituvchi! Unda sizning opangiz bilan Daxing aeroportida uchrashamiz!"
+        }
+      ]
+    }
+  ]
+}
