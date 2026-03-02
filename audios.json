@@ -1,0 +1,851 @@
+{
+  "hsk3_level1_audio": {
+    "book": "新HSK教程1",
+    "description": "Har bir dars uchun audio treklar raqamlari bilan - barcha so'zlar alohida",
+    "lessons": [
+      {
+        "lesson": 1,
+        "title": "AI小语，你好！",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "1-1",
+                "title": "课文1",
+                "content": "王一飞：你好！\n小语：王老师，您好！"
+              },
+              {
+                "number": 2,
+                "audio": "1-3",
+                "title": "课文2",
+                "content": "王一飞：你们好！\n学生们：老师好！\n小语：大家好！\n学生们：小语好！"
+              },
+              {
+                "number": 3,
+                "audio": "1-5",
+                "title": "课文3",
+                "content": "白家月：谢谢！\n李文：不客气！\n陈天中：再见！\n安妮：再见！"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "你好", "pinyin": "nǐ hǎo", "meaning": "salom", "audio": "1-2"},
+              {"hanzi": "您", "pinyin": "nín", "meaning": "siz (hurmat)", "audio": "1-2"},
+              {"hanzi": "谢谢", "pinyin": "xièxie", "meaning": "rahmat", "audio": "1-4"},
+              {"hanzi": "不客气", "pinyin": "bú kèqi", "meaning": "arzimaydi", "audio": "1-4"},
+              {"hanzi": "再见", "pinyin": "zàijiàn", "meaning": "xayr", "audio": "1-4"},
+              {"hanzi": "老师", "pinyin": "lǎoshī", "meaning": "o'qituvchi", "audio": "1-2"},
+              {"hanzi": "同学", "pinyin": "tóngxué", "meaning": "sinfdosh", "audio": "1-4"},
+              {"hanzi": "学生", "pinyin": "xuésheng", "meaning": "talaba", "audio": "1-4"}
+            ],
+            "proper_nouns": [
+              {"hanzi": "王老师", "pinyin": "Wáng lǎoshī", "meaning": "Vang o'qituvchi", "audio": "1-2"}
+            ]
+          },
+          {
+            "type": "绕口令",
+            "audio": "1-7",
+            "title": "跟读绕口令",
+            "content": "妈种麻，我放马。马吃麻，妈骂马。"
+          }
+        ]
+      },
+      {
+        "lesson": 2,
+        "title": "我叫李文",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "2-1",
+                "title": "课文1",
+                "content": "王一飞：请问，你叫什么名字？\n陈天中：我叫陈天中。"
+              },
+              {
+                "number": 2,
+                "audio": "2-3",
+                "title": "课文2",
+                "content": "陈天中：安妮，你好！\n白家月：陈天中，你好！我不是安妮，我是白家月。\n陈天中：对不起！\n白家月：没关系！"
+              },
+              {
+                "number": 3,
+                "audio": "2-5",
+                "title": "课文3",
+                "content": "李文：你好！我叫李文。\n白家月：你好！我叫白家月。很高兴认识你！\n李文：我也很高兴认识你！"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "请问", "pinyin": "qǐngwèn", "meaning": "kechirasiz, so'ramoqchiman", "audio": "2-2"},
+              {"hanzi": "你", "pinyin": "nǐ", "meaning": "sen", "audio": "2-2"},
+              {"hanzi": "叫", "pinyin": "jiào", "meaning": "ismlanmoq", "audio": "2-2"},
+              {"hanzi": "什么", "pinyin": "shénme", "meaning": "nima", "audio": "2-2"},
+              {"hanzi": "名字", "pinyin": "míngzi", "meaning": "ism", "audio": "2-2"},
+              {"hanzi": "我", "pinyin": "wǒ", "meaning": "men", "audio": "2-2"},
+              {"hanzi": "对不起", "pinyin": "duìbuqǐ", "meaning": "kechirasiz", "audio": "2-6"},
+              {"hanzi": "没关系", "pinyin": "méi guānxi", "meaning": "hechqisi yo'q", "audio": "2-6"},
+              {"hanzi": "很", "pinyin": "hěn", "meaning": "juda", "audio": "2-6"},
+              {"hanzi": "高兴", "pinyin": "gāoxìng", "meaning": "xursand", "audio": "2-6"},
+              {"hanzi": "认识", "pinyin": "rènshi", "meaning": "tanimoq", "audio": "2-6"},
+              {"hanzi": "也", "pinyin": "yě", "meaning": "ham", "audio": "2-6"}
+            ]
+          },
+          {
+            "type": "绕口令",
+            "audio": "2-7",
+            "title": "跟读绕口令",
+            "content": "七加一，再减一，加完减完等于几？加完减完还是七。"
+          }
+        ]
+      },
+      {
+        "lesson": 3,
+        "title": "我是中国人",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "3-1",
+                "title": "课文1",
+                "content": "李文：你是哪国人？\n白家月：我是法国人。你呢？\n李文：我是中国人。\n白家月：你的中文很好！\n李文：谢谢！"
+              },
+              {
+                "number": 2,
+                "audio": "3-3",
+                "title": "课文2",
+                "content": "安妮：这是谁？\n陈天中：这是我女朋友。\n安妮：她是哪国人？\n陈天中：她是泰国人。"
+              },
+              {
+                "number": 3,
+                "audio": "3-5",
+                "title": "课文3",
+                "content": "王一雪：喂，一飞！\n王一飞：姐姐！\n王一雪：你还忙吗？\n王一飞：对，我还很忙。你也忙吗？\n王一雪：我不太忙。我们都想你。\n王一飞：我也很想你们。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "人", "pinyin": "rén", "meaning": "odam", "audio": "3-2"},
+              {"hanzi": "的", "pinyin": "de", "meaning": "ega", "audio": "3-2"},
+              {"hanzi": "这", "pinyin": "zhè", "meaning": "bu", "audio": "3-4"},
+              {"hanzi": "谁", "pinyin": "shéi", "meaning": "kim", "audio": "3-4"},
+              {"hanzi": "女朋友", "pinyin": "nǚpéngyou", "meaning": "qiz do'st", "audio": "3-4"},
+              {"hanzi": "哪", "pinyin": "nǎ", "meaning": "qaysi", "audio": "3-4"},
+              {"hanzi": "国", "pinyin": "guó", "meaning": "davlat", "audio": "3-4"},
+              {"hanzi": "她", "pinyin": "tā", "meaning": "u (ayol)", "audio": "3-4"},
+              {"hanzi": "忙", "pinyin": "máng", "meaning": "band", "audio": "3-6"},
+              {"hanzi": "想", "pinyin": "xiǎng", "meaning": "xohlamoq", "audio": "3-6"},
+              {"hanzi": "太", "pinyin": "tài", "meaning": "juda", "audio": "3-6"},
+              {"hanzi": "对", "pinyin": "duì", "meaning": "to'g'ri", "audio": "3-6"}
+            ],
+            "proper_nouns": [
+              {"hanzi": "中国", "pinyin": "Zhōngguó", "meaning": "Xitoy", "audio": "3-2"},
+              {"hanzi": "法国", "pinyin": "Fǎguó", "meaning": "Fransiya", "audio": "3-2"},
+              {"hanzi": "中文", "pinyin": "Zhōngwén", "meaning": "xitoy tili", "audio": "3-2"},
+              {"hanzi": "泰国", "pinyin": "Tàiguó", "meaning": "Tailand", "audio": "3-4"}
+            ]
+          },
+          {
+            "type": "绕口令",
+            "audio": "3-7",
+            "title": "跟读绕口令",
+            "content": "四是四，十是十。十四是十四，四十是四十。"
+          }
+        ]
+      },
+      {
+        "lesson": 4,
+        "title": "我有两个孩子",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "4-1",
+                "title": "课文1",
+                "content": "刘明：一飞忙吗？\n王一雪：她很忙。\n刘明：她有多少学生？\n王一雪：她有二十个学生。"
+              },
+              {
+                "number": 2,
+                "audio": "4-3",
+                "title": "课文2",
+                "content": "杨同乐：我家有四口人，爸爸、妈妈、妹妹和我。\n王一雪：你家有四口人？\n杨同乐：对。你呢？\n王一雪：我家有三口人，我、我先生和我女儿。"
+              },
+              {
+                "number": 3,
+                "audio": "4-5",
+                "title": "课文3",
+                "content": "杨同乐：这是你儿子吗？\n王一雪：对。我有两个孩子，一个儿子，一个女儿。\n杨同乐：你儿子今年几岁？\n王一雪：他五岁。\n杨同乐：你女儿今年多大？\n王一雪：她十二。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "爸爸", "pinyin": "bàba", "meaning": "ota", "audio": "4-2"},
+              {"hanzi": "妈妈", "pinyin": "māma", "meaning": "ona", "audio": "4-2"},
+              {"hanzi": "哥哥", "pinyin": "gēge", "meaning": "aka", "audio": "4-2"},
+              {"hanzi": "姐姐", "pinyin": "jiějie", "meaning": "opa", "audio": "4-2"},
+              {"hanzi": "弟弟", "pinyin": "dìdi", "meaning": "uka", "audio": "4-2"},
+              {"hanzi": "妹妹", "pinyin": "mèimei", "meaning": "singil", "audio": "4-2"},
+              {"hanzi": "孩子", "pinyin": "háizi", "meaning": "bola", "audio": "4-4"},
+              {"hanzi": "儿子", "pinyin": "érzi", "meaning": "o'g'il", "audio": "4-6"},
+              {"hanzi": "女儿", "pinyin": "nǚ'ér", "meaning": "qiz", "audio": "4-6"},
+              {"hanzi": "有", "pinyin": "yǒu", "meaning": "bor", "audio": "4-2"},
+              {"hanzi": "没", "pinyin": "méi", "meaning": "yo'q", "audio": "4-2"},
+              {"hanzi": "没有", "pinyin": "méiyǒu", "meaning": "yo'q", "audio": "4-2"},
+              {"hanzi": "两", "pinyin": "liǎng", "meaning": "ikki", "audio": "4-4"},
+              {"hanzi": "口", "pinyin": "kǒu", "meaning": "hisob so'z", "audio": "4-4"},
+              {"hanzi": "个", "pinyin": "gè", "meaning": "hisob so'z", "audio": "4-2"},
+              {"hanzi": "今年", "pinyin": "jīnnián", "meaning": "bu yil", "audio": "4-6"},
+              {"hanzi": "岁", "pinyin": "suì", "meaning": "yosh", "audio": "4-6"},
+              {"hanzi": "多", "pinyin": "duō", "meaning": "qancha", "audio": "4-6"},
+              {"hanzi": "大", "pinyin": "dà", "meaning": "katta", "audio": "4-6"},
+              {"hanzi": "几", "pinyin": "jǐ", "meaning": "necha", "audio": "4-4"},
+              {"hanzi": "他", "pinyin": "tā", "meaning": "u (erkak)", "audio": "4-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 5,
+        "title": "今天我休息",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "5-1",
+                "title": "课文1",
+                "content": "王一雪：今天几号？\n刘明：今天9月8号。\n王一雪：今天星期几？\n刘明：今天星期日。今天我休息。"
+              },
+              {
+                "number": 2,
+                "audio": "5-3",
+                "title": "课文2",
+                "content": "王一雪：你会做饭吗？\n杨同乐：我会。\n王一雪：你会做什么菜？\n杨同乐：我会做面条儿、饺子，还会做一些菜。我星期天也做饭。"
+              },
+              {
+                "number": 3,
+                "audio": "5-5",
+                "title": "课文3",
+                "content": "王一雪：你今天下班吗？\n杨同乐：对，今天下班。\n王一雪：你的新电脑真好看！\n杨同乐：我很喜欢它。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "今天", "pinyin": "jīntiān", "meaning": "bugun", "audio": "5-2"},
+              {"hanzi": "号", "pinyin": "hào", "meaning": "sana", "audio": "5-2"},
+              {"hanzi": "月", "pinyin": "yuè", "meaning": "oy", "audio": "5-2"},
+              {"hanzi": "日", "pinyin": "rì", "meaning": "kun", "audio": "5-2"},
+              {"hanzi": "星期", "pinyin": "xīngqī", "meaning": "hafta", "audio": "5-2"},
+              {"hanzi": "星期日", "pinyin": "Xīngqírì", "meaning": "yakshanba", "audio": "5-2"},
+              {"hanzi": "星期天", "pinyin": "Xīngqítiān", "meaning": "yakshanba", "audio": "5-2"},
+              {"hanzi": "休息", "pinyin": "xiūxi", "meaning": "dam olmoq", "audio": "5-2"},
+              {"hanzi": "会", "pinyin": "huì", "meaning": "qila olmoq", "audio": "5-4"},
+              {"hanzi": "做饭", "pinyin": "zuòfàn", "meaning": "ovqat pishirmoq", "audio": "5-4"},
+              {"hanzi": "做", "pinyin": "zuò", "meaning": "qilmoq", "audio": "5-4"},
+              {"hanzi": "面条儿", "pinyin": "miàntiáor", "meaning": "lag'mon", "audio": "5-4"},
+              {"hanzi": "饺子", "pinyin": "jiǎozi", "meaning": "manti", "audio": "5-4"},
+              {"hanzi": "一些", "pinyin": "yīxiē", "meaning": "bir qancha", "audio": "5-4"},
+              {"hanzi": "菜", "pinyin": "cài", "meaning": "ovqat", "audio": "5-4"},
+              {"hanzi": "下班", "pinyin": "xiàbān", "meaning": "ishdan chiqmoq", "audio": "5-6"},
+              {"hanzi": "新", "pinyin": "xīn", "meaning": "yangi", "audio": "5-6"},
+              {"hanzi": "电脑", "pinyin": "diànnǎo", "meaning": "kompyuter", "audio": "5-6"},
+              {"hanzi": "真", "pinyin": "zhēn", "meaning": "haqiqatan", "audio": "5-6"},
+              {"hanzi": "好看", "pinyin": "hǎokàn", "meaning": "chiroyli", "audio": "5-6"},
+              {"hanzi": "喜欢", "pinyin": "xǐhuān", "meaning": "yoqtirmoq", "audio": "5-6"},
+              {"hanzi": "它", "pinyin": "tā", "meaning": "u (narsa)", "audio": "5-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 6,
+        "title": "你的手机号是多少？",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "6-1",
+                "title": "课文1",
+                "content": "李文：家月，你的手机号是多少？\n白家月：我的手机号是+33 601493190。\n李文：我的手机号是+86 13552721160。\n白家月：好的。"
+              },
+              {
+                "number": 2,
+                "audio": "6-3",
+                "title": "课文2",
+                "content": "陈天中：家月，明天你去哪儿？\n白家月：我想去超市买东西。\n陈天中：你去超市买什么？\n白家月：我想买些牛奶。"
+              },
+              {
+                "number": 3,
+                "audio": "6-5",
+                "title": "课文3",
+                "content": "王一雪：星期天我们去哪儿吃晚饭？\n刘明：我还想去西安饭店。\n刘小雪：那边的包子非常好吃，我想吃包子。\n刘小明：妈妈，我想吃米饭，不想吃包子。\n王一雪：好的。我们怎么去？\n刘明：坐出租车去。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "手机", "pinyin": "shǒujī", "meaning": "mobil telefon", "audio": "6-2"},
+              {"hanzi": "多少", "pinyin": "duōshǎo", "meaning": "qancha", "audio": "6-2"},
+              {"hanzi": "明天", "pinyin": "míngtiān", "meaning": "ertaga", "audio": "6-4"},
+              {"hanzi": "去", "pinyin": "qù", "meaning": "bormoq", "audio": "6-4"},
+              {"hanzi": "哪儿", "pinyin": "nǎr", "meaning": "qayer", "audio": "6-4"},
+              {"hanzi": "想", "pinyin": "xiǎng", "meaning": "xohlamoq", "audio": "6-4"},
+              {"hanzi": "超市", "pinyin": "chāoshì", "meaning": "supermarket", "audio": "6-4"},
+              {"hanzi": "买", "pinyin": "mǎi", "meaning": "sotib olmoq", "audio": "6-4"},
+              {"hanzi": "东西", "pinyin": "dōngxi", "meaning": "narsa", "audio": "6-4"},
+              {"hanzi": "些", "pinyin": "xiē", "meaning": "bir necha", "audio": "6-4"},
+              {"hanzi": "牛奶", "pinyin": "niúnǎi", "meaning": "sut", "audio": "6-4"},
+              {"hanzi": "吃", "pinyin": "chī", "meaning": "yemoq", "audio": "6-6"},
+              {"hanzi": "晚饭", "pinyin": "wǎnfàn", "meaning": "kechki ovqat", "audio": "6-6"},
+              {"hanzi": "那边", "pinyin": "nàbiān", "meaning": "u yoq", "audio": "6-6"},
+              {"hanzi": "包子", "pinyin": "bāozi", "meaning": "manti", "audio": "6-6"},
+              {"hanzi": "非常", "pinyin": "fēicháng", "meaning": "juda", "audio": "6-6"},
+              {"hanzi": "好吃", "pinyin": "hǎochī", "meaning": "mazali", "audio": "6-6"},
+              {"hanzi": "米饭", "pinyin": "mǐfàn", "meaning": "guruch", "audio": "6-6"},
+              {"hanzi": "怎么", "pinyin": "zěnme", "meaning": "qanday", "audio": "6-6"},
+              {"hanzi": "坐", "pinyin": "zuò", "meaning": "o'tirmoq", "audio": "6-6"},
+              {"hanzi": "出租车", "pinyin": "chūzūchē", "meaning": "taksi", "audio": "6-6"},
+              {"hanzi": "喂", "pinyin": "wèi", "meaning": "allo", "audio": "6-2"}
+            ],
+            "proper_nouns": [
+              {"hanzi": "西安饭店", "pinyin": "Xī'ān Fàndiàn", "meaning": "Sian restorani", "audio": "6-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 7,
+        "title": "我晚上六点半下班",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "7-1",
+                "title": "课文1",
+                "content": "白家月：现在几点？\n安妮：早上八点四十。\n白家月：我上午十点十分有课。\n安妮：好的，我们下午两点见吧。"
+              },
+              {
+                "number": 2,
+                "audio": "7-3",
+                "title": "课文2",
+                "content": "李文：下午我想去电影院看电影，你去吗？\n白家月：我不想去，下午还有事。\n李文：好的。明天呢？\n白家月：我明天下午两点还上课呢，四点半下课。"
+              },
+              {
+                "number": 3,
+                "audio": "7-5",
+                "title": "课文3",
+                "content": "王一雪：喂，你在哪儿呢？\n刘明：我在家里呢。\n王一雪：我晚上六点半下班。\n刘明：我八点去医院上班。\n王一雪：好的，你去店里买些菜吧。\n刘明：好，我十分钟后去。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "现在", "pinyin": "xiànzài", "meaning": "hozir", "audio": "7-2"},
+              {"hanzi": "点", "pinyin": "diǎn", "meaning": "soat", "audio": "7-2"},
+              {"hanzi": "早上", "pinyin": "zǎoshang", "meaning": "erta tong", "audio": "7-2"},
+              {"hanzi": "上午", "pinyin": "shàngwǔ", "meaning": "tushgacha", "audio": "7-2"},
+              {"hanzi": "分", "pinyin": "fēn", "meaning": "minut", "audio": "7-2"},
+              {"hanzi": "课", "pinyin": "kè", "meaning": "dars", "audio": "7-2"},
+              {"hanzi": "下午", "pinyin": "xiàwǔ", "meaning": "tushdan keyin", "audio": "7-2"},
+              {"hanzi": "见", "pinyin": "jiàn", "meaning": "ko'rmoq", "audio": "7-2"},
+              {"hanzi": "吧", "pinyin": "ba", "meaning": "-chi", "audio": "7-2"},
+              {"hanzi": "电影院", "pinyin": "diànyǐngyuàn", "meaning": "kino teatr", "audio": "7-4"},
+              {"hanzi": "看", "pinyin": "kàn", "meaning": "ko'rmoq", "audio": "7-4"},
+              {"hanzi": "电影", "pinyin": "diànyǐng", "meaning": "kino", "audio": "7-4"},
+              {"hanzi": "事", "pinyin": "shì", "meaning": "ish", "audio": "7-4"},
+              {"hanzi": "上课", "pinyin": "shàngkè", "meaning": "darsga bormoq", "audio": "7-4"},
+              {"hanzi": "呢", "pinyin": "ne", "meaning": "-chi", "audio": "7-4"},
+              {"hanzi": "半", "pinyin": "bàn", "meaning": "yarim", "audio": "7-4"},
+              {"hanzi": "下课", "pinyin": "xiàkè", "meaning": "darsdan chiqmoq", "audio": "7-4"},
+              {"hanzi": "在", "pinyin": "zài", "meaning": "...da", "audio": "7-6"},
+              {"hanzi": "家", "pinyin": "jiā", "meaning": "uy", "audio": "7-6"},
+              {"hanzi": "里", "pinyin": "lǐ", "meaning": "ichida", "audio": "7-6"},
+              {"hanzi": "晚上", "pinyin": "wǎnshang", "meaning": "kechqurun", "audio": "7-6"},
+              {"hanzi": "医院", "pinyin": "yīyuàn", "meaning": "kasalxona", "audio": "7-6"},
+              {"hanzi": "上班", "pinyin": "shàngbān", "meaning": "ishga bormoq", "audio": "7-6"},
+              {"hanzi": "店", "pinyin": "diàn", "meaning": "do'kon", "audio": "7-6"},
+              {"hanzi": "菜", "pinyin": "cài", "meaning": "sabzavot", "audio": "7-6"},
+              {"hanzi": "分钟", "pinyin": "fēnzhōng", "meaning": "minut", "audio": "7-6"},
+              {"hanzi": "后", "pinyin": "hòu", "meaning": "keyin", "audio": "7-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 8,
+        "title": "我爸爸也在医院工作",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "8-1",
+                "title": "课文1",
+                "content": "白家月：王老师家有一只小猫。\n陈天中：小猫在哪儿？\n白家月：在房间里。\n陈天中：房间里？床上吗？\n白家月：不在床上，在椅子下边。"
+              },
+              {
+                "number": 2,
+                "audio": "8-3",
+                "title": "课文2",
+                "content": "白家月：我们在书店前见吧。\n李文：好的。我下午两点能到。"
+              },
+              {
+                "number": 3,
+                "audio": "8-5",
+                "title": "课文3",
+                "content": "刘明：大医院里病人多，医生很忙。\n胡医生：对，我爸爸也在医院工作。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "工作", "pinyin": "gōngzuò", "meaning": "ishlamoq", "audio": "8-2"},
+              {"hanzi": "猫", "pinyin": "māo", "meaning": "mushuk", "audio": "8-2"},
+              {"hanzi": "只", "pinyin": "zhī", "meaning": "hisob so'z", "audio": "8-2"},
+              {"hanzi": "上", "pinyin": "shàng", "meaning": "ustida", "audio": "8-2"},
+              {"hanzi": "桌子", "pinyin": "zhuōzi", "meaning": "stol", "audio": "8-2"},
+              {"hanzi": "下", "pinyin": "xià", "meaning": "ostida", "audio": "8-2"},
+              {"hanzi": "房间", "pinyin": "fángjiān", "meaning": "xona", "audio": "8-2"},
+              {"hanzi": "外", "pinyin": "wài", "meaning": "tashqari", "audio": "8-2"},
+              {"hanzi": "前", "pinyin": "qián", "meaning": "oldida", "audio": "8-4"},
+              {"hanzi": "后", "pinyin": "hòu", "meaning": "orqasida", "audio": "8-4"},
+              {"hanzi": "里边", "pinyin": "lǐbiān", "meaning": "ichida", "audio": "8-4"},
+              {"hanzi": "外边", "pinyin": "wàibiān", "meaning": "tashqarida", "audio": "8-4"},
+              {"hanzi": "书店", "pinyin": "shūdiàn", "meaning": "kitob do'koni", "audio": "8-4"},
+              {"hanzi": "到", "pinyin": "dào", "meaning": "yetib kelmoq", "audio": "8-4"},
+              {"hanzi": "能", "pinyin": "néng", "meaning": "qila olmoq", "audio": "8-4"},
+              {"hanzi": "医生", "pinyin": "yīshēng", "meaning": "shifokor", "audio": "8-6"},
+              {"hanzi": "大", "pinyin": "dà", "meaning": "katta", "audio": "8-6"},
+              {"hanzi": "多", "pinyin": "duō", "meaning": "ko'p", "audio": "8-6"},
+              {"hanzi": "少", "pinyin": "shǎo", "meaning": "oz", "audio": "8-6"},
+              {"hanzi": "病人", "pinyin": "bìngrén", "meaning": "bemor", "audio": "8-6"},
+              {"hanzi": "看", "pinyin": "kàn", "meaning": "qaramoq", "audio": "8-6"},
+              {"hanzi": "看见", "pinyin": "kànjiàn", "meaning": "ko'rmoq", "audio": "8-6"}
+            ],
+            "proper_nouns": [
+              {"hanzi": "胡医生", "pinyin": "Hú yīshēng", "meaning": "Xu shifokor", "audio": "8-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 9,
+        "title": "我明天上午在学校学习",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "9-1",
+                "title": "课文1",
+                "content": "李文：学校前边有一家电影院。\n白家月：电影院前边是什么？\n李文：是一家超市。"
+              },
+              {
+                "number": 2,
+                "audio": "9-3",
+                "title": "课文2",
+                "content": "白家月：椅子上有一本中文书，那是谁的书？\n陈天中：是我的书，谢谢。这是我的第二本中文书。\n白家月：不客气。你明天上午在哪儿？\n陈天中：我明天上午在学校学习。"
+              },
+              {
+                "number": 3,
+                "audio": "9-5",
+                "title": "课文3",
+                "content": "王一雪：明天星期六，你做什么？\n杨同乐：我白天在家看书，晚上和朋友出去唱歌。\n王一雪：你唱歌很好听。\n杨同乐：谢谢！你星期六做什么？\n王一雪：我在家做饭、看电视，和孩子们还有我的小狗玩儿。\n杨同乐：我也有一只小狗。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "前边", "pinyin": "qiánbian", "meaning": "oldida", "audio": "9-2"},
+              {"hanzi": "本", "pinyin": "běn", "meaning": "hisob so'z", "audio": "9-4"},
+              {"hanzi": "书", "pinyin": "shū", "meaning": "kitob", "audio": "9-4"},
+              {"hanzi": "第一", "pinyin": "dì-yī", "meaning": "birinchi", "audio": "9-4"},
+              {"hanzi": "第二", "pinyin": "dì-èr", "meaning": "ikkinchi", "audio": "9-4"},
+              {"hanzi": "第三", "pinyin": "dì-sān", "meaning": "uchinchi", "audio": "9-4"},
+              {"hanzi": "学习", "pinyin": "xuéxí", "meaning": "o'qimoq", "audio": "9-4"},
+              {"hanzi": "白天", "pinyin": "báitiān", "meaning": "kunduzi", "audio": "9-6"},
+              {"hanzi": "电视", "pinyin": "diànshì", "meaning": "televizor", "audio": "9-6"},
+              {"hanzi": "唱", "pinyin": "chàng", "meaning": "kuylamoq", "audio": "9-6"},
+              {"hanzi": "歌", "pinyin": "gē", "meaning": "qo'shiq", "audio": "9-6"},
+              {"hanzi": "好听", "pinyin": "hǎotīng", "meaning": "yoqimli", "audio": "9-6"},
+              {"hanzi": "玩儿", "pinyin": "wánr", "meaning": "o'ynamoq", "audio": "9-6"},
+              {"hanzi": "狗", "pinyin": "gǒu", "meaning": "it", "audio": "9-6"},
+              {"hanzi": "朋友", "pinyin": "péngyou", "meaning": "do'st", "audio": "9-6"},
+              {"hanzi": "读", "pinyin": "dú", "meaning": "o'qimoq", "audio": "9-6"},
+              {"hanzi": "读书", "pinyin": "dúshū", "meaning": "kitob o'qimoq", "audio": "9-6"},
+              {"hanzi": "边", "pinyin": "biān", "meaning": "tomon", "audio": "9-2"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 10,
+        "title": "这儿的苹果真便宜！",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "10-1",
+                "title": "课文1",
+                "content": "售货员：您好！您买什么？\n王一雪：我看看。这个杯子多少钱？\n售货员：这个杯子十五块。\n王一雪：这些呢？\n售货员：那些二十块。"
+              },
+              {
+                "number": 2,
+                "audio": "10-3",
+                "title": "课文2",
+                "content": "王一雪：这儿的水果真不少！\n售货员：您想买什么？\n王一雪：我想买两斤苹果。\n售货员：苹果三块五一斤。一共七块二，给七块吧。\n王一雪：好的！这儿的苹果真便宜！"
+              },
+              {
+                "number": 3,
+                "audio": "10-5",
+                "title": "课文3",
+                "content": "王一雪：这家商店衣服真多！这件一百元，怎么样？\n刘明：好看，也不贵。\n王一雪：小雪能穿，买一件吧。\n刘明：好的。小明能穿吗？\n王一雪：不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。\n刘明：好的。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "杯子", "pinyin": "bēizi", "meaning": "stakan", "audio": "10-2"},
+              {"hanzi": "售货员", "pinyin": "shòuhuòyuán", "meaning": "sotuvchi", "audio": "10-2"},
+              {"hanzi": "这边", "pinyin": "zhèbiān", "meaning": "bu yoq", "audio": "10-2"},
+              {"hanzi": "钱", "pinyin": "qián", "meaning": "pul", "audio": "10-2"},
+              {"hanzi": "这些", "pinyin": "zhèxiē", "meaning": "bular", "audio": "10-2"},
+              {"hanzi": "块", "pinyin": "kuài", "meaning": "yuan", "audio": "10-2"},
+              {"hanzi": "那些", "pinyin": "nàxiē", "meaning": "ular", "audio": "10-2"},
+              {"hanzi": "这儿", "pinyin": "zhèr", "meaning": "bu yer", "audio": "10-4"},
+              {"hanzi": "水果", "pinyin": "shuǐguǒ", "meaning": "meva", "audio": "10-4"},
+              {"hanzi": "少", "pinyin": "shǎo", "meaning": "oz", "audio": "10-4"},
+              {"hanzi": "斤", "pinyin": "jīn", "meaning": "yarim kg", "audio": "10-4"},
+              {"hanzi": "苹果", "pinyin": "píngguǒ", "meaning": "olma", "audio": "10-4"},
+              {"hanzi": "便宜", "pinyin": "piányi", "meaning": "arzon", "audio": "10-4"},
+              {"hanzi": "商店", "pinyin": "shāngdiàn", "meaning": "do'kon", "audio": "10-6"},
+              {"hanzi": "衣服", "pinyin": "yīfu", "meaning": "kiyim", "audio": "10-6"},
+              {"hanzi": "件", "pinyin": "jiàn", "meaning": "hisob so'z", "audio": "10-6"},
+              {"hanzi": "元", "pinyin": "yuán", "meaning": "yuan", "audio": "10-6"},
+              {"hanzi": "怎么样", "pinyin": "zěnmeyàng", "meaning": "qanday", "audio": "10-6"},
+              {"hanzi": "贵", "pinyin": "guì", "meaning": "qimmat", "audio": "10-6"},
+              {"hanzi": "穿", "pinyin": "chuān", "meaning": "kiymoq", "audio": "10-6"},
+              {"hanzi": "女", "pinyin": "nǚ", "meaning": "ayol", "audio": "10-6"},
+              {"hanzi": "男", "pinyin": "nán", "meaning": "erkak", "audio": "10-6"},
+              {"hanzi": "那儿", "pinyin": "nàr", "meaning": "u yer", "audio": "10-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 11,
+        "title": "我读大学呢",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "11-1",
+                "title": "课文1",
+                "content": "王一飞：喂，李文，你什么时候能到饭店？\n李文：还不知道，正在找呢。它是不是在超市后边？\n王一飞：是的。你开车没开车？\n李文：我没开车，坐车呢。"
+              },
+              {
+                "number": 2,
+                "audio": "11-3",
+                "title": "课文2",
+                "content": "王一飞：你还在读大学吗？\n李文：对，我还在读大学。我很忙，有很多课。"
+              },
+              {
+                "number": 3,
+                "audio": "11-5",
+                "title": "课文3",
+                "content": "刘明：弟弟起床没起床呢？\n刘小雪：没起床呢，还在睡觉。\n刘明：还睡呢？他今天去不去那里？\n刘小雪：去哪里？\n刘明：去超市。\n刘小雪：我昨天问他，他对我说话，他不去，他今天要和小朋友玩。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "时候", "pinyin": "shíhou", "meaning": "vaqt", "audio": "11-2"},
+              {"hanzi": "饭店", "pinyin": "fàndiàn", "meaning": "restoran", "audio": "11-2"},
+              {"hanzi": "知道", "pinyin": "zhīdào", "meaning": "bilmoq", "audio": "11-2"},
+              {"hanzi": "正在", "pinyin": "zhèngzài", "meaning": "hozir", "audio": "11-2"},
+              {"hanzi": "找", "pinyin": "zhǎo", "meaning": "qidirmoq", "audio": "11-2"},
+              {"hanzi": "开车", "pinyin": "kāichē", "meaning": "haydamoq", "audio": "11-2"},
+              {"hanzi": "车", "pinyin": "chē", "meaning": "mashina", "audio": "11-2"},
+              {"hanzi": "大学", "pinyin": "dàxué", "meaning": "universitet", "audio": "11-4"},
+              {"hanzi": "大学生", "pinyin": "dàxuéshēng", "meaning": "talaba", "audio": "11-4"},
+              {"hanzi": "读", "pinyin": "dú", "meaning": "o'qimoq", "audio": "11-4"},
+              {"hanzi": "起床", "pinyin": "qǐchuáng", "meaning": "uyg'onmoq", "audio": "11-6"},
+              {"hanzi": "睡觉", "pinyin": "shuìjiào", "meaning": "uxlamoq", "audio": "11-6"},
+              {"hanzi": "睡", "pinyin": "shuì", "meaning": "uxlamoq", "audio": "11-6"},
+              {"hanzi": "那里", "pinyin": "nàlǐ", "meaning": "u yer", "audio": "11-6"},
+              {"hanzi": "哪里", "pinyin": "nǎlǐ", "meaning": "qayer", "audio": "11-6"},
+              {"hanzi": "昨天", "pinyin": "zuótiān", "meaning": "kecha", "audio": "11-6"},
+              {"hanzi": "问", "pinyin": "wèn", "meaning": "so'ramoq", "audio": "11-6"},
+              {"hanzi": "对", "pinyin": "duì", "meaning": "...ga", "audio": "11-6"},
+              {"hanzi": "说", "pinyin": "shuō", "meaning": "gapirmoq", "audio": "11-6"},
+              {"hanzi": "要", "pinyin": "yào", "meaning": "xohlamoq", "audio": "11-6"},
+              {"hanzi": "小朋友", "pinyin": "xiǎopéngyǒu", "meaning": "bola", "audio": "11-6"},
+              {"hanzi": "弟弟", "pinyin": "dìdi", "meaning": "uka", "audio": "11-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 12,
+        "title": "昨天下雪了",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "12-1",
+                "title": "课文1",
+                "content": "王一雪：今天天气怎么样？\n王一飞：这里的天不太好，下雨了。\n王一雪：雨大吗？\n王一飞：有点儿大，我觉得很冷。"
+              },
+              {
+                "number": 2,
+                "audio": "12-3",
+                "title": "课文2",
+                "content": "王一雪：昨天下雪了。\n杨同乐：是的，太冷了。\n王一雪：你昨天没来公司，生病了？\n杨同乐：对，我昨天去医院看病了。"
+              },
+              {
+                "number": 3,
+                "audio": "12-5",
+                "title": "课文3",
+                "content": "杨同乐：医生，我病了。\n胡医生：我看看。你觉得怎么样？\n杨同乐：我很冷。\n胡医生：好的，吃一点儿药，今天休息半天吧。\n杨同乐：好的。\n胡医生：回家后再喝些热水。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "天气", "pinyin": "tiānqì", "meaning": "ob-havo", "audio": "12-2"},
+              {"hanzi": "这里", "pinyin": "zhèlǐ", "meaning": "bu yer", "audio": "12-2"},
+              {"hanzi": "天", "pinyin": "tiān", "meaning": "kun", "audio": "12-2"},
+              {"hanzi": "下雨", "pinyin": "xiàyǔ", "meaning": "yomg'ir", "audio": "12-2"},
+              {"hanzi": "了", "pinyin": "le", "meaning": "o'tgan zamon", "audio": "12-2"},
+              {"hanzi": "雨", "pinyin": "yǔ", "meaning": "yomg'ir", "audio": "12-2"},
+              {"hanzi": "有点儿", "pinyin": "yǒudiǎnr", "meaning": "bir oz", "audio": "12-2"},
+              {"hanzi": "觉得", "pinyin": "juéde", "meaning": "his qilmoq", "audio": "12-2"},
+              {"hanzi": "冷", "pinyin": "lěng", "meaning": "sovuq", "audio": "12-2"},
+              {"hanzi": "下", "pinyin": "xià", "meaning": "tushmoq", "audio": "12-4"},
+              {"hanzi": "雪", "pinyin": "xuě", "meaning": "qor", "audio": "12-4"},
+              {"hanzi": "来", "pinyin": "lái", "meaning": "kelmoq", "audio": "12-4"},
+              {"hanzi": "公司", "pinyin": "gōngsī", "meaning": "kompaniya", "audio": "12-4"},
+              {"hanzi": "生病", "pinyin": "shēngbìng", "meaning": "kasal bo'lmoq", "audio": "12-4"},
+              {"hanzi": "看病", "pinyin": "kànbìng", "meaning": "shifokorga bormoq", "audio": "12-4"},
+              {"hanzi": "病", "pinyin": "bìng", "meaning": "kasal", "audio": "12-6"},
+              {"hanzi": "药", "pinyin": "yào", "meaning": "dori", "audio": "12-6"},
+              {"hanzi": "水", "pinyin": "shuǐ", "meaning": "suv", "audio": "12-6"},
+              {"hanzi": "回", "pinyin": "huí", "meaning": "qaytmoq", "audio": "12-6"},
+              {"hanzi": "喝", "pinyin": "hē", "meaning": "ichmoq", "audio": "12-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 13,
+        "title": "请给我一杯茶",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "13-1",
+                "title": "课文1",
+                "content": "白家月：王老师，我可以再问您一个问题吗？\n王一飞：当然可以。什么问题？\n白家月：那个小店卖不卖手机？\n王一飞：我不知道，你可以打电话问一下。"
+              },
+              {
+                "number": 2,
+                "audio": "13-3",
+                "title": "课文2",
+                "content": "服务员：女士，请坐！您喝什么？\n王一雪：我看看。请给我一杯牛奶。\n服务员：好的。还要什么？\n王一雪：我还没吃早饭，再要这个面包和鸡蛋吧。"
+              },
+              {
+                "number": 3,
+                "audio": "13-5",
+                "title": "课文3",
+                "content": "服务员：先生，您想吃点儿什么？\n刘明：你们这儿有什么？\n服务员：我们有米饭、饺子、面条儿。\n刘明：我要二十个饺子，一碗米饭。\n服务员：喝什么？\n刘明：请给我一杯茶。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "可以", "pinyin": "kěyǐ", "meaning": "mumkin", "audio": "13-2"},
+              {"hanzi": "再", "pinyin": "zài", "meaning": "yana", "audio": "13-2"},
+              {"hanzi": "问题", "pinyin": "wèntí", "meaning": "savol", "audio": "13-2"},
+              {"hanzi": "卖", "pinyin": "mài", "meaning": "sotmoq", "audio": "13-2"},
+              {"hanzi": "打电话", "pinyin": "dǎ diànhuà", "meaning": "telefon qilmoq", "audio": "13-2"},
+              {"hanzi": "一下", "pinyin": "yīxià", "meaning": "bir oz", "audio": "13-2"},
+              {"hanzi": "服务员", "pinyin": "fúwùyuán", "meaning": "ofitsiant", "audio": "13-4"},
+              {"hanzi": "女士", "pinyin": "nǚshì", "meaning": "xonim", "audio": "13-4"},
+              {"hanzi": "请", "pinyin": "qǐng", "meaning": "iltimos", "audio": "13-4"},
+              {"hanzi": "坐", "pinyin": "zuò", "meaning": "o'tirmoq", "audio": "13-4"},
+              {"hanzi": "给", "pinyin": "gěi", "meaning": "bermoq", "audio": "13-4"},
+              {"hanzi": "杯", "pinyin": "bēi", "meaning": "stakan", "audio": "13-4"},
+              {"hanzi": "要", "pinyin": "yào", "meaning": "istamoq", "audio": "13-4"},
+              {"hanzi": "早饭", "pinyin": "zǎofàn", "meaning": "nonushta", "audio": "13-4"},
+              {"hanzi": "这个", "pinyin": "zhège", "meaning": "bu", "audio": "13-4"},
+              {"hanzi": "面包", "pinyin": "miànbāo", "meaning": "non", "audio": "13-4"},
+              {"hanzi": "鸡蛋", "pinyin": "jīdàn", "meaning": "tuxum", "audio": "13-4"},
+              {"hanzi": "茶", "pinyin": "chá", "meaning": "choy", "audio": "13-6"},
+              {"hanzi": "先生", "pinyin": "xiānsheng", "meaning": "janob", "audio": "13-6"},
+              {"hanzi": "一点儿", "pinyin": "yīdiǎnr", "meaning": "bir oz", "audio": "13-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 14,
+        "title": "我看了一个电影",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "14-1",
+                "title": "课文1",
+                "content": "白家月：你们上火车后看见王老师了吗？\n陈天中：没看见。中午开车后，有些人在看书，有些人睡觉了。\n白家月：你呢？\n陈天中：我看了一个电影。"
+              },
+              {
+                "number": 2,
+                "audio": "14-3",
+                "title": "课文2",
+                "content": "王一飞：你们会说汉语了，也会写汉字了吗？\n白家月：我们都会写了。\n陈天中：老师，我听不见。\n王一飞：请大家不要说话！请听老师的问题：你们都会写哪些汉字了？\n陈天中：我会写这些字了，您看！"
+              },
+              {
+                "number": 3,
+                "audio": "14-5",
+                "title": "课文3",
+                "content": "刘明：明年女儿上中学。\n王一雪：儿子也上小学。\n刘明：上学后，他们都忙了。"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "上", "pinyin": "shàng", "meaning": "chiqmoq", "audio": "14-2"},
+              {"hanzi": "火车", "pinyin": "huǒchē", "meaning": "poyezd", "audio": "14-2"},
+              {"hanzi": "中午", "pinyin": "zhōngwǔ", "meaning": "tush", "audio": "14-2"},
+              {"hanzi": "开", "pinyin": "kāi", "meaning": "jo'namoq", "audio": "14-2"},
+              {"hanzi": "有些", "pinyin": "yǒuxiē", "meaning": "ba'zi", "audio": "14-2"},
+              {"hanzi": "有的", "pinyin": "yǒude", "meaning": "ba'zi", "audio": "14-2"},
+              {"hanzi": "了", "pinyin": "le", "meaning": "o'tgan zamon", "audio": "14-2"},
+              {"hanzi": "听", "pinyin": "tīng", "meaning": "eshitmoq", "audio": "14-4"},
+              {"hanzi": "听见", "pinyin": "tīngjiàn", "meaning": "eshitmoq", "audio": "14-4"},
+              {"hanzi": "说话", "pinyin": "shuōhuà", "meaning": "gapirmoq", "audio": "14-4"},
+              {"hanzi": "不要", "pinyin": "búyào", "meaning": "qilmang", "audio": "14-4"},
+              {"hanzi": "大家", "pinyin": "dàjiā", "meaning": "hamma", "audio": "14-4"},
+              {"hanzi": "写", "pinyin": "xiě", "meaning": "yozmoq", "audio": "14-4"},
+              {"hanzi": "字", "pinyin": "zì", "meaning": "yozuv", "audio": "14-4"},
+              {"hanzi": "都", "pinyin": "dōu", "meaning": "hamma", "audio": "14-4"},
+              {"hanzi": "明年", "pinyin": "míngnián", "meaning": "kelasi yil", "audio": "14-6"},
+              {"hanzi": "中学", "pinyin": "zhōngxué", "meaning": "o'rta maktab", "audio": "14-6"},
+              {"hanzi": "中学生", "pinyin": "zhōngxuéshēng", "meaning": "o'quvchi", "audio": "14-6"},
+              {"hanzi": "小学", "pinyin": "xiǎoxué", "meaning": "boshlang'ich", "audio": "14-6"},
+              {"hanzi": "小学生", "pinyin": "xiǎoxuéshēng", "meaning": "o'quvchi", "audio": "14-6"},
+              {"hanzi": "前", "pinyin": "qián", "meaning": "oldin", "audio": "14-6"},
+              {"hanzi": "后", "pinyin": "hòu", "meaning": "keyin", "audio": "14-6"},
+              {"hanzi": "他们", "pinyin": "tāmen", "meaning": "ular (erkak)", "audio": "14-6"},
+              {"hanzi": "她们", "pinyin": "tāmen", "meaning": "ular (ayol)", "audio": "14-6"},
+              {"hanzi": "它们", "pinyin": "tāmen", "meaning": "ular (narsa)", "audio": "14-6"}
+            ]
+          }
+        ]
+      },
+      {
+        "lesson": 15,
+        "title": "大兴机场见！",
+        "audios": [
+          {
+            "type": "课文",
+            "items": [
+              {
+                "number": 1,
+                "audio": "15-1",
+                "title": "课文1",
+                "content": "李文：你们爱吃什么菜？\n白家月：我爱吃这个，也爱吃那个。\n陈天中：这些菜都好吃，也很好看。\n李文：我爱吃中国菜，也爱做中国菜。大家多吃点儿。"
+              },
+              {
+                "number": 2,
+                "audio": "15-3",
+                "title": "课文2",
+                "content": "李文：你们都想去哪儿？\n安妮：我和我男朋友去年去了西安，今年我想去北京。\n白家月：我前几年去了西安，那儿真好玩儿。今年我也想去北京。\n李文：王老师和我都是北京人。北京很漂亮。"
+              },
+              {
+                "number": 3,
+                "audio": "15-5",
+                "title": "课文3",
+                "content": "王一飞：你们的飞机到北京要几个小时？\n白家月：九个小时。\n王一飞：我家人都在北京，星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。\n安妮：我们星期日上午八点到大兴机场，早不早？\n王一飞：不早。\n白家月：谢谢老师！那我们和您姐姐在大兴机场见！"
+              }
+            ]
+          },
+          {
+            "type": "生词",
+            "items": [
+              {"hanzi": "爱", "pinyin": "ài", "meaning": "sevmoq", "audio": "15-2"},
+              {"hanzi": "好吃", "pinyin": "hǎochī", "meaning": "mazali", "audio": "15-2"},
+              {"hanzi": "好看", "pinyin": "hǎokàn", "meaning": "chiroyli", "audio": "15-2"},
+              {"hanzi": "好玩儿", "pinyin": "hǎowánr", "meaning": "qiziqarli", "audio": "15-2"},
+              {"hanzi": "大家", "pinyin": "dàjiā", "meaning": "hamma", "audio": "15-2"},
+              {"hanzi": "吃点儿", "pinyin": "chīdiǎnr", "meaning": "ozgina yemoq", "audio": "15-2"},
+              {"hanzi": "多", "pinyin": "duō", "meaning": "ko'p", "audio": "15-4"},
+              {"hanzi": "少", "pinyin": "shǎo", "meaning": "oz", "audio": "15-4"},
+              {"hanzi": "男朋友", "pinyin": "nánpéngyou", "meaning": "yigit do'st", "audio": "15-4"},
+              {"hanzi": "去年", "pinyin": "qùnián", "meaning": "o'tgan yil", "audio": "15-4"},
+              {"hanzi": "今年", "pinyin": "jīnnián", "meaning": "bu yil", "audio": "15-4"},
+              {"hanzi": "也", "pinyin": "yě", "meaning": "ham", "audio": "15-4"},
+              {"hanzi": "飞机", "pinyin": "fēijī", "meaning": "samolyot", "audio": "15-6"},
+              {"hanzi": "小时", "pinyin": "xiǎoshí", "meaning": "soat", "audio": "15-6"},
+              {"hanzi": "家人", "pinyin": "jiārén", "meaning": "oila a'zolari", "audio": "15-6"},
+              {"hanzi": "时间", "pinyin": "shíjiān", "meaning": "vaqt", "audio": "15-6"},
+              {"hanzi": "接", "pinyin": "jiē", "meaning": "kutib olmoq", "audio": "15-6"},
+              {"hanzi": "住", "pinyin": "zhù", "meaning": "yashamoq", "audio": "15-6"},
+              {"hanzi": "早", "pinyin": "zǎo", "meaning": "erta", "audio": "15-6"},
+              {"hanzi": "几", "pinyin": "jǐ", "meaning": "necha", "audio": "15-6"},
+              {"hanzi": "都", "pinyin": "dōu", "meaning": "hamma", "audio": "15-6"}
+            ],
+            "proper_nouns": [
+              {"hanzi": "北京", "pinyin": "Běijīng", "meaning": "Pekin", "audio": "15-4"},
+              {"hanzi": "西安", "pinyin": "Xī'ān", "meaning": "Sian", "audio": "15-4"},
+              {"hanzi": "大兴机场", "pinyin": "Dàxīng Jīchǎng", "meaning": "Daxing aeroporti", "audio": "15-6"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
