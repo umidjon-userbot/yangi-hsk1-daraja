@@ -40,16 +40,14 @@
               {"hanzi": "再见", "pinyin": "zàijiàn", "meaning": "xayr", "audio": "1-4"},
               {"hanzi": "老师", "pinyin": "lǎoshī", "meaning": "o'qituvchi", "audio": "1-2"},
               {"hanzi": "同学", "pinyin": "tóngxué", "meaning": "sinfdosh", "audio": "1-4"},
-              {"hanzi": "学生", "pinyin": "xuésheng", "meaning": "talaba", "audio": "1-4"}
-            ],
-            "proper_nouns": [
+              {"hanzi": "学生", "pinyin": "xuésheng", "meaning": "talaba", "audio": "1-4"},
               {"hanzi": "王老师", "pinyin": "Wáng lǎoshī", "meaning": "Vang o'qituvchi", "audio": "1-2"}
             ]
           },
           {
             "type": "绕口令",
-            "audio": "1-7",
             "title": "跟读绕口令",
+            "audio": "1-7",
             "content": "妈种麻，我放马。马吃麻，妈骂马。"
           }
         ]
@@ -100,8 +98,8 @@
           },
           {
             "type": "绕口令",
-            "audio": "2-7",
             "title": "跟读绕口令",
+            "audio": "2-7",
             "content": "七加一，再减一，加完减完等于几？加完减完还是七。"
           }
         ]
@@ -147,9 +145,7 @@
               {"hanzi": "忙", "pinyin": "máng", "meaning": "band", "audio": "3-6"},
               {"hanzi": "想", "pinyin": "xiǎng", "meaning": "xohlamoq", "audio": "3-6"},
               {"hanzi": "太", "pinyin": "tài", "meaning": "juda", "audio": "3-6"},
-              {"hanzi": "对", "pinyin": "duì", "meaning": "to'g'ri", "audio": "3-6"}
-            ],
-            "proper_nouns": [
+              {"hanzi": "对", "pinyin": "duì", "meaning": "to'g'ri", "audio": "3-6"},
               {"hanzi": "中国", "pinyin": "Zhōngguó", "meaning": "Xitoy", "audio": "3-2"},
               {"hanzi": "法国", "pinyin": "Fǎguó", "meaning": "Fransiya", "audio": "3-2"},
               {"hanzi": "中文", "pinyin": "Zhōngwén", "meaning": "xitoy tili", "audio": "3-2"},
@@ -158,8 +154,8 @@
           },
           {
             "type": "绕口令",
-            "audio": "3-7",
             "title": "跟读绕口令",
+            "audio": "3-7",
             "content": "四是四，十是十。十四是十四，四十是四十。"
           }
         ]
@@ -326,9 +322,7 @@
               {"hanzi": "怎么", "pinyin": "zěnme", "meaning": "qanday", "audio": "6-6"},
               {"hanzi": "坐", "pinyin": "zuò", "meaning": "o'tirmoq", "audio": "6-6"},
               {"hanzi": "出租车", "pinyin": "chūzūchē", "meaning": "taksi", "audio": "6-6"},
-              {"hanzi": "喂", "pinyin": "wèi", "meaning": "allo", "audio": "6-2"}
-            ],
-            "proper_nouns": [
+              {"hanzi": "喂", "pinyin": "wèi", "meaning": "allo", "audio": "6-2"},
               {"hanzi": "西安饭店", "pinyin": "Xī'ān Fàndiàn", "meaning": "Sian restorani", "audio": "6-6"}
             ]
           }
@@ -446,9 +440,7 @@
               {"hanzi": "少", "pinyin": "shǎo", "meaning": "oz", "audio": "8-6"},
               {"hanzi": "病人", "pinyin": "bìngrén", "meaning": "bemor", "audio": "8-6"},
               {"hanzi": "看", "pinyin": "kàn", "meaning": "qaramoq", "audio": "8-6"},
-              {"hanzi": "看见", "pinyin": "kànjiàn", "meaning": "ko'rmoq", "audio": "8-6"}
-            ],
-            "proper_nouns": [
+              {"hanzi": "看见", "pinyin": "kànjiàn", "meaning": "ko'rmoq", "audio": "8-6"},
               {"hanzi": "胡医生", "pinyin": "Hú yīshēng", "meaning": "Xu shifokor", "audio": "8-6"}
             ]
           }
@@ -836,9 +828,7 @@
               {"hanzi": "住", "pinyin": "zhù", "meaning": "yashamoq", "audio": "15-6"},
               {"hanzi": "早", "pinyin": "zǎo", "meaning": "erta", "audio": "15-6"},
               {"hanzi": "几", "pinyin": "jǐ", "meaning": "necha", "audio": "15-6"},
-              {"hanzi": "都", "pinyin": "dōu", "meaning": "hamma", "audio": "15-6"}
-            ],
-            "proper_nouns": [
+              {"hanzi": "都", "pinyin": "dōu", "meaning": "hamma", "audio": "15-6"},
               {"hanzi": "北京", "pinyin": "Běijīng", "meaning": "Pekin", "audio": "15-4"},
               {"hanzi": "西安", "pinyin": "Xī'ān", "meaning": "Sian", "audio": "15-4"},
               {"hanzi": "大兴机场", "pinyin": "Dàxīng Jīchǎng", "meaning": "Daxing aeroporti", "audio": "15-6"}
