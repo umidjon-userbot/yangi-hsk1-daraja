@@ -1,1 +1,1300 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK3 Level 1 - Audio So'zlar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0f1c;
+            --bg-secondary: #121a2e;
+            --bg-card: #1a2540;
+            --accent-gold: #ffd700;
+            --accent-red: #ff4757;
+            --accent-cyan: #00d4ff;
+            --accent-green: #2ed573;
+            --text-primary: #ffffff;
+            --text-secondary: #a0aec0;
+            --border-glow: rgba(255, 215, 0, 0.3);
+        }
 
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Nunito', 'Noto Sans SC', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            background-image: 
+                radial-gradient(ellipse at 20% 20%, rgba(255, 215, 0, 0.05) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(0, 212, 255, 0.05) 0%, transparent 50%);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-card) 100%);
+            border-radius: 24px;
+            margin-bottom: 30px;
+            border: 1px solid var(--border-glow);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255, 215, 0, 0.1) 0%, transparent 70%);
+            animation: pulse 4s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); opacity: 0.5; }
+            50% { transform: scale(1.1); opacity: 0.8; }
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-gold), var(--accent-cyan));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .header p {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Lesson Navigation */
+        .lesson-nav {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .lesson-btn {
+            padding: 12px 24px;
+            background: var(--bg-card);
+            border: 2px solid transparent;
+            border-radius: 12px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .lesson-btn:hover {
+            border-color: var(--accent-gold);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.2);
+        }
+
+        .lesson-btn.active {
+            background: linear-gradient(135deg, var(--accent-gold), #ffaa00);
+            color: var(--bg-primary);
+            border-color: var(--accent-gold);
+        }
+
+        /* Lesson Content */
+        .lesson-content {
+            display: none;
+        }
+
+        .lesson-content.active {
+            display: block;
+            animation: fadeIn 0.4s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .lesson-header {
+            background: linear-gradient(135deg, var(--bg-card), var(--bg-secondary));
+            padding: 24px;
+            border-radius: 16px;
+            margin-bottom: 24px;
+            border-left: 4px solid var(--accent-gold);
+        }
+
+        .lesson-header h2 {
+            font-size: 1.8rem;
+            color: var(--accent-gold);
+            margin-bottom: 8px;
+        }
+
+        .lesson-header .lesson-title {
+            font-size: 1.3rem;
+            color: var(--text-secondary);
+        }
+
+        /* Audio Group */
+        .audio-group {
+            background: var(--bg-card);
+            border-radius: 20px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        .audio-group:hover {
+            border-color: rgba(0, 212, 255, 0.3);
+            box-shadow: 0 8px 40px rgba(0, 212, 255, 0.1);
+        }
+
+        .audio-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 24px;
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.15), rgba(255, 215, 0, 0.1));
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+
+        .audio-header:hover {
+            background: linear-gradient(135deg, rgba(0, 212, 255, 0.25), rgba(255, 215, 0, 0.15));
+        }
+
+        .audio-info {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .audio-badge {
+            background: var(--accent-cyan);
+            color: var(--bg-primary);
+            padding: 8px 16px;
+            border-radius: 30px;
+            font-weight: 700;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .audio-badge svg {
+            width: 18px;
+            height: 18px;
+        }
+
+        .word-count {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        .play-btn {
+            background: linear-gradient(135deg, var(--accent-green), #1abc9c);
+            border: none;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(46, 213, 115, 0.3);
+        }
+
+        .play-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 25px rgba(46, 213, 115, 0.5);
+        }
+
+        .play-btn svg {
+            width: 24px;
+            height: 24px;
+            fill: white;
+        }
+
+        .play-btn.playing {
+            background: linear-gradient(135deg, var(--accent-red), #e74c3c);
+            animation: pulsate 1s ease-in-out infinite;
+        }
+
+        @keyframes pulsate {
+            0%, 100% { box-shadow: 0 4px 15px rgba(255, 71, 87, 0.3); }
+            50% { box-shadow: 0 6px 30px rgba(255, 71, 87, 0.6); }
+        }
+
+        /* Words Grid */
+        .words-container {
+            padding: 20px;
+        }
+
+        .words-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 16px;
+        }
+
+        .word-card {
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            padding: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .word-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, var(--accent-gold), var(--accent-cyan));
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .word-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(255, 215, 0, 0.2);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .word-card:hover::before {
+            opacity: 1;
+        }
+
+        .hanzi {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-size: 2.2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+            line-height: 1.2;
+        }
+
+        .pinyin {
+            font-size: 1.1rem;
+            color: var(--accent-cyan);
+            margin-bottom: 6px;
+            font-weight: 600;
+        }
+
+        .meaning {
+            font-size: 1rem;
+            color: var(--text-secondary);
+        }
+
+        .word-card.proper-noun {
+            border-color: rgba(255, 215, 0, 0.3);
+        }
+
+        .word-card.proper-noun .hanzi {
+            color: var(--accent-gold);
+        }
+
+        .proper-tag {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255, 215, 0, 0.2);
+            color: var(--accent-gold);
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        /* Stats */
+        .stats-bar {
+            display: flex;
+            gap: 20px;
+            padding: 20px;
+            background: var(--bg-secondary);
+            border-radius: 16px;
+            margin-bottom: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px 30px;
+            background: var(--bg-card);
+            border-radius: 12px;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-gold), var(--accent-cyan));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-top: 4px;
+        }
+
+        /* Audio Player */
+        .global-player {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--bg-card);
+            padding: 16px 30px;
+            border-radius: 50px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(255, 215, 0, 0.2);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s ease;
+        }
+
+        .global-player.visible {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .player-info {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .player-controls {
+            display: flex;
+            gap: 10px;
+        }
+
+        .player-btn {
+            background: var(--bg-secondary);
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .player-btn:hover {
+            background: var(--accent-gold);
+        }
+
+        .player-btn svg {
+            width: 18px;
+            height: 18px;
+            fill: var(--text-primary);
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .lesson-btn {
+                padding: 10px 16px;
+                font-size: 0.9rem;
+            }
+
+            .words-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .audio-header {
+                flex-direction: column;
+                gap: 16px;
+                align-items: flex-start;
+            }
+
+            .play-btn {
+                align-self: flex-end;
+            }
+
+            .stats-bar {
+                gap: 10px;
+            }
+
+            .stat-item {
+                padding: 12px 20px;
+            }
+
+            .global-player {
+                width: calc(100% - 40px);
+                padding: 12px 20px;
+            }
+        }
+
+        /* Loading animation */
+        .loading {
+            display: flex;
+            justify-content: center;
+            padding: 40px;
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 4px solid var(--bg-secondary);
+            border-top-color: var(--accent-gold);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 HSK3 Level 1 - Audio So'zlar</h1>
+            <p>新HSK教程1 - Har bir audio uchun so'zlar guruhlangan</p>
+        </div>
+
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-value">15</div>
+                <div class="stat-label">Darslar</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="total-words">0</div>
+                <div class="stat-label">So'zlar</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value" id="total-audios">0</div>
+                <div class="stat-label">Audio fayllar</div>
+            </div>
+        </div>
+
+        <div class="lesson-nav" id="lesson-nav">
+            <!-- Buttons will be generated -->
+        </div>
+
+        <div id="lessons-container">
+            <!-- Lessons will be generated -->
+        </div>
+    </div>
+
+    <div class="global-player" id="global-player">
+        <div class="player-info">
+            <span id="current-audio-name">--</span>
+        </div>
+        <div class="player-controls">
+            <button class="player-btn" onclick="stopAudio()">
+                <svg viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+            </button>
+        </div>
+    </div>
+
+    <audio id="audio-player"></audio>
+
+    <script>
+        const lessonsData = [
+            {
+                lesson: 1,
+                title: "AI小语，你好！",
+                audioGroups: {
+                    "1-2": {
+                        words: [
+                            {hanzi: "你好", pinyin: "nǐ hǎo", meaning: "salom"},
+                            {hanzi: "您", pinyin: "nín", meaning: "siz (hurmat)"},
+                            {hanzi: "老师", pinyin: "lǎoshī", meaning: "o'qituvchi"}
+                        ],
+                        properNouns: [
+                            {hanzi: "王老师", pinyin: "Wáng lǎoshī", meaning: "Vang o'qituvchi"}
+                        ]
+                    },
+                    "1-4": {
+                        words: [
+                            {hanzi: "谢谢", pinyin: "xièxie", meaning: "rahmat"},
+                            {hanzi: "不客气", pinyin: "bú kèqi", meaning: "arzimaydi"},
+                            {hanzi: "再见", pinyin: "zàijiàn", meaning: "xayr"},
+                            {hanzi: "同学", pinyin: "tóngxué", meaning: "sinfdosh"},
+                            {hanzi: "学生", pinyin: "xuésheng", meaning: "talaba"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 2,
+                title: "我叫李文",
+                audioGroups: {
+                    "2-2": {
+                        words: [
+                            {hanzi: "请问", pinyin: "qǐngwèn", meaning: "kechirasiz, so'ramoqchiman"},
+                            {hanzi: "你", pinyin: "nǐ", meaning: "sen"},
+                            {hanzi: "叫", pinyin: "jiào", meaning: "ismlanmoq"},
+                            {hanzi: "什么", pinyin: "shénme", meaning: "nima"},
+                            {hanzi: "名字", pinyin: "míngzi", meaning: "ism"},
+                            {hanzi: "我", pinyin: "wǒ", meaning: "men"}
+                        ]
+                    },
+                    "2-6": {
+                        words: [
+                            {hanzi: "对不起", pinyin: "duìbuqǐ", meaning: "kechirasiz"},
+                            {hanzi: "没关系", pinyin: "méi guānxi", meaning: "hechqisi yo'q"},
+                            {hanzi: "很", pinyin: "hěn", meaning: "juda"},
+                            {hanzi: "高兴", pinyin: "gāoxìng", meaning: "xursand"},
+                            {hanzi: "认识", pinyin: "rènshi", meaning: "tanimoq"},
+                            {hanzi: "也", pinyin: "yě", meaning: "ham"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 3,
+                title: "我是中国人",
+                audioGroups: {
+                    "3-2": {
+                        words: [
+                            {hanzi: "人", pinyin: "rén", meaning: "odam"},
+                            {hanzi: "的", pinyin: "de", meaning: "ega"}
+                        ],
+                        properNouns: [
+                            {hanzi: "中国", pinyin: "Zhōngguó", meaning: "Xitoy"},
+                            {hanzi: "法国", pinyin: "Fǎguó", meaning: "Fransiya"},
+                            {hanzi: "中文", pinyin: "Zhōngwén", meaning: "xitoy tili"}
+                        ]
+                    },
+                    "3-4": {
+                        words: [
+                            {hanzi: "这", pinyin: "zhè", meaning: "bu"},
+                            {hanzi: "谁", pinyin: "shéi", meaning: "kim"},
+                            {hanzi: "女朋友", pinyin: "nǚpéngyou", meaning: "qiz do'st"},
+                            {hanzi: "哪", pinyin: "nǎ", meaning: "qaysi"},
+                            {hanzi: "国", pinyin: "guó", meaning: "davlat"},
+                            {hanzi: "她", pinyin: "tā", meaning: "u (ayol)"}
+                        ],
+                        properNouns: [
+                            {hanzi: "泰国", pinyin: "Tàiguó", meaning: "Tailand"}
+                        ]
+                    },
+                    "3-6": {
+                        words: [
+                            {hanzi: "忙", pinyin: "máng", meaning: "band"},
+                            {hanzi: "想", pinyin: "xiǎng", meaning: "xohlamoq"},
+                            {hanzi: "太", pinyin: "tài", meaning: "juda"},
+                            {hanzi: "对", pinyin: "duì", meaning: "to'g'ri"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 4,
+                title: "我有两个孩子",
+                audioGroups: {
+                    "4-2": {
+                        words: [
+                            {hanzi: "爸爸", pinyin: "bàba", meaning: "ota"},
+                            {hanzi: "妈妈", pinyin: "māma", meaning: "ona"},
+                            {hanzi: "哥哥", pinyin: "gēge", meaning: "aka"},
+                            {hanzi: "姐姐", pinyin: "jiějie", meaning: "opa"},
+                            {hanzi: "弟弟", pinyin: "dìdi", meaning: "uka"},
+                            {hanzi: "妹妹", pinyin: "mèimei", meaning: "singil"},
+                            {hanzi: "有", pinyin: "yǒu", meaning: "bor"},
+                            {hanzi: "没", pinyin: "méi", meaning: "yo'q"},
+                            {hanzi: "没有", pinyin: "méiyǒu", meaning: "yo'q"},
+                            {hanzi: "个", pinyin: "gè", meaning: "hisob so'z"}
+                        ]
+                    },
+                    "4-4": {
+                        words: [
+                            {hanzi: "孩子", pinyin: "háizi", meaning: "bola"},
+                            {hanzi: "两", pinyin: "liǎng", meaning: "ikki"},
+                            {hanzi: "口", pinyin: "kǒu", meaning: "hisob so'z"},
+                            {hanzi: "几", pinyin: "jǐ", meaning: "necha"}
+                        ]
+                    },
+                    "4-6": {
+                        words: [
+                            {hanzi: "儿子", pinyin: "érzi", meaning: "o'g'il"},
+                            {hanzi: "女儿", pinyin: "nǚ'ér", meaning: "qiz"},
+                            {hanzi: "今年", pinyin: "jīnnián", meaning: "bu yil"},
+                            {hanzi: "岁", pinyin: "suì", meaning: "yosh"},
+                            {hanzi: "多", pinyin: "duō", meaning: "qancha"},
+                            {hanzi: "大", pinyin: "dà", meaning: "katta"},
+                            {hanzi: "他", pinyin: "tā", meaning: "u (erkak)"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 5,
+                title: "今天我休息",
+                audioGroups: {
+                    "5-2": {
+                        words: [
+                            {hanzi: "今天", pinyin: "jīntiān", meaning: "bugun"},
+                            {hanzi: "号", pinyin: "hào", meaning: "sana"},
+                            {hanzi: "月", pinyin: "yuè", meaning: "oy"},
+                            {hanzi: "日", pinyin: "rì", meaning: "kun"},
+                            {hanzi: "星期", pinyin: "xīngqī", meaning: "hafta"},
+                            {hanzi: "星期日", pinyin: "Xīngqírì", meaning: "yakshanba"},
+                            {hanzi: "星期天", pinyin: "Xīngqítiān", meaning: "yakshanba"},
+                            {hanzi: "休息", pinyin: "xiūxi", meaning: "dam olmoq"}
+                        ]
+                    },
+                    "5-4": {
+                        words: [
+                            {hanzi: "会", pinyin: "huì", meaning: "qila olmoq"},
+                            {hanzi: "做饭", pinyin: "zuòfàn", meaning: "ovqat pishirmoq"},
+                            {hanzi: "做", pinyin: "zuò", meaning: "qilmoq"},
+                            {hanzi: "面条儿", pinyin: "miàntiáor", meaning: "lag'mon"},
+                            {hanzi: "饺子", pinyin: "jiǎozi", meaning: "manti"},
+                            {hanzi: "一些", pinyin: "yīxiē", meaning: "bir qancha"},
+                            {hanzi: "菜", pinyin: "cài", meaning: "ovqat"}
+                        ]
+                    },
+                    "5-6": {
+                        words: [
+                            {hanzi: "下班", pinyin: "xiàbān", meaning: "ishdan chiqmoq"},
+                            {hanzi: "新", pinyin: "xīn", meaning: "yangi"},
+                            {hanzi: "电脑", pinyin: "diànnǎo", meaning: "kompyuter"},
+                            {hanzi: "真", pinyin: "zhēn", meaning: "haqiqatan"},
+                            {hanzi: "好看", pinyin: "hǎokàn", meaning: "chiroyli"},
+                            {hanzi: "喜欢", pinyin: "xǐhuān", meaning: "yoqtirmoq"},
+                            {hanzi: "它", pinyin: "tā", meaning: "u (narsa)"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 6,
+                title: "你的手机号是多少？",
+                audioGroups: {
+                    "6-2": {
+                        words: [
+                            {hanzi: "手机", pinyin: "shǒujī", meaning: "mobil telefon"},
+                            {hanzi: "多少", pinyin: "duōshǎo", meaning: "qancha"},
+                            {hanzi: "喂", pinyin: "wèi", meaning: "allo"}
+                        ]
+                    },
+                    "6-4": {
+                        words: [
+                            {hanzi: "明天", pinyin: "míngtiān", meaning: "ertaga"},
+                            {hanzi: "去", pinyin: "qù", meaning: "bormoq"},
+                            {hanzi: "哪儿", pinyin: "nǎr", meaning: "qayer"},
+                            {hanzi: "想", pinyin: "xiǎng", meaning: "xohlamoq"},
+                            {hanzi: "超市", pinyin: "chāoshì", meaning: "supermarket"},
+                            {hanzi: "买", pinyin: "mǎi", meaning: "sotib olmoq"},
+                            {hanzi: "东西", pinyin: "dōngxi", meaning: "narsa"},
+                            {hanzi: "些", pinyin: "xiē", meaning: "bir necha"},
+                            {hanzi: "牛奶", pinyin: "niúnǎi", meaning: "sut"}
+                        ]
+                    },
+                    "6-6": {
+                        words: [
+                            {hanzi: "吃", pinyin: "chī", meaning: "yemoq"},
+                            {hanzi: "晚饭", pinyin: "wǎnfàn", meaning: "kechki ovqat"},
+                            {hanzi: "那边", pinyin: "nàbiān", meaning: "u yoq"},
+                            {hanzi: "包子", pinyin: "bāozi", meaning: "manti"},
+                            {hanzi: "非常", pinyin: "fēicháng", meaning: "juda"},
+                            {hanzi: "好吃", pinyin: "hǎochī", meaning: "mazali"},
+                            {hanzi: "米饭", pinyin: "mǐfàn", meaning: "guruch"},
+                            {hanzi: "怎么", pinyin: "zěnme", meaning: "qanday"},
+                            {hanzi: "坐", pinyin: "zuò", meaning: "o'tirmoq"},
+                            {hanzi: "出租车", pinyin: "chūzūchē", meaning: "taksi"}
+                        ],
+                        properNouns: [
+                            {hanzi: "西安饭店", pinyin: "Xī'ān Fàndiàn", meaning: "Sian restorani"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 7,
+                title: "我晚上六点半下班",
+                audioGroups: {
+                    "7-2": {
+                        words: [
+                            {hanzi: "现在", pinyin: "xiànzài", meaning: "hozir"},
+                            {hanzi: "点", pinyin: "diǎn", meaning: "soat"},
+                            {hanzi: "早上", pinyin: "zǎoshang", meaning: "erta tong"},
+                            {hanzi: "上午", pinyin: "shàngwǔ", meaning: "tushgacha"},
+                            {hanzi: "分", pinyin: "fēn", meaning: "minut"},
+                            {hanzi: "课", pinyin: "kè", meaning: "dars"},
+                            {hanzi: "下午", pinyin: "xiàwǔ", meaning: "tushdan keyin"},
+                            {hanzi: "见", pinyin: "jiàn", meaning: "ko'rmoq"},
+                            {hanzi: "吧", pinyin: "ba", meaning: "-chi"}
+                        ]
+                    },
+                    "7-4": {
+                        words: [
+                            {hanzi: "电影院", pinyin: "diànyǐngyuàn", meaning: "kino teatr"},
+                            {hanzi: "看", pinyin: "kàn", meaning: "ko'rmoq"},
+                            {hanzi: "电影", pinyin: "diànyǐng", meaning: "kino"},
+                            {hanzi: "事", pinyin: "shì", meaning: "ish"},
+                            {hanzi: "上课", pinyin: "shàngkè", meaning: "darsga bormoq"},
+                            {hanzi: "呢", pinyin: "ne", meaning: "-chi"},
+                            {hanzi: "半", pinyin: "bàn", meaning: "yarim"},
+                            {hanzi: "下课", pinyin: "xiàkè", meaning: "darsdan chiqmoq"}
+                        ]
+                    },
+                    "7-6": {
+                        words: [
+                            {hanzi: "在", pinyin: "zài", meaning: "...da"},
+                            {hanzi: "家", pinyin: "jiā", meaning: "uy"},
+                            {hanzi: "里", pinyin: "lǐ", meaning: "ichida"},
+                            {hanzi: "晚上", pinyin: "wǎnshang", meaning: "kechqurun"},
+                            {hanzi: "医院", pinyin: "yīyuàn", meaning: "kasalxona"},
+                            {hanzi: "上班", pinyin: "shàngbān", meaning: "ishga bormoq"},
+                            {hanzi: "店", pinyin: "diàn", meaning: "do'kon"},
+                            {hanzi: "菜", pinyin: "cài", meaning: "sabzavot"},
+                            {hanzi: "分钟", pinyin: "fēnzhōng", meaning: "minut"},
+                            {hanzi: "后", pinyin: "hòu", meaning: "keyin"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 8,
+                title: "我爸爸也在医院工作",
+                audioGroups: {
+                    "8-2": {
+                        words: [
+                            {hanzi: "工作", pinyin: "gōngzuò", meaning: "ishlamoq"},
+                            {hanzi: "猫", pinyin: "māo", meaning: "mushuk"},
+                            {hanzi: "只", pinyin: "zhī", meaning: "hisob so'z"},
+                            {hanzi: "上", pinyin: "shàng", meaning: "ustida"},
+                            {hanzi: "桌子", pinyin: "zhuōzi", meaning: "stol"},
+                            {hanzi: "下", pinyin: "xià", meaning: "ostida"},
+                            {hanzi: "房间", pinyin: "fángjiān", meaning: "xona"},
+                            {hanzi: "外", pinyin: "wài", meaning: "tashqari"}
+                        ]
+                    },
+                    "8-4": {
+                        words: [
+                            {hanzi: "前", pinyin: "qián", meaning: "oldida"},
+                            {hanzi: "后", pinyin: "hòu", meaning: "orqasida"},
+                            {hanzi: "里边", pinyin: "lǐbiān", meaning: "ichida"},
+                            {hanzi: "外边", pinyin: "wàibiān", meaning: "tashqarida"},
+                            {hanzi: "书店", pinyin: "shūdiàn", meaning: "kitob do'koni"},
+                            {hanzi: "到", pinyin: "dào", meaning: "yetib kelmoq"},
+                            {hanzi: "能", pinyin: "néng", meaning: "qila olmoq"}
+                        ]
+                    },
+                    "8-6": {
+                        words: [
+                            {hanzi: "医生", pinyin: "yīshēng", meaning: "shifokor"},
+                            {hanzi: "大", pinyin: "dà", meaning: "katta"},
+                            {hanzi: "多", pinyin: "duō", meaning: "ko'p"},
+                            {hanzi: "少", pinyin: "shǎo", meaning: "oz"},
+                            {hanzi: "病人", pinyin: "bìngrén", meaning: "bemor"},
+                            {hanzi: "看", pinyin: "kàn", meaning: "qaramoq"},
+                            {hanzi: "看见", pinyin: "kànjiàn", meaning: "ko'rmoq"}
+                        ],
+                        properNouns: [
+                            {hanzi: "胡医生", pinyin: "Hú yīshēng", meaning: "Xu shifokor"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 9,
+                title: "我明天上午在学校学习",
+                audioGroups: {
+                    "9-2": {
+                        words: [
+                            {hanzi: "前边", pinyin: "qiánbian", meaning: "oldida"},
+                            {hanzi: "边", pinyin: "biān", meaning: "tomon"}
+                        ]
+                    },
+                    "9-4": {
+                        words: [
+                            {hanzi: "本", pinyin: "běn", meaning: "hisob so'z"},
+                            {hanzi: "书", pinyin: "shū", meaning: "kitob"},
+                            {hanzi: "第一", pinyin: "dì-yī", meaning: "birinchi"},
+                            {hanzi: "第二", pinyin: "dì-èr", meaning: "ikkinchi"},
+                            {hanzi: "第三", pinyin: "dì-sān", meaning: "uchinchi"},
+                            {hanzi: "学习", pinyin: "xuéxí", meaning: "o'qimoq"}
+                        ]
+                    },
+                    "9-6": {
+                        words: [
+                            {hanzi: "白天", pinyin: "báitiān", meaning: "kunduzi"},
+                            {hanzi: "电视", pinyin: "diànshì", meaning: "televizor"},
+                            {hanzi: "唱", pinyin: "chàng", meaning: "kuylamoq"},
+                            {hanzi: "歌", pinyin: "gē", meaning: "qo'shiq"},
+                            {hanzi: "好听", pinyin: "hǎotīng", meaning: "yoqimli"},
+                            {hanzi: "玩儿", pinyin: "wánr", meaning: "o'ynamoq"},
+                            {hanzi: "狗", pinyin: "gǒu", meaning: "it"},
+                            {hanzi: "朋友", pinyin: "péngyou", meaning: "do'st"},
+                            {hanzi: "读", pinyin: "dú", meaning: "o'qimoq"},
+                            {hanzi: "读书", pinyin: "dúshū", meaning: "kitob o'qimoq"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 10,
+                title: "这儿的苹果真便宜！",
+                audioGroups: {
+                    "10-2": {
+                        words: [
+                            {hanzi: "杯子", pinyin: "bēizi", meaning: "stakan"},
+                            {hanzi: "售货员", pinyin: "shòuhuòyuán", meaning: "sotuvchi"},
+                            {hanzi: "这边", pinyin: "zhèbiān", meaning: "bu yoq"},
+                            {hanzi: "钱", pinyin: "qián", meaning: "pul"},
+                            {hanzi: "这些", pinyin: "zhèxiē", meaning: "bular"},
+                            {hanzi: "块", pinyin: "kuài", meaning: "yuan"},
+                            {hanzi: "那些", pinyin: "nàxiē", meaning: "ular"}
+                        ]
+                    },
+                    "10-4": {
+                        words: [
+                            {hanzi: "这儿", pinyin: "zhèr", meaning: "bu yer"},
+                            {hanzi: "水果", pinyin: "shuǐguǒ", meaning: "meva"},
+                            {hanzi: "少", pinyin: "shǎo", meaning: "oz"},
+                            {hanzi: "斤", pinyin: "jīn", meaning: "yarim kg"},
+                            {hanzi: "苹果", pinyin: "píngguǒ", meaning: "olma"},
+                            {hanzi: "便宜", pinyin: "piányi", meaning: "arzon"}
+                        ]
+                    },
+                    "10-6": {
+                        words: [
+                            {hanzi: "商店", pinyin: "shāngdiàn", meaning: "do'kon"},
+                            {hanzi: "衣服", pinyin: "yīfu", meaning: "kiyim"},
+                            {hanzi: "件", pinyin: "jiàn", meaning: "hisob so'z"},
+                            {hanzi: "元", pinyin: "yuán", meaning: "yuan"},
+                            {hanzi: "怎么样", pinyin: "zěnmeyàng", meaning: "qanday"},
+                            {hanzi: "贵", pinyin: "guì", meaning: "qimmat"},
+                            {hanzi: "穿", pinyin: "chuān", meaning: "kiymoq"},
+                            {hanzi: "女", pinyin: "nǚ", meaning: "ayol"},
+                            {hanzi: "男", pinyin: "nán", meaning: "erkak"},
+                            {hanzi: "那儿", pinyin: "nàr", meaning: "u yer"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 11,
+                title: "我读大学呢",
+                audioGroups: {
+                    "11-2": {
+                        words: [
+                            {hanzi: "时候", pinyin: "shíhou", meaning: "vaqt"},
+                            {hanzi: "饭店", pinyin: "fàndiàn", meaning: "restoran"},
+                            {hanzi: "知道", pinyin: "zhīdào", meaning: "bilmoq"},
+                            {hanzi: "正在", pinyin: "zhèngzài", meaning: "hozir"},
+                            {hanzi: "找", pinyin: "zhǎo", meaning: "qidirmoq"},
+                            {hanzi: "开车", pinyin: "kāichē", meaning: "haydamoq"},
+                            {hanzi: "车", pinyin: "chē", meaning: "mashina"}
+                        ]
+                    },
+                    "11-4": {
+                        words: [
+                            {hanzi: "大学", pinyin: "dàxué", meaning: "universitet"},
+                            {hanzi: "大学生", pinyin: "dàxuéshēng", meaning: "talaba"},
+                            {hanzi: "读", pinyin: "dú", meaning: "o'qimoq"}
+                        ]
+                    },
+                    "11-6": {
+                        words: [
+                            {hanzi: "起床", pinyin: "qǐchuáng", meaning: "uyg'onmoq"},
+                            {hanzi: "睡觉", pinyin: "shuìjiào", meaning: "uxlamoq"},
+                            {hanzi: "睡", pinyin: "shuì", meaning: "uxlamoq"},
+                            {hanzi: "那里", pinyin: "nàlǐ", meaning: "u yer"},
+                            {hanzi: "哪里", pinyin: "nǎlǐ", meaning: "qayer"},
+                            {hanzi: "昨天", pinyin: "zuótiān", meaning: "kecha"},
+                            {hanzi: "问", pinyin: "wèn", meaning: "so'ramoq"},
+                            {hanzi: "对", pinyin: "duì", meaning: "...ga"},
+                            {hanzi: "说", pinyin: "shuō", meaning: "gapirmoq"},
+                            {hanzi: "要", pinyin: "yào", meaning: "xohlamoq"},
+                            {hanzi: "小朋友", pinyin: "xiǎopéngyǒu", meaning: "bola"},
+                            {hanzi: "弟弟", pinyin: "dìdi", meaning: "uka"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 12,
+                title: "昨天下雪了",
+                audioGroups: {
+                    "12-2": {
+                        words: [
+                            {hanzi: "天气", pinyin: "tiānqì", meaning: "ob-havo"},
+                            {hanzi: "这里", pinyin: "zhèlǐ", meaning: "bu yer"},
+                            {hanzi: "天", pinyin: "tiān", meaning: "kun"},
+                            {hanzi: "下雨", pinyin: "xiàyǔ", meaning: "yomg'ir"},
+                            {hanzi: "了", pinyin: "le", meaning: "o'tgan zamon"},
+                            {hanzi: "雨", pinyin: "yǔ", meaning: "yomg'ir"},
+                            {hanzi: "有点儿", pinyin: "yǒudiǎnr", meaning: "bir oz"},
+                            {hanzi: "觉得", pinyin: "juéde", meaning: "his qilmoq"},
+                            {hanzi: "冷", pinyin: "lěng", meaning: "sovuq"}
+                        ]
+                    },
+                    "12-4": {
+                        words: [
+                            {hanzi: "下", pinyin: "xià", meaning: "tushmoq"},
+                            {hanzi: "雪", pinyin: "xuě", meaning: "qor"},
+                            {hanzi: "来", pinyin: "lái", meaning: "kelmoq"},
+                            {hanzi: "公司", pinyin: "gōngsī", meaning: "kompaniya"},
+                            {hanzi: "生病", pinyin: "shēngbìng", meaning: "kasal bo'lmoq"},
+                            {hanzi: "看病", pinyin: "kànbìng", meaning: "shifokorga bormoq"}
+                        ]
+                    },
+                    "12-6": {
+                        words: [
+                            {hanzi: "病", pinyin: "bìng", meaning: "kasal"},
+                            {hanzi: "药", pinyin: "yào", meaning: "dori"},
+                            {hanzi: "水", pinyin: "shuǐ", meaning: "suv"},
+                            {hanzi: "回", pinyin: "huí", meaning: "qaytmoq"},
+                            {hanzi: "喝", pinyin: "hē", meaning: "ichmoq"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 13,
+                title: "请给我一杯茶",
+                audioGroups: {
+                    "13-2": {
+                        words: [
+                            {hanzi: "可以", pinyin: "kěyǐ", meaning: "mumkin"},
+                            {hanzi: "再", pinyin: "zài", meaning: "yana"},
+                            {hanzi: "问题", pinyin: "wèntí", meaning: "savol"},
+                            {hanzi: "卖", pinyin: "mài", meaning: "sotmoq"},
+                            {hanzi: "打电话", pinyin: "dǎ diànhuà", meaning: "telefon qilmoq"},
+                            {hanzi: "一下", pinyin: "yīxià", meaning: "bir oz"}
+                        ]
+                    },
+                    "13-4": {
+                        words: [
+                            {hanzi: "服务员", pinyin: "fúwùyuán", meaning: "ofitsiant"},
+                            {hanzi: "女士", pinyin: "nǚshì", meaning: "xonim"},
+                            {hanzi: "请", pinyin: "qǐng", meaning: "iltimos"},
+                            {hanzi: "坐", pinyin: "zuò", meaning: "o'tirmoq"},
+                            {hanzi: "给", pinyin: "gěi", meaning: "bermoq"},
+                            {hanzi: "杯", pinyin: "bēi", meaning: "stakan"},
+                            {hanzi: "要", pinyin: "yào", meaning: "istamoq"},
+                            {hanzi: "早饭", pinyin: "zǎofàn", meaning: "nonushta"},
+                            {hanzi: "这个", pinyin: "zhège", meaning: "bu"},
+                            {hanzi: "面包", pinyin: "miànbāo", meaning: "non"},
+                            {hanzi: "鸡蛋", pinyin: "jīdàn", meaning: "tuxum"}
+                        ]
+                    },
+                    "13-6": {
+                        words: [
+                            {hanzi: "茶", pinyin: "chá", meaning: "choy"},
+                            {hanzi: "先生", pinyin: "xiānsheng", meaning: "janob"},
+                            {hanzi: "一点儿", pinyin: "yīdiǎnr", meaning: "bir oz"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 14,
+                title: "我看了一个电影",
+                audioGroups: {
+                    "14-2": {
+                        words: [
+                            {hanzi: "上", pinyin: "shàng", meaning: "chiqmoq"},
+                            {hanzi: "火车", pinyin: "huǒchē", meaning: "poyezd"},
+                            {hanzi: "中午", pinyin: "zhōngwǔ", meaning: "tush"},
+                            {hanzi: "开", pinyin: "kāi", meaning: "jo'namoq"},
+                            {hanzi: "有些", pinyin: "yǒuxiē", meaning: "ba'zi"},
+                            {hanzi: "有的", pinyin: "yǒude", meaning: "ba'zi"},
+                            {hanzi: "了", pinyin: "le", meaning: "o'tgan zamon"}
+                        ]
+                    },
+                    "14-4": {
+                        words: [
+                            {hanzi: "听", pinyin: "tīng", meaning: "eshitmoq"},
+                            {hanzi: "听见", pinyin: "tīngjiàn", meaning: "eshitmoq"},
+                            {hanzi: "说话", pinyin: "shuōhuà", meaning: "gapirmoq"},
+                            {hanzi: "不要", pinyin: "búyào", meaning: "qilmang"},
+                            {hanzi: "大家", pinyin: "dàjiā", meaning: "hamma"},
+                            {hanzi: "写", pinyin: "xiě", meaning: "yozmoq"},
+                            {hanzi: "字", pinyin: "zì", meaning: "yozuv"},
+                            {hanzi: "都", pinyin: "dōu", meaning: "hamma"}
+                        ]
+                    },
+                    "14-6": {
+                        words: [
+                            {hanzi: "明年", pinyin: "míngnián", meaning: "kelasi yil"},
+                            {hanzi: "中学", pinyin: "zhōngxué", meaning: "o'rta maktab"},
+                            {hanzi: "中学生", pinyin: "zhōngxuéshēng", meaning: "o'quvchi"},
+                            {hanzi: "小学", pinyin: "xiǎoxué", meaning: "boshlang'ich"},
+                            {hanzi: "小学生", pinyin: "xiǎoxuéshēng", meaning: "o'quvchi"},
+                            {hanzi: "前", pinyin: "qián", meaning: "oldin"},
+                            {hanzi: "后", pinyin: "hòu", meaning: "keyin"},
+                            {hanzi: "他们", pinyin: "tāmen", meaning: "ular (erkak)"},
+                            {hanzi: "她们", pinyin: "tāmen", meaning: "ular (ayol)"},
+                            {hanzi: "它们", pinyin: "tāmen", meaning: "ular (narsa)"}
+                        ]
+                    }
+                }
+            },
+            {
+                lesson: 15,
+                title: "大兴机场见！",
+                audioGroups: {
+                    "15-2": {
+                        words: [
+                            {hanzi: "爱", pinyin: "ài", meaning: "sevmoq"},
+                            {hanzi: "好吃", pinyin: "hǎochī", meaning: "mazali"},
+                            {hanzi: "好看", pinyin: "hǎokàn", meaning: "chiroyli"},
+                            {hanzi: "好玩儿", pinyin: "hǎowánr", meaning: "qiziqarli"},
+                            {hanzi: "大家", pinyin: "dàjiā", meaning: "hamma"},
+                            {hanzi: "吃点儿", pinyin: "chīdiǎnr", meaning: "ozgina yemoq"}
+                        ]
+                    },
+                    "15-4": {
+                        words: [
+                            {hanzi: "多", pinyin: "duō", meaning: "ko'p"},
+                            {hanzi: "少", pinyin: "shǎo", meaning: "oz"},
+                            {hanzi: "男朋友", pinyin: "nánpéngyou", meaning: "yigit do'st"},
+                            {hanzi: "去年", pinyin: "qùnián", meaning: "o'tgan yil"},
+                            {hanzi: "今年", pinyin: "jīnnián", meaning: "bu yil"},
+                            {hanzi: "也", pinyin: "yě", meaning: "ham"}
+                        ],
+                        properNouns: [
+                            {hanzi: "北京", pinyin: "Běijīng", meaning: "Pekin"},
+                            {hanzi: "西安", pinyin: "Xī'ān", meaning: "Sian"}
+                        ]
+                    },
+                    "15-6": {
+                        words: [
+                            {hanzi: "飞机", pinyin: "fēijī", meaning: "samolyot"},
+                            {hanzi: "小时", pinyin: "xiǎoshí", meaning: "soat"},
+                            {hanzi: "家人", pinyin: "jiārén", meaning: "oila a'zolari"},
+                            {hanzi: "时间", pinyin: "shíjiān", meaning: "vaqt"},
+                            {hanzi: "接", pinyin: "jiē", meaning: "kutib olmoq"},
+                            {hanzi: "住", pinyin: "zhù", meaning: "yashamoq"},
+                            {hanzi: "早", pinyin: "zǎo", meaning: "erta"},
+                            {hanzi: "几", pinyin: "jǐ", meaning: "necha"},
+                            {hanzi: "都", pinyin: "dōu", meaning: "hamma"}
+                        ],
+                        properNouns: [
+                            {hanzi: "大兴机场", pinyin: "Dàxīng Jīchǎng", meaning: "Daxing aeroporti"}
+                        ]
+                    }
+                }
+            }
+        ];
+
+        let currentAudio = null;
+        let currentPlayingBtn = null;
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            generateLessonNav();
+            generateLessons();
+            calculateStats();
+            showLesson(1);
+        });
+
+        function generateLessonNav() {
+            const nav = document.getElementById('lesson-nav');
+            lessonsData.forEach(lesson => {
+                const btn = document.createElement('button');
+                btn.className = 'lesson-btn';
+                btn.textContent = `${lesson.lesson}-Dars`;
+                btn.onclick = () => showLesson(lesson.lesson);
+                nav.appendChild(btn);
+            });
+        }
+
+        function generateLessons() {
+            const container = document.getElementById('lessons-container');
+            
+            lessonsData.forEach(lesson => {
+                const lessonDiv = document.createElement('div');
+                lessonDiv.className = 'lesson-content';
+                lessonDiv.id = `lesson-${lesson.lesson}`;
+                
+                let html = `
+                    <div class="lesson-header">
+                        <h2>${lesson.lesson}-Dars</h2>
+                        <div class="lesson-title">${lesson.title}</div>
+                    </div>
+                `;
+
+                for (const [audioId, group] of Object.entries(lesson.audioGroups)) {
+                    const totalWords = (group.words?.length || 0) + (group.properNouns?.length || 0);
+                    
+                    html += `
+                        <div class="audio-group">
+                            <div class="audio-header" onclick="toggleAudioGroup(this)">
+                                <div class="audio-info">
+                                    <div class="audio-badge">
+                                        <svg viewBox="0 0 24 24" fill="currentColor">
+                                            <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
+                                        </svg>
+                                        ${audioId}.mp3
+                                    </div>
+                                    <span class="word-count">${totalWords} ta so'z</span>
+                                </div>
+                                <button class="play-btn" onclick="event.stopPropagation(); playAudio('${audioId}', this)">
+                                    <svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                                </button>
+                            </div>
+                            <div class="words-container">
+                                <div class="words-grid">
+                    `;
+
+                    if (group.words) {
+                        group.words.forEach(word => {
+                            html += `
+                                <div class="word-card">
+                                    <div class="hanzi">${word.hanzi}</div>
+                                    <div class="pinyin">${word.pinyin}</div>
+                                    <div class="meaning">${word.meaning}</div>
+                                </div>
+                            `;
+                        });
+                    }
+
+                    if (group.properNouns) {
+                        group.properNouns.forEach(word => {
+                            html += `
+                                <div class="word-card proper-noun">
+                                    <span class="proper-tag">Atoqli ot</span>
+                                    <div class="hanzi">${word.hanzi}</div>
+                                    <div class="pinyin">${word.pinyin}</div>
+                                    <div class="meaning">${word.meaning}</div>
+                                </div>
+                            `;
+                        });
+                    }
+
+                    html += `
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                lessonDiv.innerHTML = html;
+                container.appendChild(lessonDiv);
+            });
+        }
+
+        function showLesson(lessonNum) {
+            // Update nav buttons
+            document.querySelectorAll('.lesson-btn').forEach((btn, idx) => {
+                btn.classList.toggle('active', idx + 1 === lessonNum);
+            });
+
+            // Show/hide lessons
+            document.querySelectorAll('.lesson-content').forEach(lesson => {
+                lesson.classList.toggle('active', lesson.id === `lesson-${lessonNum}`);
+            });
+        }
+
+        function calculateStats() {
+            let totalWords = 0;
+            let totalAudios = 0;
+
+            lessonsData.forEach(lesson => {
+                for (const group of Object.values(lesson.audioGroups)) {
+                    totalWords += (group.words?.length || 0) + (group.properNouns?.length || 0);
+                    totalAudios++;
+                }
+            });
+
+            document.getElementById('total-words').textContent = totalWords;
+            document.getElementById('total-audios').textContent = totalAudios;
+        }
+
+        function playAudio(audioId, btn) {
+            const audioPlayer = document.getElementById('audio-player');
+            const globalPlayer = document.getElementById('global-player');
+            const audioName = document.getElementById('current-audio-name');
+
+            // If same audio is playing, stop it
+            if (currentPlayingBtn === btn && !audioPlayer.paused) {
+                stopAudio();
+                return;
+            }
+
+            // Stop previous
+            if (currentPlayingBtn) {
+                currentPlayingBtn.classList.remove('playing');
+                currentPlayingBtn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+            }
+
+            // Play new audio
+            audioPlayer.src = `${audioId}.mp3`;
+            audioPlayer.play().catch(e => {
+                console.log('Audio not found or error:', e);
+                alert(`Audio fayl topilmadi: ${audioId}.mp3`);
+            });
+
+            btn.classList.add('playing');
+            btn.innerHTML = '<svg viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>';
+            currentPlayingBtn = btn;
+
+            audioName.textContent = `${audioId}.mp3`;
+            globalPlayer.classList.add('visible');
+
+            audioPlayer.onended = () => {
+                stopAudio();
+            };
+        }
+
+        function stopAudio() {
+            const audioPlayer = document.getElementById('audio-player');
+            const globalPlayer = document.getElementById('global-player');
+
+            audioPlayer.pause();
+            audioPlayer.currentTime = 0;
+
+            if (currentPlayingBtn) {
+                currentPlayingBtn.classList.remove('playing');
+                currentPlayingBtn.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>';
+                currentPlayingBtn = null;
+            }
+
+            globalPlayer.classList.remove('visible');
+        }
+
+        function toggleAudioGroup(header) {
+            // Optional: Add collapse/expand functionality
+        }
+    </script>
+</body>
+</html>
